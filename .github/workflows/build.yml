@@ -6,6 +6,8 @@ on:
     paths:
       - "data/dictionary.tsv"
       - "scripts/**"
+      - "requirements.txt"
+      - ".github/workflows/build.yml"
   workflow_dispatch:
 
 permissions:
