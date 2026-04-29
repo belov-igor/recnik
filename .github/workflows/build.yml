@@ -1,0 +1,58 @@
+name: Build dictionaries
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/dictionary.tsv"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install pymorphy3 setuptools pyglossary
+
+      - name: Make kindlegen executable
+        run: chmod +x scripts/kindlegen
+
+      - name: Install 32-bit libs for kindlegen (Linux i386 binary)
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update -q
+          sudo apt-get install -y libc6:i386
+
+      - name: Build dictionaries
+        run: python scripts/build.py
+
+      - name: Upload to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest build
+          prerelease: true
+          files: output/*.mobi
+          body: |
+            Automatically built from `data/dictionary.tsv` on push to main.
+
+            **4 dictionaries:**
+            - `ru-sr-latin.mobi` — Russian → Serbian (Latin)
+            - `ru-sr-cyrillic.mobi` — Russian → Serbian (Cyrillic)
+            - `sr-latin-ru.mobi` — Serbian (Latin) → Russian
+            - `sr-cyrillic-ru.mobi` — Serbian (Cyrillic) → Russian
+
+            **Install:** copy `.mobi` to `documents/dictionaries/` on your Kindle via USB.

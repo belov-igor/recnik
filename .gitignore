@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build output
+output/*.mobi
+output/*.azw3
+output/epub/
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
