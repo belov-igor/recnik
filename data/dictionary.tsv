@@ -17,9 +17,11 @@ ru	sr_lat	pos	gender	aspect	notes
 атомный	atomski	adj	-	-	
 багровый	tamnocrven	adj	-	-	
 бедный	bijedan	adj	-	-	
+бедный	bedan	adj	-	-	
 безнадежный	beznadežan	adj	-	-	
 безумный	lud	adj	-	-	
 белый	bijel	adj	-	-	
+белый	beo	adj	-	-	
 бесконечный	beskonačan	adj	-	-	
 бесплатный	besplatan	adj	-	-	
 беспомощный	bespomoćan	adj	-	-	
@@ -27,9 +29,11 @@ ru	sr_lat	pos	gender	aspect	notes
 бессмысленный	besmislen	adj	-	-	
 бетонный	betonski	adj	-	-	
 бешеный	bijesan	adj	-	-	
+бешеный	besan	adj	-	-	
 благодарный	zahvalan	adj	-	-	
 благородный	zahvalan	adj	-	-	
 бледный	blijed	adj	-	-	
+бледный	bled	adj	-	-	
 блестящий	sjajan	adj	-	-	
 ближайший	bližnji	adj	-	-	
 ближний	bližnji	adj	-	-	
@@ -90,6 +94,7 @@ ru	sr_lat	pos	gender	aspect	notes
 восточный	istočni	adj	-	-	
 враждебный	neprijateljski	adj	-	-	
 вредный	vrijedan	adj	-	-	
+вредный	vredan	adj	-	-	
 временный	vremenski	adj	-	-	
 всемирный	svemirski	adj	-	-	
 всеобщий	ukupan	adj	-	-	
@@ -261,7 +266,9 @@ ru	sr_lat	pos	gender	aspect	notes
 косой	kos	adj	-	-	
 крайний	krajnji	adj	-	-	
 красивый	lijep	adj	-	-	
+красивый	lep	adj	-	-	
 красный	lijep	adj	-	-	
+красный	lep	adj	-	-	
 крепкий	jak	adj	-	-	
 крестьянский	hrišćanski	adj	-	-	
 кривой	kriv	adj	-	-	
@@ -277,6 +284,7 @@ ru	sr_lat	pos	gender	aspect	notes
 лагерный	lagerni	adj	-	-	
 ласковый	laskav	adj	-	-	
 левый	lijevi	adj	-	-	
+левый	levi	adj	-	-	
 легкий	lak	adj	-	-	
 ледяной	leden	adj	-	-	
 ленинградский	lenjingradski	adj	-	-	
@@ -326,6 +334,7 @@ ru	sr_lat	pos	gender	aspect	notes
 молоденький	mlad	adj	-	-	
 молодой	mlad	adj	-	-	
 молочный	mliječan	adj	-	-	
+молочный	mlečan	adj	-	-	
 молчаливый	ćutljiv	adj	-	-	
 моральный	moralan	adj	-	-	
 мороженый	zaleđen	adj	-	-	
@@ -369,6 +378,7 @@ ru	sr_lat	pos	gender	aspect	notes
 неизбежный	neizbježan	adj	-	-	
 неизвестный	neizvjestan	adj	-	-	
 нелепый	nelijep	adj	-	-	
+нелепый	nelep	adj	-	-	
 немалый	nemali	adj	-	-	
 немецкий	njemački	adj	-	-	
 ненужный	nepotreban	adj	-	-	
@@ -377,6 +387,7 @@ ru	sr_lat	pos	gender	aspect	notes
 необычный	neobičan	adj	-	-	
 неожиданный	neočekivan	adj	-	-	
 неопределенный	neopredijeljen	adj	-	-	
+неопределенный	neopredeljen	adj	-	-	
 неплохой	neloš	adj	-	-	
 неподвижный	nemaknut	adj	-	-	
 непонятный	nejasan	adj	-	-	
@@ -456,6 +467,7 @@ ru	sr_lat	pos	gender	aspect	notes
 печальный	tužan	adj	-	-	
 письменный	pismen	adj	-	-	
 пленный	zaplijenjen	adj	-	-	
+пленный	zaplenjen	adj	-	-	
 плоский	ravan	adj	-	-	
 плотный	gust	adj	-	-	
 плохой	loš	adj	-	-	
@@ -554,6 +566,7 @@ ru	sr_lat	pos	gender	aspect	notes
 реальный	realan	adj	-	-	
 революционный	revolucionaran	adj	-	-	
 редкий	rijedak	adj	-	-	
+редкий	redak	adj	-	-	
 резиновый	gumen	adj	-	-	
 резкий	oštar	adj	-	-	
 религиозный	religiozan	adj	-	-	
@@ -575,6 +588,7 @@ ru	sr_lat	pos	gender	aspect	notes
 свежий	svjež	adj	-	-	
 сверкающий	sjajan	adj	-	-	
 светлый	svijetao	adj	-	-	
+светлый	svetao	adj	-	-	
 свободный	slobodan	adj	-	-	
 своеобразный	čudan	adj	-	-	
 свойственный	svojstven	adj	-	-	
@@ -609,6 +623,7 @@ ru	sr_lat	pos	gender	aspect	notes
 сладкий	sladak	adj	-	-	
 следующий	sljedeći	adj	-	-	
 слепой	slijep	adj	-	-	
+слепой	slep	adj	-	-	
 слизистый	sluzav	adj	-	-	
 сложенный	složen	adj	-	-	
 сложный	složan	adj	-	-	
@@ -619,6 +634,7 @@ ru	sr_lat	pos	gender	aspect	notes
 смертельный	smrtni	adj	-	-	
 смертный	smrtan	adj	-	-	
 смешной	smiješan	adj	-	-	
+смешной	smešan	adj	-	-	
 смуглый	smeđ	adj	-	-	
 смутный	mutan	adj	-	-	
 снежный	snežan	adj	-	-	
@@ -690,6 +706,7 @@ ru	sr_lat	pos	gender	aspect	notes
 темный	taman	adj	-	-	
 теплый	topao	adj	-	-	
 тесный	tijesan	adj	-	-	
+тесный	tesan	adj	-	-	
 технический	tehnički	adj	-	-	
 типичный	tipičan	adj	-	-	
 тихий	tih	adj	-	-	
@@ -757,6 +774,7 @@ ru	sr_lat	pos	gender	aspect	notes
 царский	carski	adj	-	-	
 цветной	cvjetan	adj	-	-	
 целый	cijel	adj	-	-	
+целый	cel	adj	-	-	
 ценный	cijenjen	adj	-	-	
 ценный	cenjen	adj	-	-	
 центральный	centralan	adj	-	-	
@@ -814,6 +832,7 @@ ru	sr_lat	pos	gender	aspect	notes
 везде	svugdje	adv	-	-	
 везде	posvuda	adv	-	-	
 верно	vijerno	adv	-	-	
+верно	verno	adv	-	-	
 вероятно	vjerovatno	adv	-	-	
 весело	veselo	adv	-	-	
 весьма	veoma	adv	-	-	
@@ -821,6 +840,7 @@ ru	sr_lat	pos	gender	aspect	notes
 видимо	vidljivo	adv	-	-	
 виновато	okrivljeno	adv	-	-	
 влево	lijevo	adv	-	-	
+влево	levo	adv	-	-	
 вместе	zajedno	adv	-	-	
 вначале	ispočetka	adv	-	-	
 внезапно	iznenadno	adv	-	-	
@@ -829,6 +849,7 @@ ru	sr_lat	pos	gender	aspect	notes
 внимательно	pažljivo	adv	-	-	
 вновь	ponovo	adv	-	-	
 вовремя	na vrijeme	adv	-	-	
+вовремя	na vreme	adv	-	-	
 вовсе	uopšte	adv	-	-	
 вовсе	uopće	adv	-	-	
 возможно	moguće	adv	-	-	
@@ -846,6 +867,7 @@ ru	sr_lat	pos	gender	aspect	notes
 впрямь	pravo	adv	-	-	
 вряд	vjerovatno neće	adv	-	-	
 всегда	uvijek	adv	-	-	
+всегда	uvek	adv	-	-	
 всерьез	ozbiljno	adv	-	-	
 вскоре	skoro	adv	-	-	
 вслух	naglas	adv	-	-	
@@ -873,6 +895,7 @@ ru	sr_lat	pos	gender	aspect	notes
 дважды	dvaput	adv	-	-	
 действительно	stvarno	adv	-	-	
 до сих пор	još uvijek	adv	-	-	
+до сих пор	još uvek	adv	-	-	
 довольно	dovoljno	adv	-	-	
 долго	dugo	adv	-	-	
 домой	kući	adv	-	-	
@@ -895,6 +918,7 @@ ru	sr_lat	pos	gender	aspect	notes
 замуж	udaja	adv	-	-	
 заодно	ujedno	adv	-	-	
 заранее	ranije	adv	-	-	
+заранее	rane	adv	-	-	
 затем	zatim	adv	-	-	
 затем	onda	adv	-	-	
 зачем	zašto	adv	-	-	
@@ -906,6 +930,7 @@ ru	sr_lat	pos	gender	aspect	notes
 издалека	izdaleka	adv	-	-	
 издали	izdaleka	adv	-	-	
 изредка	rijetko	adv	-	-	
+изредка	retko	adv	-	-	
 иначе	inače	adv	-	-	
 иногда	nekada	adv	-	-	
 интересно	interesantno	adv	-	-	
@@ -919,6 +944,7 @@ ru	sr_lat	pos	gender	aspect	notes
 коротко	kratko	adv	-	-	
 крайне	krajnje	adv	-	-	
 красиво	lijepo	adv	-	-	
+красиво	lepo	adv	-	-	
 крепко	jako	adv	-	-	
 круто	kul	adv	-	-	
 кстати	uzgred	adv	-	-	
@@ -945,16 +971,19 @@ ru	sr_lat	pos	gender	aspect	notes
 наверно	vjerovatno	adv	-	-	
 наверно	vjerojatno	adv	-	-	
 наверное	najvjerovatnije	adv	-	-	
+наверное	najvjerovatne	adv	-	-	
 наверняка	možda	adv	-	-	
 наверх	navrh	adv	-	-	
 наверху	svrha	adv	-	-	
 навсегда	zauvijek	adv	-	-	
+навсегда	zauvek	adv	-	-	
 навстречу	uzgred	adv	-	-	
 надолго	nedugo	adv	-	-	
 назад	nazad	adv	-	-	
 наиболее	najbolje	adv	-	-	
 наконец	konačno	adv	-	-	
 налево	lijevo	adv	-	-	
+налево	levo	adv	-	-	
 наоборот	obratno	adv	-	-	
 направо	desno	adv	-	-	
 напрасно	uzalud	adv	-	-	
@@ -963,6 +992,7 @@ ru	sr_lat	pos	gender	aspect	notes
 насквозь	skroz	adv	-	-	
 насколько	nekoliko	adv	-	-	
 насмешливо	smiješno	adv	-	-	
+насмешливо	smešno	adv	-	-	
 настолько	toliko	adv	-	-	
 научно	naučno	adv	-	-	
 небрежно	nemrano	adv	-	-	
@@ -996,6 +1026,7 @@ ru	sr_lat	pos	gender	aspect	notes
 неприятно	neprijatno	adv	-	-	
 нервно	iznervirano	adv	-	-	
 нередко	nerijetko	adv	-	-	
+нередко	neretko	adv	-	-	
 несколько	nekoliko	adv	-	-	
 несомненно	bez sumnje	adv	-	-	
 неудобно	neudobno	adv	-	-	
@@ -1012,6 +1043,7 @@ ru	sr_lat	pos	gender	aspect	notes
 нормально	normalno	adv	-	-	
 ныне	sada	adv	-	-	
 нынче	ranije	adv	-	-	
+нынче	rane	adv	-	-	
 обидно	žao	adv	-	-	
 обратно	obratno	adv	-	-	
 обычно	obično	adv	-	-	
@@ -1074,6 +1106,7 @@ ru	sr_lat	pos	gender	aspect	notes
 правильно	pravilno	adv	-	-	
 практически	praktično	adv	-	-	
 прекрасно	prelijepo	adv	-	-	
+прекрасно	prelepo	adv	-	-	
 примерно	primjereno	adv	-	-	
 пристально	stalno	adv	-	-	
 причем	zatim	adv	-	-	
@@ -1087,9 +1120,11 @@ ru	sr_lat	pos	gender	aspect	notes
 равнодушно	ravnodušno	adv	-	-	
 радостно	radosno	adv	-	-	
 ранее	ranije	adv	-	-	
+ранее	rane	adv	-	-	
 рано	rano	adv	-	-	
 растерянно	rastjerano	adv	-	-	
 редко	rijetko	adv	-	-	
+редко	retko	adv	-	-	
 резко	drsko	adv	-	-	
 решительно	rešavajuće	adv	-	-	
 робко	natenane	adv	-	-	
@@ -1099,6 +1134,7 @@ ru	sr_lat	pos	gender	aspect	notes
 самостоятельно	samostalno	adv	-	-	
 сбоку	sastrane	adv	-	-	
 светло	svijetlo	adv	-	-	
+светло	svetlo	adv	-	-	
 свободно	slobodno	adv	-	-	
 сегодня	danas	adv	-	-	
 сейчас	sada	adv	-	-	
@@ -1110,12 +1146,14 @@ ru	sr_lat	pos	gender	aspect	notes
 скоро	uskoro	adv	-	-	
 скучно	dosadno	adv	-	-	
 слева	slijeva	adv	-	-	
+слева	sleva	adv	-	-	
 слегка	lako	adv	-	-	
 слишком	previše	adv	-	-	
 случайно	slučajno	adv	-	-	
 слышно	čujno	adv	-	-	
 смело	smjelo	adv	-	-	
 смешно	smiješno	adv	-	-	
+смешно	smešno	adv	-	-	
 снаружи	spolja	adv	-	-	
 сначала	ispočetka	adv	-	-	
 снова	iznova	adv	-	-	
@@ -1146,6 +1184,7 @@ ru	sr_lat	pos	gender	aspect	notes
 теперь	sada	adv	-	-	
 терпеливо	trpljivo	adv	-	-	
 тесно	tijesno	adv	-	-	
+тесно	tesno	adv	-	-	
 тихо	tiho	adv	-	-	
 тихонько	tiho	adv	-	-	
 тогда	tada	adv	-	-	
@@ -1174,6 +1213,7 @@ ru	sr_lat	pos	gender	aspect	notes
 холодно	hladno	adv	-	-	
 хорошо	dobro	adv	-	-	
 целиком	cijelo	adv	-	-	
+целиком	celo	adv	-	-	
 часто	često	adv	-	-	
 честно	časno	adv	-	-	
 четко	jasno	adv	-	-	
@@ -1264,14 +1304,17 @@ ru	sr_lat	pos	gender	aspect	notes
 башня	toranj	n	f	-	
 бег	bježanje	n	nt	-	
 беда	bijeda	n	f	-	
+беда	beda	n	f	-	
 бедро	kuk	n	nt	-	
 безопасность	bezopasnost	n	f	-	
 белок	bjelance	n	nt	-	
 белье	veš	n	nt	-	
 бензин	benzin	n	m	-	
 берег	brijeg	n	m	-	
+берег	breg	n	m	-	
 береза	breza	n	f	-	
 бес	bijes	n	m	-	
+бес	bes	n	m	-	
 беседа	razgovor	n	f	-	
 беспокойство	briga	n	f	-	
 библиотека	biblioteka	n	f	-	
@@ -1344,6 +1387,7 @@ ru	sr_lat	pos	gender	aspect	notes
 ведро	kanta	n	f	-	
 ведьма	vještica	n	f	-	
 век	vijek	n	m	-	
+век	vek	n	m	-	
 веко	kapak	n	nt	-	
 величество	veličanstvo	n	nt	-	
 величина	veličina	n	f	-	
@@ -1361,6 +1405,7 @@ ru	sr_lat	pos	gender	aspect	notes
 весло	veslo	n	nt	-	
 весна	proljeće	n	nt	-	
 весть	vijest	n	f	-	
+весть	vest	n	f	-	
 ветвь	grana	n	f	-	
 ветер	vjetar	n	m	-	
 ветеран	veteran	n	m	-	
@@ -1437,6 +1482,7 @@ ru	sr_lat	pos	gender	aspect	notes
 враг	neprijatelj	n	m	-	
 врач	doktor	n	m	-	
 время	vrijeme	n	nt	-	
+время	vreme	n	nt	-	
 вс	vs	n	m	-	
 всадник	jahač	n	m	-	
 вселенная	svemir	n	f	-	
@@ -1464,6 +1510,7 @@ ru	sr_lat	pos	gender	aspect	notes
 ген	gen	n	m	-	
 генерал	general	n	m	-	
 гений	genije	n	m	-	
+гений	gene	n	m	-	
 герой	heroj	n	m	-	
 гибель	smrt	n	f	-	
 гимнастерка	gimnastika	n	f	-	
@@ -1477,6 +1524,7 @@ ru	sr_lat	pos	gender	aspect	notes
 глупость	glupost	n	f	-	
 гнев	gnjev	n	m	-	
 гнездо	gnijezdo	n	nt	-	
+гнездо	gnezdo	n	nt	-	
 гном	patuljak	n	nt	-	
 год	godina	n	f	-	
 голова	glava	n	f	-	
@@ -1512,6 +1560,7 @@ ru	sr_lat	pos	gender	aspect	notes
 графа	kolona	n	f	-	
 грек	grk	n	m	-	
 грех	grijeh	n	m	-	
+грех	greh	n	m	-	
 гриб	gljiva	n	f	-	
 гроб	grob	n	m	-	
 гроза	oluja	n	f	-	
@@ -1699,7 +1748,9 @@ ru	sr_lat	pos	gender	aspect	notes
 заяц	zec	n	m	-	
 звание	zvanje	n	nt	-	
 звезда	zvijezda	n	f	-	
+звезда	zvezda	n	f	-	
 зверь	zvijer	n	f	-	
+зверь	zver	n	f	-	
 звон	zvono	n	nt	-	
 звонок	zvono	n	nt	-	
 звук	zvuk	n	m	-	
@@ -1738,6 +1789,7 @@ ru	sr_lat	pos	gender	aspect	notes
 идиот	idiot	n	m	-	
 изба	podrum	n	f	-	
 известие	vijest	n	f	-	
+известие	vest	n	f	-	
 издание	izdanje	n	nt	-	
 издательство	izdavač	n	nt	-	
 изделие	kreacija	n	f	-	
@@ -1830,10 +1882,12 @@ ru	sr_lat	pos	gender	aspect	notes
 кисть	četkica	n	f	-	
 китаец	kinez	n	m	-	
 кишка	crijevo	n	nt	-	
+кишка	crevo	n	nt	-	
 кладбище	groblje	n	nt	-	
 класс	razred	n	m	-	
 клетка	kavez	n	f	-	
 клиент	klijent	n	m	-	
+клиент	klent	n	m	-	
 кличка	nadimak	n	f	-	
 клуб	klub	n	m	-	
 ключ	kluč	n	m	-	
@@ -1927,6 +1981,7 @@ ru	sr_lat	pos	gender	aspect	notes
 красавица	ljepotica	n	f	-	
 краска	boja	n	f	-	
 красный	lijepi	n	m	-	
+красный	lepi	n	m	-	
 красота	ljepota	n	f	-	
 кредит	kredit	n	f	-	
 кремль	kremlj	n	m	-	
@@ -1949,6 +2004,7 @@ ru	sr_lat	pos	gender	aspect	notes
 крышка	poklopac	n	f	-	
 крючок	kuka	n	f	-	
 кузов	tijelo	n	nt	-	
+кузов	telo	n	nt	-	
 кукла	lutka	n	f	-	
 кулак	pesnica	n	f	-	
 культура	kultura	n	f	-	
@@ -1977,6 +2033,7 @@ ru	sr_lat	pos	gender	aspect	notes
 лед	led	n	m	-	
 лейтенант	Lt.	n	m	-	
 лекарство	lijek	n	nt	-	
+лекарство	lek	n	nt	-	
 лекция	lekcija	n	f	-	
 лента	traka	n	f	-	
 лес	šuma	n	f	-	
@@ -1985,6 +2042,7 @@ ru	sr_lat	pos	gender	aspect	notes
 лето	ljeto	n	nt	-	
 летчик	pilot	n	m	-	
 лечение	liječenje	n	nt	-	
+лечение	lečenje	n	nt	-	
 лидер	lider	n	m	-	
 линия	linija	n	f	-	
 лист	list	n	m	-	
@@ -2021,6 +2079,7 @@ ru	sr_lat	pos	gender	aspect	notes
 мак	mak	n	m	-	
 малость	malenkost	n	f	-	
 малыш	dijete	n	nt	-	
+малыш	dete	n	nt	-	
 мальчик	dječak	n	m	-	
 мальчишка	dječak	n	m	-	
 мама	mama	n	f	-	
@@ -2077,6 +2136,7 @@ ru	sr_lat	pos	gender	aspect	notes
 минута	minut	n	f	-	
 минутка	minuta	n	f	-	
 мир	svijet	n	m	-	
+мир	svet	n	m	-	
 мировой	svjetski	n	m	-	
 миска	činija	n	f	-	
 мистер	gospodin	n	m	-	
@@ -2097,6 +2157,7 @@ ru	sr_lat	pos	gender	aspect	notes
 молодец	dobar	n	m	-	
 молодость	mladost	n	f	-	
 молоко	mlijeko	n	nt	-	
+молоко	mleko	n	nt	-	
 молчание	ćutanje	n	nt	-	
 момент	moment	n	m	-	
 монастырь	manastir	n	m	-	
@@ -2367,6 +2428,7 @@ ru	sr_lat	pos	gender	aspect	notes
 пауза	pauza	n	f	-	
 пацан	dječak	n	m	-	
 пациент	pacijent	n	m	-	
+пациент	pacent	n	m	-	
 пачка	komad	n	f	-	
 пейзаж	pejzaž	n	m	-	
 пена	pjena	n	f	-	
@@ -2392,6 +2454,7 @@ ru	sr_lat	pos	gender	aspect	notes
 песнь	pjesma	n	f	-	
 песня	pjesma	n	f	-	
 песок	pijesak	n	m	-	
+песок	pesak	n	m	-	
 петербург	peterburg	n	m	-	
 петля	petlja	n	f	-	
 петух	pjetlić	n	m	-	
@@ -2434,6 +2497,7 @@ ru	sr_lat	pos	gender	aspect	notes
 площадь	trg	n	f	-	
 пляж	plaža	n	m	-	
 побег	bijeg	n	m	-	
+побег	beg	n	m	-	
 победа	pobjeda	n	f	-	
 победитель	pobjednik	n	m	-	
 повар	kuvar	n	m	-	
@@ -2445,6 +2509,7 @@ ru	sr_lat	pos	gender	aspect	notes
 повышение	unapređenje	n	nt	-	
 повязка	narukvica	n	f	-	
 погода	vrijeme	n	nt	-	
+погода	vreme	n	nt	-	
 погон	pogon	n	m	-	
 подарок	poklon	n	m	-	
 подбородок	brada	n	f	-	
@@ -2511,6 +2576,7 @@ ru	sr_lat	pos	gender	aspect	notes
 поп	pop	n	m	-	
 попытка	pokušaj	n	f	-	
 пора	vrijeme	n	nt	-	
+пора	vreme	n	nt	-	
 поражение	poraz	n	nt	-	
 порог	prag	n	m	-	
 порода	rasa	n	f	-	
@@ -2564,6 +2630,7 @@ ru	sr_lat	pos	gender	aspect	notes
 предатель	izdajnik	n	m	-	
 предел	predio	n	m	-	
 предложение	prijedlog	n	nt	-	
+предложение	predlog	n	nt	-	
 предмет	predmet	n	m	-	
 предок	predak	n	m	-	
 предположение	predpostavka	n	f	-	
@@ -2578,6 +2645,7 @@ ru	sr_lat	pos	gender	aspect	notes
 прелесть	ljepota	n	f	-	
 премия	premija	n	f	-	
 премьер	premijer	n	m	-	
+премьер	premer	n	m	-	
 премьера	premjera	n	f	-	
 препарат	aparat	n	m	-	
 преподаватель	predavač	n	m	-	
@@ -2598,6 +2666,7 @@ ru	sr_lat	pos	gender	aspect	notes
 призрак	duh	n	m	-	
 призыв	poziv	n	m	-	
 приказ	zapovijest	n	f	-	
+приказ	zapovest	n	f	-	
 приключение	avantura	n	f	-	
 прилавок	kiosk	n	m	-	
 применение	primjena	n	f	-	
@@ -2630,6 +2699,7 @@ ru	sr_lat	pos	gender	aspect	notes
 продавец	prodavac	n	m	-	
 продажа	prodaja	n	f	-	
 продолжение	prijedlog	n	nt	-	
+продолжение	predlog	n	nt	-	
 продукт	produkt	n	m	-	
 продукция	prodikcija	n	f	-	
 проект	projekt	n	m	-	
@@ -2638,6 +2708,7 @@ ru	sr_lat	pos	gender	aspect	notes
 произведение	proizvodnja	n	f	-	
 производство	proizvodnja	n	f	-	
 происхождение	porijeklo	n	nt	-	
+происхождение	poreklo	n	nt	-	
 происшествие	incident	n	nt	-	
 прокуратура	tužilaštvo	n	nt	-	
 прокурор	tužilac	n	m	-	
@@ -2699,6 +2770,7 @@ ru	sr_lat	pos	gender	aspect	notes
 разведка	istraživanje	n	nt	-	
 разведчик	skaut	n	m	-	
 развитие	razvijenost	n	f	-	
+развитие	razvenost	n	f	-	
 развод	razvod	n	m	-	
 разговор	razgovor	n	m	-	
 раздел	razdjel	n	m	-	
@@ -2739,8 +2811,11 @@ ru	sr_lat	pos	gender	aspect	notes
 реальность	realnost	n	f	-	
 ребро	rebro	n	nt	-	
 ребята	djeca	n	f	-	
+ребята	deca	n	f	-	
 ребятишки	djeca	n	f	-	
+ребятишки	deca	n	f	-	
 ребёнок	dijete	n	nt	-	
+ребёнок	dete	n	nt	-	
 рев	rika	n	f	-	
 революция	revolucija	n	f	-	
 регион	region	n	m	-	
@@ -2750,6 +2825,7 @@ ru	sr_lat	pos	gender	aspect	notes
 режиссер	režiser	n	m	-	
 результат	rezultat	n	m	-	
 река	rijeka	n	f	-	
+река	reka	n	f	-	
 реклама	reklama	n	f	-	
 религия	religija	n	f	-	
 рельс	šina	n	f	-	
@@ -2761,6 +2837,7 @@ ru	sr_lat	pos	gender	aspect	notes
 ресурс	resurs	n	m	-	
 реформа	reforma	n	f	-	
 речка	riječica	n	f	-	
+речка	rečica	n	f	-	
 речь	govor	n	f	-	
 решение	rješenje	n	nt	-	
 решетка	rešetka	n	f	-	
@@ -2819,8 +2896,11 @@ ru	sr_lat	pos	gender	aspect	notes
 свадьба	svadba	n	f	-	
 сведение	smanjenje	n	nt	-	
 свет	svijet	n	m	-	
+свет	svet	n	m	-	
 светило	svijetlo	n	nt	-	
+светило	svetlo	n	nt	-	
 свеча	svijeća	n	f	-	
+свеча	sveća	n	f	-	
 свидание	sastanak	n	nt	-	
 свидетель	svjedok	n	m	-	
 свидетельство	dokaz	n	nt	-	
@@ -2845,6 +2925,7 @@ ru	sr_lat	pos	gender	aspect	notes
 семья	porodica	n	f	-	
 семя	sjeme	n	nt	-	
 сено	sijeno	n	nt	-	
+сено	seno	n	nt	-	
 сентябрь	septembar	n	m	-	
 сердце	srce	n	nt	-	
 серебро	srebro	n	nt	-	
@@ -2881,6 +2962,7 @@ ru	sr_lat	pos	gender	aspect	notes
 следствие	sledovanje	n	nt	-	
 слеза	suza	n	f	-	
 слово	riječ	n	f	-	
+слово	reč	n	f	-	
 сложность	složenost	n	f	-	
 слой	sloj	n	m	-	
 слон	slon	n	m	-	
@@ -2894,9 +2976,11 @@ ru	sr_lat	pos	gender	aspect	notes
 смерть	smrt	n	f	-	
 смесь	smješa	n	f	-	
 смех	smijeh	n	m	-	
+смех	smeh	n	m	-	
 смысл	smisao	n	m	-	
 снаряд	oprema	n	f	-	
 снег	snijeg	n	m	-	
+снег	sneg	n	m	-	
 снижение	sniženje	n	nt	-	
 снимок	snimak	n	m	-	
 собака	pas	n	f	-	
@@ -2907,6 +2991,7 @@ ru	sr_lat	pos	gender	aspect	notes
 собственность	imovina	n	f	-	
 событие	događaj	n	nt	-	
 совесть	svijest	n	f	-	
+совесть	svest	n	f	-	
 совет	savjet	n	m	-	
 советник	savjetnik	n	m	-	
 совещание	sastanak	n	nt	-	
@@ -2917,6 +3002,7 @@ ru	sr_lat	pos	gender	aspect	notes
 сожаление	sažaljenje	n	nt	-	
 создание	stvaranje	n	nt	-	
 сознание	svijest	n	f	-	
+сознание	svest	n	f	-	
 сок	sok	n	m	-	
 солдат	vojnik	n	m	-	
 солнце	sunce	n	nt	-	
@@ -3001,6 +3087,7 @@ ru	sr_lat	pos	gender	aspect	notes
 стол	sto	n	m	-	
 столб	stub	n	m	-	
 столетие	vijek	n	nt	-	
+столетие	vek	n	nt	-	
 столик	sto	n	m	-	
 столица	stolica	n	f	-	
 стон	stenjanje	n	nt	-	
@@ -3013,7 +3100,9 @@ ru	sr_lat	pos	gender	aspect	notes
 страсть	strast	n	f	-	
 страх	straža	n	f	-	
 стрела	strijela	n	f	-	
+стрела	strela	n	f	-	
 стрелок	strijelac	n	m	-	
+стрелок	strelac	n	m	-	
 стрельба	streljanje	n	nt	-	
 стремление	težnja	n	f	-	
 строитель	graditelj	n	m	-	
@@ -3071,6 +3160,7 @@ ru	sr_lat	pos	gender	aspect	notes
 танцор	plesač	n	m	-	
 тарелка	tanjir	n	f	-	
 тварь	zvijer	n	f	-	
+тварь	zver	n	f	-	
 творчество	tvorevina	n	f	-	
 театр	pozorište	n	nt	-	
 текст	tekst	n	m	-	
@@ -3080,6 +3170,7 @@ ru	sr_lat	pos	gender	aspect	notes
 телеграмма	telegram	n	f	-	
 телефон	telefon	n	m	-	
 тело	tijelo	n	nt	-	
+тело	telo	n	nt	-	
 тема	tema	n	f	-	
 темнота	tamnoća	n	f	-	
 темп	tempo	n	nt	-	
@@ -3141,6 +3232,7 @@ ru	sr_lat	pos	gender	aspect	notes
 тропинка	putić	n	f	-	
 тротуар	trotoar	n	m	-	
 труба	cijev	n	f	-	
+труба	cev	n	f	-	
 трубка	slušalica	n	f	-	
 труд	trud	n	m	-	
 трудность	teškoća	n	f	-	
@@ -3278,10 +3370,13 @@ ru	sr_lat	pos	gender	aspect	notes
 царство	carstvo	n	nt	-	
 царь	car	n	m	-	
 цвет	cvijet	n	m	-	
+цвет	cvet	n	m	-	
 цветок	cvijet	n	m	-	
+цветок	cvet	n	m	-	
 цель	cilj	n	f	-	
 цена	cijena	n	f	-	
 ценность	vrijednost	n	f	-	
+ценность	vrednost	n	f	-	
 центр	centar	n	m	-	
 цепочка	lanac	n	f	-	
 цепь	lanac	n	f	-	
@@ -3477,9 +3572,13 @@ ru	sr_lat	pos	gender	aspect	notes
 вокруг	okolo	pr	-	-	
 вопреки	protiv	pr	-	-	
 вослед	slijedujući	pr	-	-	
+вослед	sledujući	pr	-	-	
 вперед	naprijed	pr	-	-	
+вперед	napred	pr	-	-	
 впереди	naprijed	pr	-	-	
+впереди	napred	pr	-	-	
 вперёд	naprijed	pr	-	-	
+вперёд	napred	pr	-	-	
 времени	put	pr	-	-	
 вроде	kao	pr	-	-	
 вслед	posle	pr	-	-	
@@ -3540,6 +3639,7 @@ ru	sr_lat	pos	gender	aspect	notes
 позади	pozadi	pr	-	-	
 помимо	pored	pr	-	-	
 поперек	poprijeko	pr	-	-	
+поперек	popreko	pr	-	-	
 посередине	sredinom	pr	-	-	
 после	poslije	pr	-	-	
 после	posle	pr	-	-	
@@ -3550,6 +3650,7 @@ ru	sr_lat	pos	gender	aspect	notes
 превыше	iznad	pr	-	-	
 пред	pred	pr	-	-	
 прежде	prije	pr	-	-	
+прежде	pre	pr	-	-	
 при	u	pr	-	-	
 при	pri	pr	-	-	
 при	pokraj	pr	-	-	
@@ -3575,6 +3676,7 @@ ru	sr_lat	pos	gender	aspect	notes
 соответственно	odnosno	pr	-	-	
 спереди	sprijeda	pr	-	-	
 спереди	ispred	pr	-	-	
+спереди	spreda	pr	-	-	
 спустя	posle	pr	-	-	
 среди	posred	pr	-	-	
 среди	sred	pr	-	-	
@@ -3633,6 +3735,7 @@ prpers	free	prn	-	-
 валяться	valjati	v	-	impf	ref
 варить	variti	v	-	perf	tv
 ввести	unijeti	v	-	perf	tv
+ввести	uneti	v	-	perf	tv
 вглядываться	zagledati	v	-	impf	ref
 ведать	rasuđivati	v	-	impf	tv
 везти	voziti	v	-	impf	tv
@@ -3663,7 +3766,9 @@ prpers	free	prn	-	-
 влезть	uvući	v	-	perf	tv
 вложить	uložiti	v	-	perf	tv
 вмешаться	umiješati	v	-	perf	ref
+вмешаться	umešati	v	-	perf	ref
 внести	unijeti	v	-	perf	tv
+внести	uneti	v	-	perf	tv
 водить	voditi	v	-	impf	tv
 водиться	voditi	v	-	impf	tv
 воевать	ratovati	v	-	impf	iv
@@ -3724,6 +3829,7 @@ prpers	free	prn	-	-
 выдавать	izdati	v	-	perf	tv
 выдать	izdati	v	-	perf	tv
 выделить	podijeliti	v	-	perf	tv
+выделить	podeliti	v	-	perf	tv
 выделяться	izdvajati	v	-	impf	ref
 выдержать	izdržati	v	-	perf	tv
 выехать	otputovati	v	-	perf	iv
@@ -3739,6 +3845,7 @@ prpers	free	prn	-	-
 вылететь	izletjeti	v	-	perf	iv
 выложить	izložiti	v	-	perf	tv
 вынести	iznijeti	v	-	perf	tv
+вынести	izneti	v	-	perf	tv
 выносить	izneti	v	-	perf	tv
 вынуть	izvaditi	v	-	perf	tv
 выпасть	ispasti	v	-	perf	iv
@@ -3789,6 +3896,7 @@ prpers	free	prn	-	-
 готовиться	pripremiti	v	-	impf	ref
 греметь	grmeti	v	-	impf	iv
 грозить	prijetiti	v	-	impf	tv
+грозить	pretiti	v	-	impf	tv
 гудеть	gudati	v	-	impf	iv
 гулять	hodati	v	-	impf	iv
 давать	davati	v	-	impf	tv
@@ -3802,7 +3910,9 @@ prpers	free	prn	-	-
 делать	raditi	v	-	impf	tv
 делаться	praviti	v	-	impf	ref
 делить	dijeliti	v	-	impf	tv
+делить	deliti	v	-	impf	tv
 делиться	dijeliti	v	-	impf	ref
+делиться	deliti	v	-	impf	ref
 демонстрировать	demonstirati	v	-	perf	tv
 дергать	vući	v	-	impf	tv
 держать	držati	v	-	impf	tv
@@ -3831,7 +3941,9 @@ prpers	free	prn	-	-
 докладывать	izvještavati	v	-	impf	tv
 должно	trebalo	v	nt	-	
 доложить	obavijestiti	v	-	perf	tv
+доложить	obavestiti	v	-	perf	tv
 донестись	donijeti	v	-	perf	tv
+донестись	doneti	v	-	perf	tv
 доноситься	donositi	v	-	impf	tv
 допускать	dopustiti	v	-	perf	tv
 допустить	dopustiti	v	-	perf	tv
@@ -3907,13 +4019,17 @@ prpers	free	prn	-	-
 залить	zaliti	v	-	impf	tv
 заложить	založiti	v	-	perf	tv
 заменить	zamijeniti	v	-	perf	tv
+заменить	zameniti	v	-	perf	tv
 замереть	umrtviti	v	-	perf	tv
 замерзнуть	zamrznuti	v	-	perf	tv
 заметить	primijetiti	v	-	perf	tv
+заметить	primetiti	v	-	perf	tv
 замечать	primijetiti	v	-	perf	tv
+замечать	primetiti	v	-	perf	tv
 замолчать	ućutati	v	-	perf	iv
 замолчать	ušutjeti	v	-	perf	iv
 занести	zanijeti	v	-	perf	tv
+занести	zaneti	v	-	perf	tv
 занимать	zanimati	v	-	perf	tv
 заниматься	zanimati	v	-	impf	tv
 занять	zauzeti	v	-	perf	tv
@@ -3929,6 +4045,7 @@ prpers	free	prn	-	-
 заполнить	popuniti	v	-	perf	tv
 запомнить	zapamtiti	v	-	perf	tv
 запретить	zaprijetiti	v	-	perf	iv
+запретить	zapretiti	v	-	perf	iv
 запустить	pustiti	v	-	perf	tv
 зарабатывать	zarađivati	v	-	impf	tv
 заработать	zaraditi	v	-	perf	tv
@@ -3968,12 +4085,15 @@ prpers	free	prn	-	-
 избегать	izbjeći	v	-	perf	tv
 избежать	izbjeći	v	-	perf	tv
 извинить	izmijeniti	v	-	perf	tv
+извинить	izmeniti	v	-	perf	tv
 извиняться	izvinuti	v	-	perf	ref
 извлечь	izvući	v	-	perf	tv
 издать	izdati	v	-	perf	tv
 изложить	izložiti	v	-	perf	tv
 изменить	izmijeniti	v	-	perf	tv
+изменить	izmeniti	v	-	perf	tv
 измениться	promijeniti	v	-	perf	ref
+измениться	promeniti	v	-	perf	ref
 изображать	zamišljati	v	-	impf	tv
 изобразить	zamisliti	v	-	perf	tv
 изучать	izučavati	v	-	impf	tv
@@ -4035,6 +4155,7 @@ prpers	free	prn	-	-
 летать	letjeti	v	-	impf	iv
 лететь	letjeti	v	-	impf	iv
 лечить	liječiti	v	-	impf	tv
+лечить	lečiti	v	-	impf	tv
 лечь	leći	v	-	perf	iv
 лишить	lišiti	v	-	perf	tv
 ловить	loviti	v	-	impf	tv
@@ -4048,10 +4169,13 @@ prpers	free	prn	-	-
 мелькать	blještati	v	-	impf	tv
 мелькнуть	pogledati	v	-	perf	tv
 менять	mijenjati	v	-	impf	tv
+менять	menjati	v	-	impf	tv
 меняться	mijenjati	v	-	impf	tv
+меняться	menjati	v	-	impf	tv
 метаться	bacati	v	-	impf	ref
 мечтать	maštati	v	-	impf	tv
 мешать	miješati	v	-	impf	tv
+мешать	mešati	v	-	impf	tv
 миновать	proći	v	-	perf	iv
 молиться	moliti	v	-	impf	ref
 молчать	ćutati	v	-	impf	iv
@@ -4060,6 +4184,7 @@ prpers	free	prn	-	-
 мучить	mučiti	v	-	impf	tv
 мучиться	mučiti	v	-	impf	ref
 мчаться	strijemiti	v	-	impf	ref
+мчаться	stremiti	v	-	impf	ref
 мыть	prati	v	-	impf	tv
 набирать	nabrati	v	-	perf	tv
 наблюдать	pratiti	v	-	impf	tv
@@ -4084,6 +4209,7 @@ prpers	free	prn	-	-
 наливать	naliti	v	-	perf	tv
 налить	naliti	v	-	perf	tv
 нанести	nanijeti	v	-	perf	tv
+нанести	naneti	v	-	perf	tv
 напасть	napasti	v	-	perf	tv
 напечатать	naštampati	v	-	perf	tv
 написать	napisati	v	-	perf	tv
@@ -4124,8 +4250,10 @@ prpers	free	prn	-	-
 обедать	ručati	v	-	impf	iv
 обернуться	obrnuti	v	-	impf	ref
 обеспечивать	snabdijevati	v	-	impf	tv
+обеспечивать	snabdevati	v	-	impf	tv
 обеспечить	obezbijediti	v	-	perf	tv
 обеспечить	osiguratu	v	-	perf	tv
+обеспечить	obezbediti	v	-	perf	tv
 обещать	obećati	v	-	perf	tv
 обидеть	ražalostiti	v	-	perf	tv
 обидеться	naljutiti	v	-	perf	tv
@@ -4182,6 +4310,7 @@ prpers	free	prn	-	-
 опомниться	opametiti	v	-	perf	ref
 оправдать	opravdati	v	-	perf	tv
 определить	opredijeliti	v	-	perf	ref
+определить	opredeliti	v	-	perf	ref
 определять	opredjeliti	v	-	perf	tv
 определяться	opredjeliti	v	-	perf	ref
 опрокинуть	prevratiti	v	-	perf	ref
@@ -4261,10 +4390,12 @@ prpers	free	prn	-	-
 охватить	pokriti	v	-	perf	ref
 охранять	čuvati	v	-	impf	tv
 оценить	ocijeniti	v	-	perf	tv
+оценить	oceniti	v	-	perf	tv
 очнуться	probuditi	v	-	perf	ref
 очутиться	probuditi	v	-	perf	ref
 ошибаться	grešiti	v	-	impf	iv
 ошибиться	pogriješiti	v	-	perf	iv
+ошибиться	pogrešiti	v	-	perf	iv
 ощутить	osjetiti	v	-	perf	tv
 ощущать	osjetiti	v	-	perf	tv
 падать	padati	v	-	impf	iv
@@ -4282,6 +4413,7 @@ prpers	free	prn	-	-
 пережить	preživjeti	v	-	perf	tv
 перейти	preći	v	-	perf	iv
 перенести	prenijeti	v	-	perf	tv
+перенести	preneti	v	-	perf	tv
 переносить	prenositi	v	-	impf	tv
 пересечь	presjeći	v	-	perf	tv
 переспросить	preupitati	v	-	perf	tv
@@ -4303,6 +4435,7 @@ prpers	free	prn	-	-
 плюнуть	pljunuti	v	-	perf	tv
 плясать	plesati	v	-	impf	iv
 победить	pobijediti	v	-	perf	tv
+победить	pobediti	v	-	perf	tv
 побежать	pobjeći	v	-	perf	iv
 побывать	biti	v	-	both	
 повезти	povesti	v	-	perf	tv
@@ -4338,8 +4471,10 @@ prpers	free	prn	-	-
 поддерживать	podržati	v	-	perf	tv
 поделать	napraviti	v	-	perf	tv
 поделиться	dijeliti	v	-	impf	ref
+поделиться	deliti	v	-	impf	ref
 подмигнуть	namignuti	v	-	perf	iv
 поднести	podnijeti	v	-	perf	tv
+поднести	podneti	v	-	perf	tv
 поднимать	podizati	v	-	impf	tv
 подниматься	podići	v	-	perf	ref
 поднять	podići	v	-	perf	tv
@@ -4407,7 +4542,9 @@ prpers	free	prn	-	-
 пользоваться	koristiti	v	-	impf	ref
 полюбить	poljubiti	v	-	perf	tv
 помереть	umrijeti	v	-	perf	iv
+помереть	umreti	v	-	perf	iv
 помешать	pomiješati	v	-	perf	tv
+помешать	pomešati	v	-	perf	tv
 помнить	pamtiti	v	-	impf	tv
 помогать	pomoći	v	-	perf	iv
 помолчать	ćutati	v	-	impf	iv
@@ -4415,8 +4552,10 @@ prpers	free	prn	-	-
 поморщиться	ljutiti	v	-	impf	ref
 помочь	pomoći	v	-	perf	iv
 помчаться	ustrijemiti	v	-	perf	ref
+помчаться	ustremiti	v	-	perf	ref
 понадобиться	potrebovati	v	-	impf	tv
 понести	ponijeti	v	-	perf	tv
+понести	poneti	v	-	perf	tv
 понимать	shvatiti	v	-	perf	tv
 понравиться	svidjeti	v	-	perf	ref
 понять	shvatiti	v	-	perf	tv
@@ -4443,6 +4582,7 @@ prpers	free	prn	-	-
 посидеть	sjedjeti	v	-	impf	tv
 послать	poslati	v	-	perf	tv
 последовать	slijediti	v	-	impf	tv
+последовать	slediti	v	-	impf	tv
 послушать	slušati	v	-	impf	tv
 послышаться	prislušati?	v	-	perf	tv
 посмотреть	pogledati	v	-	perf	tv
@@ -4542,6 +4682,7 @@ prpers	free	prn	-	-
 применяться	primjeniti	v	-	perf	tv
 принадлежать	posjedovati	v	-	impf	tv
 принести	donijeti	v	-	perf	tv
+принести	doneti	v	-	perf	tv
 принимать	primati	v	-	impf	tv
 приниматься	pripremiti	v	-	perf	ref
 приносить	donositi	v	-	impf	tv
@@ -4639,10 +4780,13 @@ prpers	free	prn	-	-
 разглядывать	razgledati	v	-	impf	tv
 разговаривать	pričati	v	-	impf	iv
 раздаваться	dijeliti	v	-	impf	ref
+раздаваться	deliti	v	-	impf	ref
 раздавить	podaviti	v	-	perf	tv
 раздаться	razdati	v	-	perf	tv
 разделить	razdijeliti	v	-	perf	tv
+разделить	razdeliti	v	-	perf	tv
 разделять	razdijeliti	v	-	perf	tv
+разделять	razdeliti	v	-	perf	tv
 раздражать	nervirati	v	-	impf	tv
 различать	razlikovati	v	-	impf	tv
 размахивать	mahnuti	v	-	perf	iv
@@ -4678,6 +4822,7 @@ prpers	free	prn	-	-
 расстаться	rastati	v	-	perf	ref
 расстегнуть	rastegnuti	v	-	perf	tv
 расстрелять	strijeljati	v	-	impf	iv
+расстрелять	streljati	v	-	impf	iv
 рассуждать	rasuđivati	v	-	impf	iv
 рассчитать	računati	v	-	impf	tv
 рассчитывать	računati	v	-	impf	tv
@@ -4689,15 +4834,20 @@ prpers	free	prn	-	-
 рвануть	trznuti	v	-	perf	tv
 рвануться	baciti	v	-	perf	ref
 рвать	cijepati	v	-	impf	tv
+рвать	cepati	v	-	impf	tv
 рваться	kidati	v	-	impf	ref
 реагировать	reagovati	v	-	impf	iv
 реветь	vikati	v	-	impf	iv
 резать	rezati	v	-	impf	tv
 рекомендовать	preporučiti	v	-	perf	tv
 решать	riješiti	v	-	perf	tv
+решать	rešiti	v	-	perf	tv
 решаться	riješiti	v	-	perf	ref
+решаться	rešiti	v	-	perf	ref
 решить	riješiti	v	-	perf	tv
+решить	rešiti	v	-	perf	tv
 решиться	riješiti	v	-	perf	ref
+решиться	rešiti	v	-	perf	ref
 рисковать	rizikovati	v	-	impf	iv
 рисковать	riskirati	v	-	impf	iv
 рисовать	crtati	v	-	impf	tv
@@ -4717,6 +4867,7 @@ prpers	free	prn	-	-
 свалить	svaliti	v	-	perf	tv
 свалиться	svaliti	v	-	perf	ref
 сверкать	svijetliti	v	-	perf	iv
+сверкать	svetliti	v	-	perf	iv
 свернуть	svratiti	v	-	perf	iv
 свести	svesti	v	-	perf	tv
 светиться	svetiti	v	-	impf	tv
@@ -4755,6 +4906,7 @@ prpers	free	prn	-	-
 слать	slati	v	-	impf	tv
 следить	pratiti	v	-	perf	tv
 следовать	slijediti	v	-	impf	tv
+следовать	slediti	v	-	impf	tv
 сложить	složiti	v	-	perf	tv
 сложиться	složiti	v	-	perf	ref
 сломать	slomiti	v	-	perf	tv
@@ -4767,6 +4919,7 @@ prpers	free	prn	-	-
 слышать	slušati	v	-	impf	tv
 слышаться	čuti	v	-	perf	ref
 сменить	smijeniti	v	-	perf	tv
+сменить	smeniti	v	-	perf	tv
 сметь	smjeti	v	-	impf	iv
 смеяться	smijati	v	-	impf	ref
 смотреть	gledati	v	-	both	tv
@@ -4804,6 +4957,7 @@ prpers	free	prn	-	-
 сопровождаться	sprovoditi	v	-	impf	ref
 сопротивляться	suprostavljati	v	-	impf	ref
 сорвать	pocijepati	v	-	perf	tv
+сорвать	pocepati	v	-	perf	tv
 сорваться	prekinuti	v	-	perf	tv
 сослаться	saslati	v	-	perf	ref
 составить	sastaviti	v	-	perf	tv
@@ -4843,6 +4997,7 @@ prpers	free	prn	-	-
 стоять	stajati	v	-	impf	iv
 страдать	stradati	v	-	both	iv
 стрелять	strijeljati	v	-	both	tv
+стрелять	streljati	v	-	both	tv
 стремиться	stremiti	v	-	perf	ref
 строить	graditi	v	-	impf	tv
 строиться	graditi	v	-	impf	ref
@@ -4892,10 +5047,13 @@ prpers	free	prn	-	-
 тянуться	rastegnuti	v	-	perf	ref
 убегать	bježati	v	-	impf	iv
 убедить	ubijediti	v	-	perf	tv
+убедить	ubediti	v	-	perf	tv
 убедиться	ubijediti	v	-	perf	tv
 убедиться	uvjeriti	v	-	perf	tv
+убедиться	ubediti	v	-	perf	tv
 убежать	pobjeći	v	-	perf	tv
 убеждать	ubijediti	v	-	perf	tv
+убеждать	ubediti	v	-	perf	tv
 убивать	ubijati	v	-	impf	tv
 убирать	sklanjati	v	-	impf	tv
 убить	ubiti	v	-	perf	tv
@@ -4937,19 +5095,25 @@ prpers	free	prn	-	-
 уловить	uloviti	v	-	perf	tv
 уложить	uložiti	v	-	perf	tv
 улыбаться	smiješiti	v	-	impf	iv
+улыбаться	smešiti	v	-	impf	iv
 улыбнуться	nasmiješiti	v	-	perf	ref
+улыбнуться	nasmešiti	v	-	perf	ref
 умереть	umrijeti	v	-	perf	iv
+умереть	umreti	v	-	perf	iv
 уметь	umjeti	v	-	impf	iv
 умирать	umrijeti	v	-	perf	iv
+умирать	umreti	v	-	perf	iv
 умолять	moliti	v	-	impf	iv
 унести	uneti	v	-	perf	tv
 уничтожать	uništavati	v	-	impf	tv
 уничтожить	uništiti	v	-	perf	tv
 упасть	upasti	v	-	perf	iv
 упереться	uprijeti	v	-	perf	ref
+упереться	upreti	v	-	perf	ref
 упираться	naslonjati	v	-	impf	ref
 упомянуть	upomenuti	v	-	perf	tv
 употреблять	upotrijebiti	v	-	perf	tv
+употреблять	upotrebiti	v	-	perf	tv
 управлять	upravljati	v	-	impf	iv
 упустить	upustiti	v	-	perf	tv
 уронить	ispasti	v	-	perf	iv
@@ -4957,8 +5121,10 @@ prpers	free	prn	-	-
 услать	poslati	v	-	perf	tv
 услышать	čuti	v	-	perf	tv
 усмехнуться	nasmiješiti	v	-	perf	ref
+усмехнуться	nasmešiti	v	-	perf	ref
 уснуть	zaspati	v	-	perf	iv
 успевать	uspijevati	v	-	impf	iv
+успевать	uspevati	v	-	impf	iv
 успеть	uspjeti	v	-	perf	iv
 успокаивать	umirivati	v	-	impf	tv
 успокоить	smiriti	v	-	perf	tv
