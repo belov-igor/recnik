@@ -10,6 +10,7 @@ output/epub/
 
 # IDE
 .idea/
+.vscode/
 
 # macOS
 .DS_Store
