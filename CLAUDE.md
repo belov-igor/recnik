@@ -23,6 +23,7 @@ Serbian Cyrillic is never stored — always auto-generated from Latin via `trans
 data/dictionary.tsv     — single source of truth (TSV, one translation pair per row)
 scripts/
   import_apertium.py   — one-time import from Apertium apertium-hbs-rus (.dix → TSV)
+  import_wiktionary.py — import from kaikki.org Wiktionary dump (CC BY-SA 4.0); appends new pairs, skips duplicates
   transliterate.py     — Serbian Latin ↔ Cyrillic
   build.py             — TSV → 4 x .mobi (via kindlegen) or .azw3 (Calibre fallback)
 output/                — generated files, gitignored
@@ -65,7 +66,7 @@ EPUB with Amazon-specific markup compiled by kindlegen → `.mobi`:
 - `<idx:infl><idx:iform value="..."/></idx:infl>` — inflected forms for lookup
 - OPF `<DictionaryInLanguage>` / `<DictionaryOutLanguage>` metadata
 
-Russian inflections via **pymorphy3**. Serbian inflections via basic suffix rules in `build.py`.
+Russian inflections via **pymorphy3**. Serbian inflections via declension/conjugation rules in `build.py` — covers all 7 cases × sg/pl for nouns, main adjectival forms, and present/past/imperative for main verb classes (-ati, -iti/-eti, -ovati, -nuti).
 
 ## Install on Kindle
 
