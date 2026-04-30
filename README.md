@@ -53,6 +53,7 @@ python scripts/build.py
 
 - **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — bilingual Russian–Serbian lexicon, licensed under GNU GPL.
 - **[Wiktionary](https://www.wiktionary.org/)** via [kaikki.org](https://kaikki.org/dictionary/Russian/) — community-edited translation data, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **[Tatoeba](https://tatoeba.org)** — word pairs extracted from aligned Russian–Serbian sentence pairs, licensed under [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
 
 ---
 
@@ -92,6 +93,7 @@ Pull requestove pregledava i spaja vlasnik projekta. Nakon spajanja, rečnici se
 
 - **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — dvojezični rusko-srpski leksikon, licenciran pod GNU GPL.
 - **[Wiktionary](https://www.wiktionary.org/)** putem [kaikki.org](https://kaikki.org/dictionary/Russian/) — prevodilački podaci zajednice, licencirani pod [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **[Tatoeba](https://tatoeba.org)** — parovi reči izvučeni iz poravnatih rusko-srpskih rečenica, licencirani pod [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
 
 ---
 
@@ -131,3 +133,4 @@ Pull request'ы проверяет и принимает владелец про
 
 - **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — двуязычный русско-сербский лексикон, лицензия GNU GPL.
 - **[Wiktionary](https://www.wiktionary.org/)** через [kaikki.org](https://kaikki.org/dictionary/Russian/) — переводы от сообщества, лицензия [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **[Tatoeba](https://tatoeba.org)** — пары слов, извлечённые из выровненных русско-сербских предложений, лицензия [CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
