@@ -51,28 +51,185 @@ def ru_inflections(word: str) -> list[str]:
 
 def sr_inflections(word: str, pos: str, gender: str) -> list[str]:
     """
-    Minimal Serbian inflection rules for common cases.
-    Good enough for Kindle lookup — full morphology can be added later.
+    Serbian inflection rules for Kindle lookup.
+    Covers all 7 cases (sg + pl) for nouns, main adjectival forms,
+    and present/past conjugation for verbs.
     """
-    forms = set()
+    forms: set[str] = set()
     if pos == "n":
-        if gender == "f" and word.endswith("a"):
-            stem = word[:-1]
-            forms.update([stem + "e", stem + "i", stem + "u", stem + "om", stem + "a"])
-        elif gender == "m":
-            forms.update([
-                word + "a", word + "u", word + "om", word + "e",
-                word + "i", word + "ovi", word + "ima",
-            ])
-        elif gender == "nt" and word.endswith("o"):
-            stem = word[:-1]
-            forms.update([stem + "a", stem + "u", stem + "om", stem + "ima"])
+        _sr_noun(word, gender, forms)
     elif pos == "adj":
-        # Drop final vowel + add common adjectival endings
-        for suffix in ("i", "a", "e", "og", "om", "im", "ih", "im"):
-            forms.add(word.rstrip("aio") + suffix)
+        _sr_adj(word, forms)
+    elif pos == "v":
+        _sr_verb(word, forms)
     forms.discard(word)
     return sorted(forms)
+
+
+# soft-final consonants trigger -ev- plural in masculine nouns
+_SOFT = ("j", "š", "č", "ž", "ć", "đ", "c", "lj", "nj")
+
+
+def _sr_noun(word: str, gender: str, forms: set) -> None:
+    if gender == "f":
+        _sr_noun_f(word, forms)
+    elif gender == "m":
+        _sr_noun_m(word, forms)
+    elif gender == "nt":
+        _sr_noun_nt(word, forms)
+
+
+def _sr_noun_f(word: str, forms: set) -> None:
+    if word.endswith("a"):
+        stem = word[:-1]
+        forms.update([
+            stem + "e",    # gen sg / nom+acc pl
+            stem + "i",    # dat sg / loc sg
+            stem + "u",    # acc sg
+            stem + "om",   # ins sg
+            stem + "o",    # voc sg
+            stem + "ama",  # dat / ins / loc pl
+        ])
+    else:
+        # consonant-final feminines: radost, ljubav, noć, reč …
+        forms.update([
+            word + "i",    # gen / dat / loc sg, nom+acc pl
+            word + "ima",  # dat / ins / loc pl
+            word + "ju",   # ins sg (noću, radošću)
+        ])
+
+
+def _sr_noun_m(word: str, forms: set) -> None:
+    # fleeting-a: -ac / -ec → drop the -a- before the final consonant
+    if len(word) > 3 and word[-2] == "a" and word.endswith(("ac", "ec")):
+        stem = word[:-2] + word[-1]   # lovac → lovc, stranac → stranc
+        forms.update([
+            stem + "a",    # gen sg
+            stem + "u",    # dat / loc sg
+            stem + "om",   # ins sg
+            stem + "e",    # voc sg / acc pl
+            stem + "i",    # nom pl
+            stem + "ima",  # dat / ins / loc pl
+        ])
+        return
+
+    soft = any(word.endswith(s) for s in _SOFT)
+    ext = "ev" if soft else "ov"
+
+    forms.update([
+        word + "a",          # gen sg
+        word + "u",          # dat / loc sg
+        word + "om",         # ins sg
+        word + "e",          # voc sg
+        # plural
+        word + "i",          # nom pl (vojnici, studenti, lekari)
+        word + ext + "i",    # nom pl alt (gradovi, miševi)
+        word + ext + "a",    # gen pl
+        word + ext + "e",    # acc pl
+        word + ext + "ima",  # dat / ins / loc pl
+        word + "ima",        # dat / ins / loc pl alt
+    ])
+
+
+def _sr_noun_nt(word: str, forms: set) -> None:
+    if word.endswith(("o", "e")):
+        stem = word[:-1]
+        ins = stem + ("om" if word.endswith("o") else "em")
+        forms.update([
+            stem + "a",    # gen sg / nom + acc + gen pl
+            stem + "u",    # dat / loc sg
+            ins,           # ins sg
+            stem + "ima",  # dat / ins / loc pl
+        ])
+
+
+def _sr_adj(word: str, forms: set) -> None:
+    # stored headword is typically long masc definite: veliki, crni, dobar …
+    if word.endswith("i") and len(word) > 3:
+        stem = word[:-1]
+        forms.update([
+            stem + "a",    # f nom / m+nt gen sg (dobra, velikog → dobrog)
+            stem + "o",    # nt nom sg
+            stem + "og",   # m / nt gen sg
+            stem + "oga",  # gen sg long
+            stem + "om",   # m / nt dat / ins / loc sg
+            stem + "ome",  # dat / loc alt
+            stem + "oj",   # f dat / loc sg
+            stem + "u",    # f acc sg
+            stem + "im",   # m / nt ins sg / pl dat + ins + loc
+            stem + "ih",   # pl gen
+            stem + "e",    # f gen sg / pl acc (f + nt)
+        ])
+    elif word.endswith(("an", "en", "ov", "ev", "in", "ar", "at")):
+        # short-form base: crven, nov, star …
+        forms.update([
+            word + "a",    # f nom / m+nt gen
+            word + "o",    # nt nom
+            word + "og",   # m / nt gen
+            word + "om",   # m / nt dat / ins / loc
+            word + "oj",   # f dat / loc
+            word + "u",    # f acc
+            word + "im",   # ins sg / pl dat+ins+loc
+            word + "ih",   # pl gen
+            word + "e",    # f gen / pl acc
+            word + "i",    # pl nom (m) / long form
+        ])
+    else:
+        stem = word.rstrip("aeiou") if word and word[-1] in "aeiou" else word
+        for sfx in ("a", "o", "e", "i", "og", "om", "oj", "u", "im", "ih"):
+            forms.add(stem + sfx)
+
+
+def _sr_verb(word: str, forms: set) -> None:
+    if not word.endswith("ti"):
+        return
+
+    # -ovati / -evati / -ivati: putovati → putujem …
+    for ending in ("ovati", "evati", "ivati"):
+        if word.endswith(ending):
+            base = word[:-len(ending)]
+            forms.update([
+                base + "ujem", base + "uješ", base + "uje",
+                base + "ujemo", base + "ujete", base + "uju",
+                base + "ovao", base + "ovala", base + "ovalo", base + "ovali",
+                base + "uj",   # imperative sg
+                base + "ujte", # imperative pl
+            ])
+            return
+
+    # -nuti: mahnuti → mahnem …
+    if word.endswith("nuti"):
+        base = word[:-4]
+        forms.update([
+            base + "nem", base + "neš", base + "ne",
+            base + "nemo", base + "nete", base + "nu",
+            base + "nuo", base + "nula", base + "nulo", base + "nuli",
+            base + "ni", base + "nite",
+        ])
+        return
+
+    # -ati: čitati, pisati …  (pres stem = inf[:-2], i.e. čita-)
+    if word.endswith("ati"):
+        ps = word[:-2]   # čita-
+        forms.update([
+            ps + "m", ps + "š", ps,
+            ps + "mo", ps + "te", ps + "ju",
+            ps + "o", ps + "la", ps + "lo", ps + "li", ps + "le",
+            ps + "j",   # imperative sg (čitaj)
+            ps + "jte", # imperative pl
+        ])
+        return
+
+    # -iti / -eti / -jeti: govoriti, voleti …  (pres stem = inf[:-3], i.e. govor-)
+    if word.endswith(("iti", "eti", "jeti")):
+        base = word[:-3] if word.endswith(("iti", "eti")) else word[:-4]
+        forms.update([
+            base + "im", base + "iš", base + "i",
+            base + "imo", base + "ite", base + "e",
+            base + "io", base + "eo",   # m sg past (one will be wrong, harmless)
+            base + "ila", base + "ilo", base + "ili", base + "ile",
+        ])
+        return
 
 
 # ---------------------------------------------------------------------------

@@ -49,6 +49,11 @@ pip install pymorphy3 setuptools pyglossary
 python scripts/build.py
 ```
 
+### Data sources
+
+- **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — bilingual Russian–Serbian lexicon, licensed under GNU GPL.
+- **[Wiktionary](https://www.wiktionary.org/)** via [kaikki.org](https://kaikki.org/dictionary/Russian/) — community-edited translation data, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 ## Srpski (latinica)
@@ -83,6 +88,11 @@ Kako da doprineste:
 
 Pull requestove pregledava i spaja vlasnik projekta. Nakon spajanja, rečnici se automatski regenerišu i objavljuju u Releases.
 
+### Izvori podataka
+
+- **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — dvojezični rusko-srpski leksikon, licenciran pod GNU GPL.
+- **[Wiktionary](https://www.wiktionary.org/)** putem [kaikki.org](https://kaikki.org/dictionary/Russian/) — prevodilački podaci zajednice, licencirani pod [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 ## Русский
@@ -116,3 +126,8 @@ Pull requestove pregledava i spaja vlasnik projekta. Nakon spajanja, rečnici se
 3. Открой Pull Request
 
 Pull request'ы проверяет и принимает владелец проекта. После принятия словари автоматически пересобираются и публикуются в Releases.
+
+### Источники данных
+
+- **[Apertium apertium-hbs-rus](https://github.com/apertium/apertium-hbs-rus)** — двуязычный русско-сербский лексикон, лицензия GNU GPL.
+- **[Wiktionary](https://www.wiktionary.org/)** через [kaikki.org](https://kaikki.org/dictionary/Russian/) — переводы от сообщества, лицензия [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
