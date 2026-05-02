@@ -116,13 +116,23 @@ def _sr_noun_m(word: str, forms: set) -> None:
     soft = any(word.endswith(s) for s in _SOFT)
     ext = "ev" if soft else "ov"
 
+    # consonant mutation in nom pl: k→c, g→z, h→s before -i
+    if word.endswith("k"):
+        nom_pl = word[:-1] + "ci"
+    elif word.endswith("g"):
+        nom_pl = word[:-1] + "zi"
+    elif word.endswith("h"):
+        nom_pl = word[:-1] + "si"
+    else:
+        nom_pl = word + "i"
+
     forms.update([
         word + "a",          # gen sg
         word + "u",          # dat / loc sg
         word + "om",         # ins sg
         word + "e",          # voc sg
         # plural
-        word + "i",          # nom pl (vojnici, studenti, lekari)
+        nom_pl,              # nom pl (vojnici, studenti, lekari)
         word + ext + "i",    # nom pl alt (gradovi, miševi)
         word + ext + "a",    # gen pl
         word + ext + "e",    # acc pl
