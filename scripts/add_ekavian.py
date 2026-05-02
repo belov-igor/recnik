@@ -1,125 +1,125 @@
 #!/usr/bin/env python3
 """
-Add ekavian (Serbian standard) variants for ijekavian entries.
+Add ekavian variants for confirmed ijekavian entries.
 
-Ijekavian (Bosnian/Croatian/some Serbian) uses historical yat reflexes:
-  long yat:  ije → e  (bijel, lijep, vrijeme)
-  short yat: je  → e  (vjera, mjesto, pjesma)
+Applies ije→e only to words where 'ije' is a genuine Old Slavic yat reflex,
+verified manually. Loanwords, proper nouns, genitives of -ija words,
+verb conjugation endings (-ijen past participle), and comparative -ije
+suffixes are excluded.
 
-Ekavian (Serbian standard) collapses these to 'e':
-  bijel → beo (irregular!), lijep → lep, vrijeme → vreme
-  vjera → vera, mjesto → mesto, pjesma → pesma
-
-Rules applied here cover the common regular cases.
-Irregular forms (bijel→beo, dijete→dete, etc.) handled explicitly.
+Usage:
+    python scripts/add_ekavian.py [--dry-run]
 """
 
+import argparse
 import csv
-import re
-import sys
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).parent))
-from transliterate import lat_to_cyr
 
 DATA = Path(__file__).parent.parent / "data" / "dictionary.tsv"
 
-# Explicit irregular mappings (ijekavian → ekavian)
-IRREGULARS = {
-    "bijel":    "beo",
-    "bijela":   "bela",
-    "bijeli":   "beli",
-    "dijete":   "dete",
-    "djeca":    "deca",
-    "mlijeko":  "mleko",
-    "slijep":   "slep",
-    "slijepa":  "slepa",
-    "trijezan": "trezan",
-    "lijepo":   "lepo",
+EKAVIAN: dict[str, str] = {
+    "bijeda": "beda", "bijedan": "bedan", "bijeg": "beg",
+    "bijel": "bel", "bijelo vino": "belo vino", "bijes": "bes",
+    "bijesan": "besan", "Bijelo more": "Belo more", "blijed": "bled",
+    "brijeg": "breg",
+    "cijel": "cel", "cijelo": "celo", "cijena": "cena",
+    "cijenjen": "cenjen", "cijepati": "cepati", "cijev": "cev",
+    "crijevo": "crevo", "cvijet": "cvet",
+    "dijeliti": "deliti", "dijete": "dete",
+    "donijeti": "doneti", "drijemati": "dremati",
+    "gnijezdo": "gnezdo", "grijeh": "greh",
+    "izmijeniti": "izmeniti", "iznijeti": "izneti",
+    "još uvijek": "još uvek",
+    "kondenzirano mlijeko": "kondenzirano mleko", "korijen": "koren",
+    "lijek": "lek", "lijep": "lep", "lijepi": "lepi", "lijepo": "lepo",
+    "lijes": "les", "lijevi": "levi", "lijevo": "levo",
+    "liječenje": "lečenje", "liječiti": "lečiti", "liječnik": "lečnik",
+    "mijenjati": "menjati", "miješati": "mešati",
+    "mlijeko": "mleko", "mliječan": "mlečan",
+    "na vrijeme": "na vreme", "namijera": "namera",
+    "nanijeti": "naneti", "naprijed": "napred",
+    "nasmiješiti": "nasmešiti",
+    "necijenovna konkurencija": "necenovna konkurencija",
+    "nelijep": "nelep", "neopredijeljen": "neopredeljen",
+    "nerijetko": "neretko",
+    "obavijestiti": "obavestiti", "obezbijediti": "obezbediti",
+    "ocijeniti": "oceniti", "opredijeliti": "opredeliti",
+    "pijesak": "pesak", "pobijediti": "pobediti",
+    "pocijepati": "pocepati", "podijeliti": "podeliti",
+    "podnijeti": "podneti", "pogriješiti": "pogrešiti",
+    "pomiješati": "pomešati", "ponijeti": "poneti",
+    "poprijeko": "popreko", "porijeklo": "poreklo",
+    "poslije": "posle", "prelijep": "prelep", "prelijepo": "prelepo",
+    "prenijeti": "preneti", "prije": "pre", "prijedlog": "predlog",
+    "prijetiti": "pretiti", "primijetiti": "primetiti",
+    "promijeniti": "promeniti",
+    "razdijeliti": "razdeliti", "rijedak": "redak",
+    "rijeka": "reka", "rijetko": "retko", "riječ": "reč",
+    "riječica": "rečica", "riješiti": "rešiti",
+    "sijed": "sed", "sijeno": "seno", "slijediti": "slediti",
+    "slijep": "slep", "slijeva": "sleva", "smijeh": "smeh",
+    "smijeniti": "smeniti", "smiješan": "smešan",
+    "smiješiti": "smešiti", "smiješno": "smešno",
+    "snabdijevati": "snabdevati", "snijeg": "sneg",
+    "sprijeda": "spreda", "stijena": "stena",
+    "strijela": "strela", "strijelac": "strelac",
+    "strijeljati": "streljati", "strijemiti": "stremiti",
+    "svijest": "svest", "svijet": "svet", "svijetao": "svetao",
+    "svijetliti": "svetliti", "svijetlo": "svetlo", "svijeća": "sveća",
+    "tijelo": "telo", "tijesan": "tesan", "tijesno": "tesno",
+    "tijesto": "testo", "trijezan": "trezan",
+    "ubijediti": "ubediti", "umiješati": "umešati",
+    "umrijeti": "umreti", "unijeti": "uneti",
+    "upotrijebiti": "upotrebiti", "uprijeti": "upreti",
+    "uspijevati": "uspevati", "ustrijemiti": "ustremiti",
+    "uvijek": "uvek", "vijek": "vek", "vijerno": "verno",
+    "vijest": "vest", "vrijedan": "vredan", "vrijednost": "vrednost",
+    "vrijeme": "vreme", "vrsta riječi": "vrsta reči",
+    "zamijeniti": "zameniti", "zanijeti": "zaneti",
+    "zaplijenjen": "zaplenjen", "zapovijest": "zapovest",
+    "zaprijetiti": "zapretiti", "zauvijek": "zauvek",
+    "zvijer": "zver", "zvijezda": "zvezda", "ždrijebe": "ždrebe",
 }
 
 
-def ije_to_ekavian(word: str) -> str | None:
-    """Convert ijekavian word to ekavian. Returns None if no conversion applies.
-
-    Only handles long yat (ije→e) to avoid false positives with digraphs lj/nj.
-    Short yat (je→e) is skipped — too many non-yat 'je' sequences in Serbian.
-    """
-    lower = word.lower()
-
-    # Check irregulars first
-    if lower in IRREGULARS:
-        result = IRREGULARS[lower]
-        return result[0].upper() + result[1:] if word[0].isupper() else result
-
-    if "ije" not in lower:
-        return None
-
-    # Skip non-yat 'ije' patterns:
-    # - past participles: -ijen, -ijena, -ijeni (nabijen, razbijen, razvijen)
-    if re.search(r'ijena?i?$', lower):
-        return None
-    # - foreign/loan words containing -ofici-, -oficial-
-    if re.search(r'ofici', lower):
-        return None
-    # - prijem (pri+imati, not yat)
-    if "prijem" in lower:
-        return None
-
-    # Long yat only: ije → e
-    changed = word
-    changed = re.sub(r'ije', 'e', changed)
-    changed = re.sub(r'Ije', 'E', changed)
-
-    return changed if changed != word else None
-
-
 def main():
-    with open(DATA, encoding="utf-8") as f:
-        rows = list(csv.DictReader(f, delimiter="\t"))
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry-run", action="store_true")
+    args = parser.parse_args()
 
-    existing_pairs = {(r["ru"], r["sr_lat"]) for r in rows}
+    with open(DATA, encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        fieldnames = reader.fieldnames
+        rows = list(reader)
+
+    existing = {(r["ru"], r["sr_lat"]) for r in rows}
     new_rows = []
 
     for r in rows:
-        sr_lat = r["sr_lat"]
-        ekavian = ije_to_ekavian(sr_lat)
-        if ekavian and ekavian != sr_lat:
-            pair = (r["ru"], ekavian)
-            if pair not in existing_pairs:
-                new_rows.append({
-                    "ru":     r["ru"],
-                    "sr_lat": ekavian,
-                    "pos":    r["pos"],
-                    "gender": r["gender"],
-                    "aspect": r["aspect"],
-                    "notes":  r["notes"],
-                })
-                existing_pairs.add(pair)
+        sr = r["sr_lat"]
+        if sr not in EKAVIAN:
+            continue
+        ek = EKAVIAN[sr]
+        pair = (r["ru"], ek)
+        if pair in existing:
+            continue
+        new_row = dict(r)
+        new_row["sr_lat"] = ek
+        new_rows.append(new_row)
+        existing.add(pair)
 
-    if not new_rows:
-        print("No new ekavian variants found.")
+    print(f"New ekavian pairs: {len(new_rows)}")
+    if args.dry_run:
+        print("-- dry run --")
+        for r in new_rows:
+            print(f"  {r['ru']:25} {r['sr_lat']}")
         return
 
-    # Preview
-    print(f"New ekavian variants: {len(new_rows)}")
-    for r in new_rows[:20]:
-        orig = next(x["sr_lat"] for x in rows if x["ru"] == r["ru"])
-        print(f"  {r['ru']:20} {orig:20} → {r['sr_lat']}")
-    if len(new_rows) > 20:
-        print(f"  ... and {len(new_rows) - 20} more")
+    with open(DATA, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter="\t")
+        writer.writerows(new_rows)
 
-    # Append and sort
-    all_rows = rows + new_rows
-    all_rows.sort(key=lambda r: (r["pos"], r["ru"].lower()))
-
-    with open(DATA, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["ru", "sr_lat", "pos", "gender", "aspect", "notes"],
-                                delimiter="\t")
-        writer.writeheader()
-        writer.writerows(all_rows)
-
-    print(f"\nTotal entries: {len(all_rows)} (+{len(new_rows)})")
+    print(f"Appended {len(new_rows)} rows to {DATA}")
 
 
 if __name__ == "__main__":
