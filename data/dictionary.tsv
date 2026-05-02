@@ -2197,7 +2197,7 @@ ru	sr_lat	pos	gender	aspect	notes
 головка полового члена	glavica penisa	n	f	-	
 головная боль	glavobolja	adj	f	-	
 головной	glava	adj	-	-	
-головной мозг	мozak	adj	m	-	
+головной мозг	mozak	n	m	-
 головня	glȁvnja	n	f	-	
 головокружение	vrtoglavica	n	nt	-	
 головоломка	slagalica	n	f	-	
@@ -7361,7 +7361,7 @@ ru	sr_lat	pos	gender	aspect	notes
 плот	splav	n	m	-	
 плотно	čvrsto	adv	-	-	
 плотный	gust	adj	-	-	
-плоть	плоть	n	f	-	
+
 плохая	loša	adj	f	-	tatoeba:6
 плохих	ljudi	adj	-	-	tatoeba:8
 плохих	loših	adj	-	-	tatoeba:8
