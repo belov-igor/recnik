@@ -25,6 +25,7 @@ scripts/
   import_apertium.py   — one-time import from Apertium apertium-hbs-rus (.dix → TSV)
   import_wiktionary.py — import from kaikki.org Wiktionary dump (CC BY-SA 4.0); appends new pairs, skips duplicates
   import_tatoeba.py   — import from Tatoeba sentence pairs (CC BY 2.0 FR) via co-occurrence counting; run with --dry-run first
+  cleanup_quality.py  — removes long phrases/proverbs (≥4 words), normalises Tatoeba conjugations to infinitives via pymorphy3
   transliterate.py     — Serbian Latin ↔ Cyrillic
   build.py             — TSV → 4 x .mobi (via kindlegen) or .azw3 (Calibre fallback)
 output/                — generated files, gitignored
