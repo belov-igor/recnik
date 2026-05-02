@@ -1,7 +1,5 @@
 ru	sr_lat	pos	gender	aspect	notes
--ец	-ac	-	-	-	
--ость	-ost	n	f	-	
-cпектральный анализ	spektralna analiza	adj	f	-	
+спектральный анализ	spektralna analiza	adj	f	-	
 а	a	conj	-	-	
 а	ah	conj	-	-	
 а	aha	conj	-	-	
@@ -194,8 +192,8 @@ cпектральный анализ	spektralna analiza	adj	f	-
 авизо	izveštaj	n	nt	-	
 авизо	obaveštenje	n	nt	-	
 авитаминоз	avitaminoza	n	m	-	
-АВК	aerodromski kompleks	-	-	-	
-АВМ	analogni računar	-	-	-	
+АВК	aerodromski kompleks	np	-	-	
+АВМ	analogni računar	np	-	-	
 АВНОЮ	AVNOJ	n	m	-	
 Австралазия	Australazija	n	f	-	
 австралии	australije	n	f	-	tatoeba:6
@@ -208,7 +206,6 @@ cпектральный анализ	spektralna analiza	adj	f	-
 австронезийский язык	austronežanski jezik	adj	m	-	
 австрофашизм	Austrofašizam	n	m	-	
 автаркия	autarkija	n	f	-	
-авто-	auto-	-	-	-	
 автобиография	autobiografija	n	f	-	
 автоблокировка	automatsko blokiranje	n	f	-	
 автобус	autobus	n	m	-	
@@ -320,7 +317,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 Азия	Azija	np	f	-	
 азотистая кислота	azotna kiselina	adj	f	-	
 азотная кислота	azotna kiselina	adj	f	-	
-АЗС	benzinska pumpa	-	-	-	
+АЗС	benzinska pumpa	np	-	-	
 айва	dunja	n	f	-	
 Айдахо	Ajdao	n	m	-	
 Айова	Ajova	n	f	-	
@@ -386,8 +383,8 @@ cпектральный анализ	spektralna analiza	adj	f	-
 аллитерация	aliteracija	n	f	-	
 Аллу	Alloue	n	-	-	
 алмаз	dijamant	n	m	-	
-АЛС	amiotrofična lateralna skleroza	-	-	-	
-АЛС	automatska mesečeva stanica	-	-	-	
+АЛС	amiotrofična lateralna skleroza	np	-	-	
+АЛС	automatska mesečeva stanica	np	-	-	
 Алтай	Altaj	n	m	-	
 АЛУ	Aritmetičko-logička jedinica	n	m	-	
 алхимия	alkemija	n	f	-	
@@ -605,10 +602,10 @@ cпектральный анализ	spektralna analiza	adj	f	-
 Афина	Atena	n	f	-	
 Афина	Atina	n	f	-	
 афоризм	aforizam	n	m	-	
-АФП	Agencija Frans Pres	-	-	-	
+АФП	Agencija Frans Pres	np	-	-	
 аффект	afekt	n	m	-	
-АХ	Akademija umetnosti	-	-	-	
-ах так	a tako	-	-	-	
+АХ	Akademija umetnosti	np	-	-	
+ах так	a tako	part	-	-	
 ахнуть	uzdahnuti	v	-	perf	iv
 ахроматический	ahromatičan	adj	-	-	
 аэробиология	aerobiologija	n	f	-	
@@ -923,7 +920,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 блудный сын	bludni sin	adj	m	-	
 блудный сын	izgubljeni sin	adj	m	-	
 блюдо	jelo	n	nt	-	
-БМП	BVP	-	-	-	
+БМП	BVP	np	-	-	
 боб	bob	n	m	-	tatoeba:10
 бобр	dabar	n	m	-	
 Бобруйск	Bobrujsk	n	m	-	
@@ -1505,7 +1502,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 влияние	uticaj	n	nt	-	
 вложить	uložiti	v	-	perf	tv
 влюбленный	zaljubljen	adj	-	-	
-влюблён	zaljubljen	-	-	-	tatoeba:6
+влюблён	zaljubljen	adj	-	-	tatoeba:6
 вместе	zajedno	adv	-	-	
 вместо	namesto	pr	-	-	
 вместо	umesto	pr	-	-	
@@ -1540,7 +1537,6 @@ cпектральный анализ	spektralna analiza	adj	f	-
 внутренний	unutrašnji	adj	-	-	
 внутренняя политика	unutrašnja politika	adj	f	-	
 внутри	u	pr	-	-	
-внутри-	unutar-	-	-	-	
 внутриматочный	intrauterin	adj	-	-	
 внутримолекулярный	intramolekularni	adj	-	-	
 внутриполовой	unutarpȏlni	adj	-	-	
@@ -1971,7 +1967,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 газ	gas	n	m	-	
 газета	časopis	n	f	-	
 газетный	novinski	adj	-	-	
-газированная вода	soda voda	-	-	-	
+газированная вода	soda voda	n	f	-	
 газораспределение	distribucija gasa	n	nt	-	
 газораспределение	gasna raspodela	n	nt	-	
 газохимия	gazohemija	n	f	-	
@@ -2774,7 +2770,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 до фига	do jebenog	pr	-	-	
 до фига	masa	pr	-	-	
 добавить	nabaviti	v	-	perf	tv
-добавленная стоимость	dodata vrednost	-	f	-	
+добавленная стоимость	dodata vrednost	n	f	-	
 добавлять	dobaviti	v	-	perf	tv
 добиваться	nabaviti	v	-	perf	ref
 добиться	dobiti	v	-	perf	tv
@@ -3021,7 +3017,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 думать	trebati	v	-	impf	tatoeba:6
 думать	će	v	-	impf	tatoeba:6
 Дунай	Dunav	n	m	-	
-ДУП	pretvarač obrta	-	m	-	
+ДУП	pretvarač obrta	np	m	-	
 дура	budala	n	f	-	
 дурак	budala	n	f	-	
 дурацкий	glup	adj	-	-	
@@ -3134,7 +3130,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 жалоба	žalba	n	f	-	
 жаловаться	žaliti	v	-	impf	ref
 жалость	žalost	n	f	-	
-жаль	žao	-	-	-	tatoeba:10
+жаль	žao	part	-	-	tatoeba:10
 жар	žar	n	m	-	
 жаркий	topao	adj	-	-	
 жарко	danas	adv	-	-	tatoeba:6
@@ -3530,7 +3526,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 здоровый	zdrav	adj	-	-	
 здоровье	zdravlje	n	nt	-	
 здравствовать	pozdraviti	v	-	perf	tv
-здравствуйте	zdravo	-	-	-	
+здравствуйте	zdravo	part	-	-	
 Зеландия	Zeland	n	f	-	
 зеленый	zelen	adj	-	-	
 зелень	zelen	n	f	-	
@@ -5873,7 +5869,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 нары	nar	n	nt	-	
 наряд	naredba	n	f	-	
 население	stanovništvo	n	nt	-	
-населённый пункт	naseljeno mesto	-	nt	-	
+населённый пункт	naseljeno mesto	n	nt	-	
 насилие	nasilje	n	nt	-	
 насквозь	skroz	adv	-	-	
 насколько	koliko	adv	-	-	tatoeba:10
@@ -6389,18 +6385,8 @@ cпектральный анализ	spektralna analiza	adj	f	-
 нужна	tomu	adj	f	-	tatoeba:8
 нужна	treba	adj	f	-	tatoeba:36
 нужна	tvoja	adj	f	-	tatoeba:8
-нужно	imam	-	-	-	tatoeba:6
-нужно	koliko	-	-	-	tatoeba:6
-нужно	mnogo	-	-	-	tatoeba:8
-нужно	moj	-	-	-	tatoeba:6
-нужно	moram	-	-	-	tatoeba:18
-нужно	nam	-	-	-	tatoeba:12
-нужно	nešto	-	-	-	tatoeba:8
-нужно	novca	-	-	-	tatoeba:8
-нужно	potrebno	-	-	-	tatoeba:12
-нужно	radim	-	-	-	tatoeba:6
-нужно	treba	-	-	-	tatoeba:78
-нужно	više	-	-	-	tatoeba:6
+нужно	potrebno	part	-	-	tatoeba:12
+нужно	treba	part	-	-	tatoeba:78
 нужны	novac	adj	-	-	tatoeba:6
 нужны	treba	adj	-	-	tatoeba:6
 нужный	potreban	adj	-	-	
@@ -6413,9 +6399,6 @@ cпектральный анализ	spektralna analiza	adj	f	-
 нынешний	prisutan	adj	-	-	
 нынче	rane	adv	-	-	
 нынче	ranije	adv	-	-	
-нью	njujork	-	-	-	tatoeba:6
-нью	njujorku	-	-	-	tatoeba:6
-нью	živi	-	-	-	tatoeba:6
 Нью-Гэмпшир	Nju Hempšir	n	m	-	
 Нью-Джерси	Nju Džerzi	n	m	-	
 Нью-Йорк	Njujork	n	m	-	
@@ -6542,7 +6525,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 объединение	ujedinjenje	n	nt	-	
 объединение	unija	n	nt	-	
 объединить	objediniti	v	-	perf	tv
-Объединённые Арабские Эмираты	Ujedinjeni Arapski Emirati	-	-	-	
+Объединённые Арабские Эмираты	Ujedinjeni Arapski Emirati	np	-	-	
 объект	objekt	n	m	-	
 объективный	objektivan	adj	-	-	
 объем	obim	n	m	-	
@@ -6659,7 +6642,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 окончить	završiti	v	-	perf	tv
 окоп	rov	n	m	-	
 окошко	prozorčić	n	nt	-	
-ОКР	OKP	-	-	-	
+ОКР	OKP	np	-	-	
 окраина	distrikt	n	f	-	
 округ	oko	pr	-	-	
 округ	okrug	n	m	-	
@@ -6850,7 +6833,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 ответственность	odgovornost	n	f	-	
 ответственный	odgovoran	adj	-	-	
 отвечать	odgovoriti	v	-	perf	tv
-отводящий нерв	živac odvodilac	-	-	-	
+отводящий нерв	živac odvodilac	n	m	-	
 отвратительный	odvratan	adj	-	-	
 отвращение	gađenje	n	nt	-	
 отдавать	davati	v	-	impf	tv
@@ -7636,10 +7619,10 @@ cпектральный анализ	spektralna analiza	adj	f	-
 покраснеть	pocrveniti	v	-	perf	iv
 покровительство	pokroviteljstvo	n	nt	-	
 покровительство	zaštita	n	nt	-	
-покрыто	danas	-	-	-	tatoeba:8
-покрыто	nebo	-	-	-	tatoeba:10
-покрыто	oblacima	-	-	-	tatoeba:10
-покрыто	pokriveno	-	-	-	tatoeba:8
+покрыто	danas	adj	nt	-	tatoeba:8
+покрыто	nebo	adj	nt	-	tatoeba:10
+покрыто	oblacima	adj	nt	-	tatoeba:10
+покрыто	pokriveno	adj	nt	-	tatoeba:8
 покрыть	pokriti	v	-	perf	tv
 покупатель	kupac	n	m	-	
 покупать	kupiti	v	-	perf	tv
@@ -8388,7 +8371,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 проникать	prodreti	v	-	perf	iv
 проникнуть	proniknuti	v	-	perf	iv
 проницательность	promišljenost	n	f	-	
-пропавший без вести	nestao bez traga	-	m	-	
+пропавший без вести	nestao bez traga	adj	m	-	
 пропаганда	propaganda	n	f	-	
 пропадать	propadati	v	-	impf	iv
 пропасть	propast	n	f	-	
@@ -8503,7 +8486,6 @@ cпектральный анализ	spektralna analiza	adj	f	-
 прятать	kriti	v	-	impf	tv
 прятаться	skriti	v	-	perf	ref
 Псалтырь	Psalmi	n	f	-	
-псевдо-	nadri-	-	-	-	
 псевдоистория	pseud oistorija	n	f	-	
 псевдонаучность	pseudonaučnost	n	f	-	
 псевдоним	pseudonim	n	m	-	
@@ -9267,7 +9249,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 свёртывание	motanje	n	nt	-	
 свёртывание	savijanje	n	nt	-	
 сгореть	izgorjeti	v	-	perf	iv
-сгущённое молоко	kondenzirano mlijeko	-	-	-	
+сгущённое молоко	kondenzirano mlijeko	n	nt	-	
 сдавать	davati	v	-	impf	tv
 сдаваться	predati	v	-	perf	ref
 сдать	položiti	v	-	perf	tv
@@ -9293,7 +9275,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 сделать аборт	izvršiti abortus	v	-	perf	
 сделаться	uraditi	v	-	perf	tv
 сдерживать	zadržavati	v	-	impf	tv
-СДК	KFOR	-	-	-	
+СДК	KFOR	np	-	-	
 себе	mikroskop	prn	-	-	tatoeba:6
 себе	sebi	prn	-	-	tatoeba:8
 себестоимость	troškovi proizvodnje	n	f	-	
@@ -9447,7 +9429,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 сеть	mreža	n	f	-	
 сжать	stegnuti	v	-	perf	tv
 сжечь	spaliti	v	-	perf	tv
-сжиженный природный газ	ukapnjeni prirodni gas	-	m	-	
+сжиженный природный газ	ukapnjeni prirodni gas	n	m	-	
 сжимать	stiskati	v	-	impf	tv
 сзади	sa zada	pr	-	-	
 Сиам	Sijam	n	m	-	
@@ -9801,7 +9783,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 Содружество Независимых Государств	Zajednica nezavisnih država	n	f	-	
 соединение	povezanost	n	f	-	
 соединить	spojiti	v	-	perf	tv
-Соединённые Штаты Америки	Sjedinjene Američke Države	-	-	-	
+Соединённые Штаты Америки	Sjedinjene Američke Države	np	-	-	
 сожаление	sažaljenje	n	nt	-	
 сожалению	nažalost	n	nt	-	tatoeba:8
 сожжение	spaljivanje	n	nt	-	
@@ -9928,9 +9910,6 @@ cпектральный анализ	spektralna analiza	adj	f	-
 спасать	spasiti	v	-	perf	tv
 спасение	spas	n	nt	-	
 спасибо	hvala	n	nt	-	
-спасибо	mnogo	-	-	-	tatoeba:14
-спасибо	puno	-	-	-	tatoeba:8
-спасибо	vam	-	-	-	tatoeba:14
 спасти	spasiti	v	-	perf	tv
 спасть	dana	v	-	perf	tatoeba:6
 спасть	nisam	v	-	perf	tatoeba:6
@@ -10013,7 +9992,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 спуститься	spustiti	v	-	perf	ref
 спустя	posle	pr	-	-	
 спутник	satelit	n	m	-	
-Спящая красавица	Uspavana lepotica	-	-	-	
+Спящая красавица	Uspavana lepotica	np	f	-	
 сравнение	takmičenje	n	nt	-	
 сравнительно	relativno	adv	-	-	
 сражение	bitka	n	f	-	
@@ -11697,7 +11676,7 @@ cпектральный анализ	spektralna analiza	adj	f	-
 чушь собачья	gluposti	n	f	-	
 чушь собачья	kretenluk	n	m	-	
 чуять	mirisati	v	-	impf	tv
-ЧФ	Crnomorska flota	-	-	-	
+ЧФ	Crnomorska flota	np	-	-	
 чья	čija	adj	f	-	tatoeba:8
 чём	između	prn	nt	-	tatoeba:6
 чём	koja	prn	nt	-	tatoeba:8
