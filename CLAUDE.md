@@ -26,6 +26,7 @@ scripts/
   import_wiktionary.py — import from kaikki.org Wiktionary dump (CC BY-SA 4.0); appends new pairs, skips duplicates
   import_tatoeba.py   — import from Tatoeba sentence pairs (CC BY 2.0 FR) via co-occurrence counting; run with --dry-run first
   cleanup_quality.py  — removes long phrases/proverbs (≥4 words), normalises Tatoeba conjugations to infinitives via pymorphy3
+  sort_and_enrich.py  — deduplicates, removes non-Russian entries, auto-fills pos/gender/aspect via pymorphy3, sorts alphabetically
   transliterate.py     — Serbian Latin ↔ Cyrillic
   build.py             — TSV → 4 x .mobi (via kindlegen) or .azw3 (Calibre fallback)
 output/                — generated files, gitignored
