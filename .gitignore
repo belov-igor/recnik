@@ -11,6 +11,10 @@ output/epub/
 # IDE
 .idea/
 .vscode/
+.claude/
+
+# Local notes
+memory/
 
 # macOS
 .DS_Store

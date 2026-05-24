@@ -153,7 +153,8 @@ def main():
     existing_pairs = {(r["ru"], r["sr_lat"]) for r in keep}
 
     for r in keep:
-        if "tatoeba:" not in r.get("notes", ""):
+        notes = r.get("notes") or ""
+        if "tatoeba:" not in notes:
             continue
         if not is_conjugated_ru(r["ru"]):
             continue
