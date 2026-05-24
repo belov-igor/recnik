@@ -1,5 +1,6 @@
 ru	sr_lat	pos	gender	aspect	notes
-спектральный анализ	spektralna analiza	adj	f	-	
+-ец	-ac	-	-	-	
+-ость	-ost	n	f	-	
 а	a	conj	-	-	
 а	ah	conj	-	-	
 а	aha	conj	-	-	
@@ -206,6 +207,7 @@ ru	sr_lat	pos	gender	aspect	notes
 австронезийский язык	austronežanski jezik	adj	m	-	
 австрофашизм	Austrofašizam	n	m	-	
 автаркия	autarkija	n	f	-	
+авто-	auto-	-	-	-	
 автобиография	autobiografija	n	f	-	
 автоблокировка	automatsko blokiranje	n	f	-	
 автобус	autobus	n	m	-	
@@ -288,6 +290,7 @@ ru	sr_lat	pos	gender	aspect	notes
 адиабатический	adijabatski	adj	-	-	
 адипиновая кислота	adipinska kiselina	adj	f	-	
 административная юрисдикция	administrativna jurisdikcija	adj	f	-	
+административно-территориальная единица	administrativno-teritorijalna jedinica	adj	f	-	
 административный центр	administrativni centar	adj	m	-	
 администратор	administrator	n	m	-	
 администрация	administracija	n	f	-	
@@ -357,6 +360,7 @@ ru	sr_lat	pos	gender	aspect	notes
 актриса	glumica	n	f	-	
 актёр	glumac	n	m	-	
 акула	ajkula	n	f	-	
+акустика	akustika	n	f	-	
 акушеркин	babičin	adj	-	-	
 акцент	akcent	n	m	-	
 акцентирование	akcentovanje	n	nt	-	
@@ -388,6 +392,8 @@ ru	sr_lat	pos	gender	aspect	notes
 Алтай	Altaj	n	m	-	
 АЛУ	Aritmetičko-logička jedinica	n	m	-	
 алхимия	alkemija	n	f	-	
+алчность	lakomost	n	f	-	
+алчность	pohlepa	n	f	-	
 алый	grimazan	adj	-	-	
 алый	skarlet	adj	-	-	
 альбигойский	albižanski	adj	-	-	
@@ -422,6 +428,7 @@ ru	sr_lat	pos	gender	aspect	notes
 аналитический	analitičan	adj	-	-	
 аналогичный	analogan	adj	-	-	
 анальгетик	analgetik	n	m	-	
+анальный секс	analni seks	adj	m	-	
 ананас	ananas	n	m	-	
 Анапа	Anapa	n	f	-	
 анархизм	anarhizam	n	m	-	
@@ -460,8 +467,10 @@ ru	sr_lat	pos	gender	aspect	notes
 анналы	anali	n	m	-	
 аннигиляция	anihilacija	n	f	-	
 аномальный	anomalan	adj	-	-	
+аносмия	anosmija	n	f	-	
 Антверпен	Antwerpen	n	m	-	
 антиамериканизм	antiamerikanizam	n	m	-	
+антибольшевистский	antiboljševički	adj	-	-	
 антигигиенический	antihigijenski	adj	m	-	
 антигигиенический	nehigijenski	adj	m	-	
 антиглобализм	antiglobalizam	n	m	-	
@@ -474,8 +483,10 @@ ru	sr_lat	pos	gender	aspect	notes
 антикварный	antikvarski	adj	-	-	
 антикварный магазин	antikvarnica	adj	m	-	
 антикитайский	antikineski	adj	m	-	
+антиклерикализм	antiklerikalizam	n	m	-	
 антикоммунизм	antikomunizam	n	m	-	
 антикоммунистический	antikomunistički	adj	-	-	
+антимарксист	antimarksista	n	m	-	
 антиматериалистический	antimaterijalistički	adj	-	-	
 антиматерия	antimaterija	n	f	-	
 антимилитаризм	antimilitarizam	n	m	-	
@@ -697,6 +708,7 @@ ru	sr_lat	pos	gender	aspect	notes
 батискаф	batiskaf	n	m	-	
 батут	trambulina	n	m	-	
 батюшка	sveti otac	n	m	-	
+башенный кран	toranjski kran	adj	m	-	
 башка	glava	n	f	-	
 башмак	cipela	n	f	-	
 башня	toranj	n	f	-	
@@ -704,6 +716,9 @@ ru	sr_lat	pos	gender	aspect	notes
 бегать	bježati	v	-	perf	iv
 бегать	brzo	v	-	impf	tatoeba:6
 бегать	trči	v	-	impf	tatoeba:10
+беготня	sujeta	n	f	-	
+беготня	trčanje	n	f	-	
+беготня	trčkaranje	n	f	-	
 беда	beda	n	f	-	
 беда	bijeda	n	f	-	
 бедный	bedan	adj	-	-	
@@ -725,9 +740,17 @@ ru	sr_lat	pos	gender	aspect	notes
 без	vode	pr	-	-	tatoeba:10
 без	živim	pr	-	-	tatoeba:6
 безалкогольный	bezalkoholan	adj	-	-	
+безвкусный	bezukusan	adj	-	-	
+безвкусный	bljutav	adj	-	-	
+безвкусный	neukusan	adj	-	-	
+безвыгодный	beskoristan	adj	-	-	
+безвыгодный	neisplativ	adj	-	-	
 безвыходное положение	bezizlazna situacija	adj	f	-	
 безвыходное положение	ćorsokak	adj	m	-	
 безграмотность	nepismenost	n	f	-	
+бездействие	nedelovanje	n	nt	-	
+бездействие	nečinjenje	n	nt	-	
+бездействие	pasivnost	n	nt	-	
 бездеятельность	neaktivnost	n	f	-	
 бездеятельный	neaktivan	adj	-	-	
 бездоказательность	bezdokaznost	n	f	-	
@@ -735,18 +758,28 @@ ru	sr_lat	pos	gender	aspect	notes
 бездоказательный	bezdokazan	adj	-	-	
 бездоказательный	nedokazan	adj	-	-	
 беззвучный	bezvučan	adj	-	-	
+безмятежность	bezmetežnost	n	f	-	
+безмятежность	spokojstvo	n	f	-	
 безнадежный	beznadežan	adj	-	-	
 безопасность	bezopasnost	n	f	-	
 безотлагательно	hitno	adv	-	-	
 безотлагательно	neodložno	adv	-	-	
+безрезультатность	bezuspešnost	n	f	-	
+безрезультатность	neefikasnost	n	f	-	
 безрезультатный	besplodan	adj	-	-	
 безрезультатный	bezuspešan	adj	-	-	
+безрезультатный	bezuspješan	adj	-	-	
+безрезультатный	jalov	adj	-	-	
 безумный	lud	adj	-	-	
 безусловно	bezuslovno	adv	-	-	
+безуспешный	bezuspješan	adj	-	-	
+безуспешный	neuspješan	adj	-	-	
 безымянный палец	bezimeni prst	adj	m	-	
 безымянный палец	zimski prst	adj	m	-	
 безынициативный	bez inicijative	adj	-	-	
 бейсбол	bejzbol	n	m	-	tatoeba:6
+бейсболка	bejzbol kapa	n	f	-	
+бейсболка	bejzbolka	n	f	-	
 Беларусь	Belorusija	n	f	-	
 Белгород	Belgorod	n	m	-	
 Белгородская область	Belgorodska oblast	adj	f	-	
@@ -760,6 +793,7 @@ ru	sr_lat	pos	gender	aspect	notes
 Белое море	Bijelo more	adj	nt	-	
 белок	bjelance	n	nt	-	
 Белоснежка	Snežana	n	f	-	
+белый	bel	adj	-	-	
 белый	beli	adj	m	-	tatoeba:8
 белый	beo	adj	-	-	
 белый	bijel	adj	-	-	
@@ -798,12 +832,22 @@ ru	sr_lat	pos	gender	aspect	notes
 беспамятство	nesvestica	n	nt	-	
 бесплатно	besplatno	adv	-	-	
 бесплатный	besplatan	adj	-	-	
+бесплодный	besplodan	adj	-	-	
+бесплодный	jalov	adj	-	-	
+бесплодный	neplodan	adj	-	-	
+бесподобный	bez premca	adj	-	-	
+бесподобный	neuporediv	adj	-	-	
 беспокоить	uznemiravati	v	-	impf	tv
 беспокоиться	sekirati	v	-	impf	ref
 беспокойство	briga	n	f	-	
+бесполезный	beskoristan	adj	-	-	
+бесполезный	jalov	adj	-	-	
+бесполезный	uzaludan	adj	-	-	
 беспомощный	bespomoćan	adj	-	-	
+беспорядок	nered	n	m	-	
 беспредел	bezvlašće	n	m	-	
 беспредметный	bespredmetan	adj	-	-	
+беспрерывный	neprekidan	adj	-	-	
 Бессарабия	Besarabija	n	f	-	
 бессмертный	besmrtan	adj	-	-	
 бессмысленно	besmisleno	adv	-	-	
@@ -823,6 +867,8 @@ ru	sr_lat	pos	gender	aspect	notes
 бесчувственный	ravnodušan	adj	-	-	
 бесчувственный	surov	adj	-	-	
 бесчувственный	ukočen	adj	-	-	
+бесчувствие	besvest	n	nt	-	
+бесчувствие	bešćutnost	n	nt	-	
 бесшумно	bešumno	adv	-	-	
 бета-излучение	beta-zračenje	n	nt	-	
 бета-частица	beta-čestica	n	f	-	
@@ -893,6 +939,7 @@ ru	sr_lat	pos	gender	aspect	notes
 благонадёжность	pouzdanost	n	f	-	
 благонадёжность	poverljivost	n	f	-	
 благополучно	blago	adv	-	-	
+благоприятный	povoljan	adj	-	-	
 благородный	zahvalan	adj	-	-	
 благородный газ	plemeniti gas	adj	m	-	
 благосостояние	blagostanje	n	nt	-	
@@ -912,6 +959,7 @@ ru	sr_lat	pos	gender	aspect	notes
 близко	blizu	pr	-	-	
 близнец	blizanac	n	m	-	
 близорукость	kratkovidnost	n	f	-	
+близость	bliskost	n	f	-	
 блин	palačinak	n	m	-	
 блок	blok	n	m	-	
 блокнот	blok	n	m	-	
@@ -939,8 +987,11 @@ ru	sr_lat	pos	gender	aspect	notes
 богатство	obilje	n	nt	-	
 богатый	bogat	adj	-	-	
 богиня	boginja	n	f	-	
+бодрость	bodrost	n	f	-	
+бодрость	živahnost	n	f	-	
 боевая задача	borbeni zadatak	adj	m	-	
 боевик	triler	n	m	-	
+боевое искусство	borilačka veština	adj	f	-	
 боевой	ratni	adj	-	-	
 боевые действия	borbena dejstva	adj	-	-	
 боец	borac	n	m	-	
@@ -1038,6 +1089,7 @@ ru	sr_lat	pos	gender	aspect	notes
 брак	brak	n	m	-	
 брак по расчёту	brak iz interesa	n	m	-	
 брак по расчёту	brak iz računa	n	m	-	
+бранить	grditi	v	-	impf	
 брат	brat	n	m	-	
 брат	brata	n	m	-	tatoeba:8
 брат	moj	n	m	-	tatoeba:34
@@ -1071,6 +1123,9 @@ ru	sr_lat	pos	gender	aspect	notes
 бриться	brijati se	v	-	impf	
 бровь	obrva	n	f	-	
 бродить	lutati	v	-	impf	iv
+брожение	fermentacija	n	nt	-	
+брожение	previranje	n	nt	-	
+брожение	vrenje	n	nt	-	
 бронзовый	bronzani	adj	-	-	
 бросать	bacati	v	-	impf	tv
 бросать вызов	bacati izazov	v	-	impf	
@@ -1125,6 +1180,7 @@ ru	sr_lat	pos	gender	aspect	notes
 быстрый	brz	adj	-	-	
 быт	način života	n	m	-	
 бытие	postojanje	n	nt	-	
+бытовая техника	kućni aparat	adj	m	-	
 бытовая техника	kućni aparati	adj	f	-	
 быть	biti	v	-	-	
 быть	biću	v	-	impf	tatoeba:6
@@ -1156,6 +1212,7 @@ ru	sr_lat	pos	gender	aspect	notes
 в пределах досягаемости	nadohvat	pr	-	-	
 в середине	posred	pr	-	-	
 в сравнении с	naspram	pr	-	-	
+вагинальный секс	vaginalni seks	adj	m	-	
 вагинизм	vaginizam	n	m	-	
 вагон	vagon	n	m	-	
 важно	važno	adv	-	-	
@@ -1241,8 +1298,12 @@ ru	sr_lat	pos	gender	aspect	notes
 велосипед	tvoj	n	m	-	tatoeba:10
 велосипеде	bicikl	n	m	-	tatoeba:12
 велосипеде	vozi	n	m	-	tatoeba:8
+велосипедист	biciklista	n	m	-	
+велосипедист	biciklistkinja	n	m	-	
 Вена	Beč	n	f	-	
 вена	vena	n	f	-	
+вендетта	krvna osveta	n	f	-	
+вендетта	vendeta	n	f	-	
 венозная система	venski sistem	adj	m	-	
 вера	vjera	n	f	-	
 веранда	veranda	n	f	-	
@@ -1251,6 +1312,9 @@ ru	sr_lat	pos	gender	aspect	notes
 вердикт	presuda	n	m	-	
 вердикт	verdict	n	m	-	
 веревка	kanap	n	f	-	
+вереница	niz	n	f	-	
+вереница	povorka	n	f	-	
+вереница	red	n	f	-	
 верить	veruj	v	-	impf	tatoeba:6
 верить	verujem	v	-	impf	tatoeba:16
 верить	veruješ	v	-	impf	tatoeba:14
@@ -1267,6 +1331,8 @@ ru	sr_lat	pos	gender	aspect	notes
 вернуться	vratiti	v	-	perf	ref
 вернуться	će	v	-	perf	tatoeba:8
 верный	vjeran	adj	-	-	
+вероисповедание	konfesija	n	nt	-	
+вероисповедание	veroispovest	n	nt	-	
 веротерпимость	verska tolerancija	n	f	-	
 веротерпимый	verski tolerantan	adj	-	-	
 вероятно	vjerovatno	adv	-	-	
@@ -1304,6 +1370,7 @@ ru	sr_lat	pos	gender	aspect	notes
 вести	pešake	v	-	impf	tatoeba:6
 вести	voditi	v	-	impf	tv
 вести	voziš	v	-	impf	tatoeba:6
+вести себя	ponašati	v	-	impf	
 вестибулярный аппарат	vestibularni aparat	adj	m	-	
 вестись	ponašati	v	-	impf	ref
 весть	vest	n	f	-	
@@ -1399,6 +1466,7 @@ ru	sr_lat	pos	gender	aspect	notes
 видеоурок	video čas	n	m	-	
 видеоустройство	video uređaj	n	nt	-	
 видеофильм	video film	n	m	-	
+видеохостинг	videohosting	n	m	-	
 видеть	drago	v	-	impf	tatoeba:14
 видеть	gde	v	-	impf	tatoeba:10
 видеть	gledam	v	-	impf	tatoeba:6
@@ -1517,6 +1585,7 @@ ru	sr_lat	pos	gender	aspect	notes
 внести	uneti	v	-	perf	tv
 внести	unijeti	v	-	perf	tv
 внешне	spolja	adv	-	-	
+внешнеэкономическая деятельность	spoljnoekonomska delatnost	adj	f	-	
 внешний	spoljni	adj	-	-	
 внешность	izgled	n	f	-	
 внешняя политика	spoljna politika	adj	f	-	
@@ -1537,6 +1606,7 @@ ru	sr_lat	pos	gender	aspect	notes
 внутренний	unutrašnji	adj	-	-	
 внутренняя политика	unutrašnja politika	adj	f	-	
 внутри	u	pr	-	-	
+внутри-	unutar-	-	-	-	
 внутриматочный	intrauterin	adj	-	-	
 внутримолекулярный	intramolekularni	adj	-	-	
 внутриполовой	unutarpȏlni	adj	-	-	
@@ -1585,7 +1655,14 @@ ru	sr_lat	pos	gender	aspect	notes
 военный	vojnik	n	m	-	
 вождь	vožd	n	m	-	
 возбудить	uzbuditi	v	-	perf	tv
+возбуждение	ekscitacija	n	nt	-	
+возбуждение	pobuda	n	nt	-	
+возбуждение	pobuđivanje	n	nt	-	
+возбуждение	stimulacija	n	nt	-	
+возбуждение	uzbuna	n	nt	-	
 возбуждение	uzbuđenje	n	nt	-	
+возбуждённый	uzbuđen	adj	-	-	
+возбуждённый	uzrujan	adj	-	-	
 возвратиться	vratiti	v	-	perf	ref
 возвращать	vratiti	v	-	perf	ref
 возвращаться	vratiti	v	-	perf	ref
@@ -1605,6 +1682,10 @@ ru	sr_lat	pos	gender	aspect	notes
 возможность	mogućnost	n	f	-	
 возможный	moguć	adj	-	-	
 возмутиться	ogorčiti	v	-	perf	ref
+вознаграждение	kompenzacija	n	nt	-	
+вознаграждение	nadoknada	n	nt	-	
+вознаграждение	nagrada	n	nt	-	
+вознаграждение	nagrađivanje	n	nt	-	
 возникать	uzrokovati	v	-	perf	tv
 возникновение	pojava	n	f	-	
 возникнуть	nastati	v	-	impf	iv
@@ -1709,6 +1790,8 @@ ru	sr_lat	pos	gender	aspect	notes
 восстановление	﻿oporavak	n	nt	-	
 восток	istok	n	m	-	
 восторг	ushićenje	n	nt	-	
+восторженный	oduševljen	adj	-	-	
+восторженный	zanesen	adj	-	-	
 Восточная Германия	Istočna Nemačka	adj	f	-	
 Восточная Европа	Istočna Evropa	adj	f	-	
 восточнославянский	istočnoslovenski	adj	-	-	
@@ -1769,6 +1852,7 @@ ru	sr_lat	pos	gender	aspect	notes
 время	vremena	n	nt	-	tatoeba:12
 время	vrijeme	n	nt	-	
 время	zima	n	nt	-	tatoeba:6
+времяпрепровождение	provođenje vremena	n	nt	-	
 вроде	kao	pr	-	-	
 вручить	predati	v	-	perf	tv
 вряд	vjerovatno neće	adv	-	-	
@@ -1894,6 +1978,8 @@ ru	sr_lat	pos	gender	aspect	notes
 вылезть	izaći	v	-	perf	iv
 вылететь	izletjeti	v	-	perf	iv
 выложить	izložiti	v	-	perf	tv
+вымысел	fikcija	n	m	-	
+вымысел	izmišljotina	n	m	-	
 вымя	vime	n	nt	-	
 вынести	izneti	v	-	perf	tv
 вынести	iznijeti	v	-	perf	tv
@@ -1907,7 +1993,13 @@ ru	sr_lat	pos	gender	aspect	notes
 выполнение	izvršenje	n	nt	-	
 выполнить	ispuniti	v	-	perf	tv
 выполнять	ispuniti	v	-	perf	tv
+выпрямить	ispraviti	v	-	-	
+выпрямить	izravnati	v	-	-	
 выпрямиться	ispraviti	v	-	perf	ref
+выпрямление	ispravljanje	n	nt	-	
+выпуклость	ispupčenje	n	f	-	
+выпуклость	ispupčenost	n	f	-	
+выпуклость	izbočina	n	f	-	
 выпуск	izdavanje	n	nt	-	
 выпускать	ispustiti	v	-	perf	tv
 выпустить	ispustiti	v	-	perf	tv
@@ -1978,12 +2070,14 @@ ru	sr_lat	pos	gender	aspect	notes
 гаплотип	haplotip	n	m	-	
 гараж	garaža	n	f	-	
 гарантировать	garantovati	v	-	-	
+гарнир	prilog	n	m	-	
 гарпун	harpun	n	m	-	
 гарпунщик	harpunar	n	m	-	
 гастрит	gastritis	n	m	-	
 гастротомия	gastrotomija	n	f	-	
 гастроэнтерология	gastroenterologija	n	f	-	
 гафний	hafnijum	n	m	-	
+гашиш	hašiš	n	m	-	
 Гваделупа	Gvadelup	n	f	-	
 гватемальский	gvatemalski	adj	-	-	
 гвоздь	ekser	n	m	-	
@@ -2051,6 +2145,7 @@ ru	sr_lat	pos	gender	aspect	notes
 геология	geologija	n	f	-	
 геомагнетизм	geomagnetizam	n	m	-	
 геометрическая оптика	geometrijska optika	adj	f	-	
+геометрическая фигура	geometrijska figura	adj	f	-	
 геополитика	geopolitika	n	f	-	
 геофизика	geofizika	n	f	-	
 геохимия	geobemija	n	f	-	
@@ -2095,8 +2190,12 @@ ru	sr_lat	pos	gender	aspect	notes
 гиперинфляция	hiperinflacija	n	f	-	
 гипероним	hiperonim	n	m	-	
 гиперсфера	hipersfera	n	f	-	
+гипнотизировать	hipnotisati	v	-	impf	
+гипнотизёр	hipnotizer	n	m	-	
+гипнотизёр	hipnotičar	n	m	-	
 гипнофобия	hipnofobija	n	f	-	
 гипотетически	hipotetično	adv	-	-	
+гипотетический	hipotetički	adj	-	-	
 гистохимия	histohemija	n	f	-	
 гитара	gitara	n	f	-	
 гитаре	gitaru	n	f	-	tatoeba:8
@@ -2197,7 +2296,7 @@ ru	sr_lat	pos	gender	aspect	notes
 головка полового члена	glavica penisa	n	f	-	
 головная боль	glavobolja	adj	f	-	
 головной	glava	adj	-	-	
-головной мозг	mozak	n	m	-
+головной мозг	mozak	n	m	-	
 головня	glȁvnja	n	f	-	
 головокружение	vrtoglavica	n	nt	-	
 головоломка	slagalica	n	f	-	
@@ -2297,6 +2396,7 @@ ru	sr_lat	pos	gender	aspect	notes
 готовый	gotov	adj	-	-	
 гравастар	gravazvezda	n	m	-	
 гравитационная волна	gravitacioni talas	adj	m	-	
+гравитационный коллапс	gravitacioni kolaps	adj	m	-	
 гравитон	graviton	n	m	-	
 град	grad	n	m	-	
 градус	stepen	n	m	-	
@@ -2320,6 +2420,8 @@ ru	sr_lat	pos	gender	aspect	notes
 графикой	rasterske	n	f	-	tatoeba:8
 графикой	razlika	n	f	-	tatoeba:8
 графикой	vektorske	n	f	-	tatoeba:8
+графин	bokal	n	m	-	
+графин	grafin	n	m	-	
 грек	grk	n	m	-	
 греметь	grmeti	v	-	impf	iv
 грех	greh	n	m	-	
@@ -2331,6 +2433,7 @@ ru	sr_lat	pos	gender	aspect	notes
 гриб	pečurka	n	m	-	
 гроб	grob	n	m	-	
 гроб	kovčeg	n	m	-	
+гроб	les	n	m	-	
 гроб	lijes	n	m	-	
 гроза	oluja	n	f	-	
 грозить	pretiti	v	-	impf	tv
@@ -2344,6 +2447,7 @@ ru	sr_lat	pos	gender	aspect	notes
 громко	jako	adv	-	-	
 громче	glasnije	adj	-	-	tatoeba:6
 грохот	sudar	n	m	-	
+грубить	grubiti	v	-	impf	
 грубо	grubo	adv	-	-	
 грубый	grub	adj	-	-	
 грудная клетка	grudni koš	adj	m	-	
@@ -2352,6 +2456,9 @@ ru	sr_lat	pos	gender	aspect	notes
 грузинка	Gruzijka	n	f	-	
 грузинский язык	gruzijski	adj	m	-	
 грузинский язык	gruzijski jezik	adj	m	-	
+грузный	krupan	adj	-	-	
+грузный	nezgrapan	adj	-	-	
+грузный	težak	adj	-	-	
 грузовик	kamion	n	m	-	
 грузовой автомобиль	kamion	adj	m	-	
 грузовой автомобиль	teretna kola	adj	f	-	
@@ -2360,6 +2467,7 @@ ru	sr_lat	pos	gender	aspect	notes
 группа	grupa	n	f	-	
 группа крови	krvna grupa	n	f	-	
 группировка	grupisanje	n	nt	-	
+групповой секс	grupni seks	adj	m	-	
 грустно	tužno	adv	-	-	
 грустный	tužan	adj	-	-	
 груша	kruška	n	f	-	
@@ -2464,9 +2572,14 @@ ru	sr_lat	pos	gender	aspect	notes
 двоеточие	dvotačka	n	nt	-	
 двоецарствие	savladarstvo	n	nt	-	
 двойной	dvojan	adj	-	-	
+двойственный	ambivalentan	adj	-	-	
+двойственный	dvojan	adj	-	-	
+двойственный	protivrečan	adj	-	-	
 двор	dvor	n	m	-	
 двор	dvorište	n	m	-	tatoeba:6
 дворец	dvorac	n	m	-	
+двусмысленный	dvosmislen	adj	-	-	
+двусмысленный	nejednoznačan	adj	-	-	
 двух	dva	num	-	-	tatoeba:8
 двухпартийность	dvopartijski sistem	n	f	-	
 девальвировать	devalvirati	v	-	-	
@@ -2544,6 +2657,7 @@ ru	sr_lat	pos	gender	aspect	notes
 деле	zaista	n	nt	-	tatoeba:6
 делегация	delegacija	n	f	-	
 деление с остатком	kongruencija	n	nt	-	
+делиберативная демократия	deliberativna demokratija	adj	f	-	
 деликтология	deliktologija	n	f	-	
 деликтоспособность	deliktna sposobnost	n	f	-	
 делимитация	delimitacija	n	f	-	
@@ -2568,6 +2682,9 @@ ru	sr_lat	pos	gender	aspect	notes
 демонология	demonologija	n	f	-	
 демонополизация	demonopolizacija	n	f	-	
 демонстрировать	demonstirati	v	-	perf	tv
+деморализация	demoralizacija	n	f	-	
+деморализация	pad borbenog morala	n	f	-	
+деморализовать	demoralisati	v	-	impf	
 денатурализация	denaturalizacija	n	f	-	
 денационализация	denacionalizacija	n	f	-	
 денег	bez	n	f	-	tatoeba:10
@@ -2643,8 +2760,11 @@ ru	sr_lat	pos	gender	aspect	notes
 деревянный	drven	adj	-	-	
 держать	držati	v	-	impf	tv
 держаться	držati	v	-	impf	ref
+дерзить	bezobrazno odgovarati	v	-	impf	
+дерзить	drzničiti	v	-	impf	
 дернуть	povući	v	-	perf	tv
 дерьмо	sranje	n	nt	-	
+десоветизация	desovjetizacija	n	f	-	
 десоциализация	desocijalizacija	n	f	-	
 деспотизм	despotizam	n	m	-	
 Деспотовац	Despotovac	n	m	-	
@@ -2727,11 +2847,20 @@ ru	sr_lat	pos	gender	aspect	notes
 диск	disk	n	m	-	
 дисквалифай	diskvalifikacija	n	m	-	
 дисквалификация	diskvalifikacija	n	f	-	
+дискомфорт	diskomfor	n	m	-	
+дискомфорт	nelagodnost	n	m	-	
+дискомфортный	diskomforan	adj	-	-	
+дискомфортный	neudoban	adj	-	-	
 дисконтирование	diskontovanje	n	nt	-	
 диспозитивность	dispozitivnost	n	f	-	
 диссекция	disekcija	n	f	-	
 дисциплина	disciplina	n	f	-	
 дисциплина	predmet	n	f	-	
+дисциплинированность	disciplina	n	f	-	
+дисциплинированность	disciplinovanost	n	f	-	
+дисциплинированность	samodisciplina	n	f	-	
+дисциплинированный	disciplinovan	adj	-	-	
+дисциплинировать	disciplinovati	v	-	-	
 дифениламин	difenilamin	n	m	-	
 дифтонг	dvoglas	n	m	-	
 дифференциация	diferencijacija	n	f	-	
@@ -2786,6 +2915,9 @@ ru	sr_lat	pos	gender	aspect	notes
 доброе	dobro	adj	nt	-	tatoeba:14
 доброе	jutro	adj	nt	-	tatoeba:10
 доброе утро	dobro jutro	adj	nt	-	
+добропорядочный	pošten	adj	-	-	
+добропорядочный	pristojan	adj	-	-	
+добропорядочный	čestit	adj	-	-	
 добрый	dan	adj	m	-	tatoeba:8
 добрый	dobar	adj	-	-	
 добывать	nabavljati	v	-	impf	tv
@@ -2901,6 +3033,7 @@ ru	sr_lat	pos	gender	aspect	notes
 допускать	dopustiti	v	-	perf	tv
 допустимый	dopušten	adj	-	-	
 допустить	dopustiti	v	-	perf	tv
+дорама	dorama	n	f	-	
 дорога	kolovoz	n	f	-	
 дорогие	dragi	adj	-	-	tatoeba:6
 дорого	skupo	adv	-	-	
@@ -2969,6 +3102,8 @@ ru	sr_lat	pos	gender	aspect	notes
 дремать	spavati	v	-	perf	iv
 дрессировать	dresirati	v	-	impf	
 дрессировать	ukroćavati	v	-	impf	
+дрессировщик	dreser	n	m	-	
+дрессировщик	krotitelj	n	m	-	
 дробь	razlomak	n	f	-	
 дрова	drva	n	nt	-	
 дрова	skosje	n	nt	-	
@@ -3004,6 +3139,8 @@ ru	sr_lat	pos	gender	aspect	notes
 Друскининкай	Druskininkai	n	m	-	
 Друскининкай	Druškininkaj	n	m	-	
 дрянь	đubre	n	nt	-	
+дряхлость	nemoć	n	f	-	
+дряхлость	oronulost	n	f	-	
 дуализм	dualizam	n	m	-	
 дуб	hrast	n	m	-	
 дума	duma	n	f	-	
@@ -3027,6 +3164,8 @@ ru	sr_lat	pos	gender	aspect	notes
 дуть	sa	v	-	impf	tatoeba:6
 дуть	vetar	v	-	impf	tatoeba:12
 дух	duh	n	m	-	
+духовенство	kler	n	nt	-	
+духовенство	sveštenstvo	n	nt	-	
 духовный	duhovan	adj	-	-	
 душа	duša	n	f	-	
 Душанбе	Dušanbe	n	m	-	
@@ -3097,6 +3236,7 @@ ru	sr_lat	pos	gender	aspect	notes
 енот-полоскун	rakun	n	m	-	
 Ереван	Erevan	n	m	-	
 Ереван	Jerevan	n	m	-	
+еретик	jeretik	n	m	-	
 ерунда	besmislica	n	f	-	
 естественно	prirodno	adv	-	-	
 естественность	prirodnost	n	f	-	
@@ -3128,6 +3268,8 @@ ru	sr_lat	pos	gender	aspect	notes
 жалкий	žalostan	adj	-	-	
 жалко	žao	adv	-	-	
 жалоба	žalba	n	f	-	
+жалованье	plata	n	nt	-	
+жалованье	zarada	n	nt	-	
 жаловаться	žaliti	v	-	impf	ref
 жалость	žalost	n	f	-	
 жаль	žao	part	-	-	tatoeba:10
@@ -3258,7 +3400,9 @@ ru	sr_lat	pos	gender	aspect	notes
 заблаговременный	unapred	adj	-	-	
 заблагорассудить	naći za dobro	v	-	-	
 заблагорассудить	smatrati podobnim	v	-	-	
+заболевание	bolest	n	nt	-	
 заболевание	oboljenje	n	nt	-	
+заболевание	razboljevanje	n	nt	-	
 заболеть	zaboleti	v	-	perf	tv
 забор	ograda	n	f	-	
 забота	briga	n	f	-	
@@ -3287,6 +3431,8 @@ ru	sr_lat	pos	gender	aspect	notes
 зависимость	zavisnost	n	f	-	
 зависть	ljubomora	n	f	-	
 завод	fabrika	n	f	-	
+завоевание	osvajanje	n	nt	-	
+завоевание	tekovina	n	nt	-	
 Заволжск	Zavolšk	n	m	-	
 завтра	ceo	adv	-	-	tatoeba:10
 завтра	dan	adv	-	-	tatoeba:16
@@ -3304,6 +3450,8 @@ ru	sr_lat	pos	gender	aspect	notes
 заговор	zavjera	n	f	-	
 заговорить	dogovoriti	v	-	perf	iv
 Загреб	Zagreb	n	m	-	
+загромоздить	natrpati	v	-	-	
+загромоздить	zatrpati	v	-	-	
 зад	pozadina	n	f	-	
 задавать	zadati	v	-	perf	tv
 задание	zadatak	n	nt	-	
@@ -3466,6 +3614,8 @@ ru	sr_lat	pos	gender	aspect	notes
 затем	onda	adv	-	-	
 затем	zatim	adv	-	-	
 затихнуть	zatihnuti	v	-	perf	tv
+затруднительность	teškoća	n	f	-	
+затруднительный	težak	adj	-	-	
 затылок	potiljak	n	m	-	
 затылочная кость	potiljačna kost	adj	f	-	
 затянуться	zategnuti	v	-	perf	ref
@@ -3504,6 +3654,8 @@ ru	sr_lat	pos	gender	aspect	notes
 звенеть	zvoniti	v	-	impf	iv
 звериный	animalan	adj	-	-	
 звериный	životinjski	adj	-	-	
+звероподобный	bestijalan	adj	-	-	
+звероподобный	zverolik	adj	-	-	
 зверь	zver	n	f	-	
 зверь	zvijer	n	f	-	
 звон	zvono	n	nt	-	
@@ -3550,6 +3702,7 @@ ru	sr_lat	pos	gender	aspect	notes
 зима	zima	n	f	-	
 зимний	zimski	adj	-	-	
 зимы	zime	n	f	-	tatoeba:6
+зингшпиль	zingšpil	n	m	-	
 Злата	Zlata	n	f	-	
 злато	zlato	n	nt	-	
 Златоуст	Zlatoust	n	m	-	
@@ -3557,9 +3710,15 @@ ru	sr_lat	pos	gender	aspect	notes
 зло	zlo	n	nt	-	
 злоба	zloba	n	f	-	
 зловещий	zao	adj	-	-	
+злодей	hulja	n	m	-	
+злодей	nevaljalac	n	m	-	
+злодей	nitkov	n	m	-	
+злодей	zlotvor	n	m	-	
+злодей	zločinac	n	m	-	
 злодеяние	zločin	n	nt	-	
 злодеяние	zločinstvo	n	nt	-	
 злой	zao	adj	-	-	
+злокачественная опухоль	maligni tumor	adj	m	-	
 злость	zloba	n	f	-	
 злюка	zlica	n	-	-	
 змей	zmija	n	f	-	
@@ -3618,6 +3777,8 @@ ru	sr_lat	pos	gender	aspect	notes
 зонт	kišobran	n	m	-	tatoeba:10
 зонтик	kišobran	n	m	-	tatoeba:20
 зонтик	tvoj	n	m	-	tatoeba:6
+зоозащитник	zaštitnik životinja	n	m	-	
+зоозащитник	zoozastitnik	n	m	-	
 зоология	zoologija	n	f	-	
 зоофилия	zoofilija	n	f	-	
 зрачок	zenica	n	m	-	
@@ -3635,6 +3796,8 @@ ru	sr_lat	pos	gender	aspect	notes
 Иваново	Ivanovo	n	nt	-	
 Ивановская область	Ivanovska oblast	adj	f	-	
 Ивица	Ivica	np	m	-	
+игнорирование	ignorisanje	n	nt	-	
+игнорировать	ignorisati	v	-	impf	
 игра	igra	n	f	-	
 играть	dobro	v	-	impf	tatoeba:8
 играть	fudbal	v	-	impf	tatoeba:6
@@ -3661,9 +3824,12 @@ ru	sr_lat	pos	gender	aspect	notes
 игрушка	igračka	n	f	-	
 игумен	iguman	n	m	-	
 идеал	ideal	n	m	-	
+идеализировать	idealizovati	v	-	-	
 идеализм	idealizam	n	m	-	
+идеальность	idealnost	n	f	-	
 идеальный	idealan	adj	-	-	
 идеи	ideje	n	f	-	tatoeba:8
+идентичный	identičan	adj	-	-	
 идеологема	ideologema	n	f	-	
 идеологический	ideološki	adj	-	-	
 идеология	ideologija	n	f	-	
@@ -3672,6 +3838,7 @@ ru	sr_lat	pos	gender	aspect	notes
 идея	ideju	n	f	-	tatoeba:8
 идиллический	idiličan	adj	-	-	
 идиот	idiot	n	m	-	
+идиотский	idiotski	adj	-	-	
 идти	dana	v	-	impf	tatoeba:8
 идти	idem	v	-	impf	tatoeba:14
 идти	idemo	v	-	impf	tatoeba:6
@@ -3695,6 +3862,7 @@ ru	sr_lat	pos	gender	aspect	notes
 иена	jen	n	f	-	
 иерархия	hijerarhija	n	f	-	
 иерей	jerej	n	m	-	
+иероглифика	jeroglifika	n	f	-	
 Иерусалим	Jerusalim	n	m	-	
 Иерусалим	Jeruzalem	n	m	-	
 Ижевск	Iževsk	n	m	-	
@@ -3759,6 +3927,9 @@ ru	sr_lat	pos	gender	aspect	notes
 икра	ikra	n	f	-	
 ил	mulj	n	m	-	
 Иллинойс	Ilinois	n	m	-	
+иллюзионист	iluzionist	n	m	-	
+иллюминировать	iluminirati	v	-	-	
+иллюминировать	osvetliti	v	-	-	
 имам	imam	n	m	-	
 имбецильность	imbecilnost	n	f	-	
 имена	imena	n	nt	-	tatoeba:14
@@ -3770,6 +3941,8 @@ ru	sr_lat	pos	gender	aspect	notes
 имени	ime	n	nt	-	tatoeba:8
 именительный падеж	nominativ	adj	m	-	
 именительный падеж	prvi padež	adj	m	-	
+именовать	imenovati	v	-	impf	
+именовать	nazivati	v	-	impf	
 иметь	imao	v	-	impf	tatoeba:8
 иметь	imati	v	-	impf	tv
 иметь	misliti	v	-	impf	tatoeba:6
@@ -3777,6 +3950,8 @@ ru	sr_lat	pos	gender	aspect	notes
 иметь	nisam	v	-	impf	tatoeba:8
 иметь	pojma	v	-	impf	tatoeba:8
 иметься	imati	v	-	impf	tv
+имитация	imitacija	n	f	-	
+имитировать	imitirati	v	-	impf	
 иммунная система	imuni sistem	adj	m	-	
 иммунный ответ	imuni odgovor	adj	m	-	
 иммунобиолог	imunobiolog	n	m	-	
@@ -3786,15 +3961,20 @@ ru	sr_lat	pos	gender	aspect	notes
 император	imperator	n	m	-	
 императрица	carica	n	f	-	
 императрица	imperatorica	n	f	-	
+империализм	imperijalizam	n	m	-	
 империалист	imperijalista	n	m	-	
 империя	imperija	n	f	-	
 импичмент	impečment	n	m	-	
 имплементация	implementacija	n	f	-	
 имплементация	sprovođenje	n	f	-	
+импортировать	importirati	v	-	-	
+импортировать	uvoziti	v	-	-	
 импортозависимость	trgovina žitom	n	f	-	
 импортозависимость	žitna trgovina	n	f	-	
 импортозамещение	supstitucija uvoza	n	nt	-	
 импортозамещение	zamena uvoza	n	nt	-	
+импортёр	importer	n	m	-	
+импортёр	uvoznik	n	m	-	
 имущество	imovina	n	f	-	
 имя	ime	n	nt	-	
 имя	kako	n	nt	-	tatoeba:6
@@ -3824,6 +4004,7 @@ ru	sr_lat	pos	gender	aspect	notes
 инженер	inženjer	n	m	-	
 инициатива	inicijativa	n	f	-	
 инициативность	inicijativnost	n	f	-	
+инициатор	inicijator	n	m	-	
 инкорпорация	inkorporacija	n	f	-	
 инкорпорация	inkorporacija zakona	n	f	-	
 инкорпорация	kulturna inkorporacija	n	f	-	
@@ -3844,6 +4025,7 @@ ru	sr_lat	pos	gender	aspect	notes
 институт	institut	n	m	-	
 институционализация	institucionalizacija	n	f	-	
 институционализм	institucionalizam	n	m	-	
+институциональный	institucionalan	adj	-	-	
 инструкция	instrukcija	n	f	-	
 инструмент	instrument	n	m	-	
 интеграза	integraza	n	f	-	
@@ -3867,6 +4049,7 @@ ru	sr_lat	pos	gender	aspect	notes
 интернационализм	internacionalizam	n	m	-	
 Интернет	internet	n	m	-	
 интернет	internet	n	m	-	
+интерпелляция	interpelacija	n	f	-	
 интимность	intimnost	n	f	-	
 интимный	intiman	adj	-	-	
 интонация	intonacija	n	f	-	
@@ -3887,6 +4070,7 @@ ru	sr_lat	pos	gender	aspect	notes
 ионизационный	jonizacijski	adj	-	-	
 ионизация	ionizacija	n	f	-	
 ионический	jonski	adj	-	-	
+ипотека	hipoteka	n	f	-	
 ипподром	hipodrom	n	m	-	
 иприт	iperit	n	m	-	
 ир	Irac	n	m	-	
@@ -3956,6 +4140,7 @@ ru	sr_lat	pos	gender	aspect	notes
 итальянский	učio	adj	m	-	tatoeba:6
 итог	ukupno	n	nt	-	
 их	njihov	prn	-	-	
+ихтиолог	ihtiolog	n	m	-	
 июль	jul	n	m	-	
 июль	Jul	n	m	-	
 июнь	jun	n	m	-	
@@ -3977,6 +4162,7 @@ ru	sr_lat	pos	gender	aspect	notes
 каблук	podpetica	n	f	-	
 кавалерист	konjanik	n	m	-	
 кавалерия	konjica	n	f	-	
+кавардак	kavardak	n	m	-	
 кавказ	kavkaz	n	m	-	
 Кавказ	Kavkaz	n	m	-	
 кадмий	kadmij	n	m	-	
@@ -4025,6 +4211,7 @@ ru	sr_lat	pos	gender	aspect	notes
 каком	koji	adj	m	-	tatoeba:10
 какую	kakvu	adj	f	-	tatoeba:6
 калач	kolač	n	m	-	
+калибр	kalibar	n	m	-	
 калий	kalijum	n	m	-	
 Калимантан	Kalimantan	n	m	-	
 Калининградская область	Kalinjingradska oblast	adj	f	-	
@@ -4041,10 +4228,12 @@ ru	sr_lat	pos	gender	aspect	notes
 каменный	kamen	adj	-	-	
 каменотёс	kamenores	n	m	-	
 каменотёс	kamenoresan	n	m	-	
+каменотёс	kamenorezac	n	m	-	
 Каменск-Уральский	Kamensk-Uralski	n	m	-	
 камень	kamen	n	m	-	
 камера	kamera	n	f	-	
 Камиль	Kamil	n	m	-	
+камин	kamin	n	m	-	
 камни	kamenje	n	m	-	tatoeba:6
 кампания	kompanija	n	f	-	
 Кампучия	Kambodža	n	f	-	
@@ -4056,15 +4245,19 @@ ru	sr_lat	pos	gender	aspect	notes
 кандидат	kandidat	n	m	-	
 Канзас	Kansas	n	m	-	
 каникулы	raspust	n	-	-	tatoeba:6
+каннабис	kanabis	n	m	-	
 каннибал	kanibal	n	m	-	
 каннибализм	kanibalizam	n	m	-	
 каннибализм	ljudožderstvo	n	m	-	
 канонерка	topovnjača	n	f	-	
 канонизировать	kanonizovati	v	-	-	
+кантон	kanton	n	m	-	
 канцонетта	kanconeta	n	f	-	
+каньон	kanjon	n	m	-	
 каолин	kaolin	n	m	-	
 каолинит	kaolinit	n	m	-	
 Капан	Kapan	n	m	-	
+капеллан	kapelan	n	m	-	
 капитал	kapital	n	m	-	
 капитализация	kapitalizacija	n	f	-	
 капитализм	kapitalizam	n	m	-	
@@ -4078,6 +4271,8 @@ ru	sr_lat	pos	gender	aspect	notes
 капуста	kupus	n	f	-	
 капуста	repa	n	f	-	
 капуста	zelje	n	f	-	
+капюшон	kapuljača	n	m	-	
+караван	karavan	n	m	-	
 Караганда	Karaganda	n	f	-	
 Каракас	Caracas	n	m	-	
 караконджул	karakondžula	n	m	-	
@@ -4090,25 +4285,41 @@ ru	sr_lat	pos	gender	aspect	notes
 карбоновая кислота	ugaljena kiselina	adj	f	-	
 карбоновая кислота	ugljena kiselina	adj	f	-	
 карбюрация	karburacija	n	f	-	
+кардиотренировка	kardio trening	n	f	-	
+кардиотренировка	kardio vežba	n	f	-	
 Карелия	Karelija	n	f	-	
 Карибское море	Karipsko more	adj	nt	-	
 кариес	karijes	n	m	-	
 карман	džep	n	m	-	
+карнавал	karneval	n	m	-	
 карта	karta	n	f	-	
 картина	slika	n	f	-	
 картинг	karting	n	m	-	
 картинка	slika	n	f	-	
 картину	sliku	n	f	-	tatoeba:6
+картограф	kartograf	n	m	-	
+картотека	kartoteka	n	f	-	
 карточка	kartica	n	f	-	
 картошка	krompir	n	f	-	
+картёжник	kartaš	n	m	-	
+картёжник	kockar	n	m	-	
+карусель	ringišpil	n	f	-	
+карусель	vrteška	n	f	-	
+карусель	vrtlog	n	f	-	
 карьера	karjera	n	f	-	
+карьерист	karijerist	n	m	-	
 касательно	odnosno	pr	-	-	
 касаться	ticati	v	-	impf	ref
 Каспийское море	Kaspijsko more	adj	nt	-	
 касса	kasa	n	f	-	
 каста	kasta	n	f	-	
 кастрюля	šerpa	n	f	-	
+каталог	direktorijum	n	m	-	
+каталог	fascikla	n	m	-	
+каталог	katalog	n	m	-	
+каталогизировать	katalogizovati	v	-	-	
 катана	katana	n	f	-	
+катапульта	katapult	n	f	-	
 катарсис	katarza	n	m	-	
 катастрофа	katastrofa	n	f	-	
 катастрофический	katastrofalan	adj	-	-	
@@ -4117,21 +4328,30 @@ ru	sr_lat	pos	gender	aspect	notes
 кататься	vozati	v	-	impf	ref
 категорически	kategorijski	adv	-	-	
 категория	kategorija	n	f	-	
+категория	razred	n	f	-	
 катер	brod	n	m	-	
 катетер	kateter	n	m	-	
 катион	katjon	n	m	-	
 катить	voziti	v	-	impf	tv
 катиться	okretati	v	-	impf	ref
+католик	katolik	n	m	-	
 католицизм	katolicizam	n	m	-	
 католицизм	katoličanstvo	n	m	-	
 катрен	katren	n	m	-	
+каузальный	kauzalan	adj	-	-	
+каузальный	uzročan	adj	-	-	
+каучук	kaučuk	n	m	-	
+каучуковый	kaučukov	adj	-	-	
 кафе	kafe	n	m	-	
+кафедра	katedra	n	f	-	
 качать	skidati	v	-	impf	tv
 качаться	ljuljati	v	-	impf	ref
 качели	ljuljaška	n	m	-	
 качество	kvalitet	n	nt	-	
 каша	kaša	n	f	-	
 кашель	kašalj	n	m	-	
+кашлять	kašljati	v	-	impf	
+каштан	kesten	n	m	-	
 каюта	kabina	n	f	-	
 Кая	Država Kayah	n	f	-	
 кая	Karenni	n	m	-	
@@ -4146,6 +4366,7 @@ ru	sr_lat	pos	gender	aspect	notes
 квантовая химия	kvantna hemija	adj	f	-	
 квантовое состояние	kvantno stanje	adj	nt	-	
 квантовое число	kvantni broj	adj	m	-	
+квантовомеханический	kvantnomehanički	adj	-	-	
 квартал	kvartal	n	m	-	
 квартира	stan	n	f	-	
 квартире	stanu	n	f	-	tatoeba:8
@@ -4154,6 +4375,7 @@ ru	sr_lat	pos	gender	aspect	notes
 квас	kvas	n	m	-	
 кгб	kgb	n	nt	-	
 кейнсианство	kejnzijanstvo	n	nt	-	
+кельтский	keltski	adj	-	-	
 кем	sa	prn	m	-	tatoeba:6
 Кемерово	Kemerovo	n	nt	-	
 Кемеровская область	Kemerovska oblast	adj	f	-	
@@ -4161,6 +4383,9 @@ ru	sr_lat	pos	gender	aspect	notes
 кена	ima	n	m	-	tatoeba:6
 кена	ken	n	m	-	tatoeba:6
 Кентукки	Kentaki	n	m	-	
+керамика	grnčarija	n	f	-	
+керамика	grnčarstvo	n	f	-	
+керамика	keramika	n	f	-	
 кесадилья	kesadilja	n	f	-	
 кесарево сечение	carski rez	adj	nt	-	
 кетчуп	kečap	n	m	-	
@@ -4175,6 +4400,7 @@ ru	sr_lat	pos	gender	aspect	notes
 Киевская Русь	Kijevska Rusija	adj	f	-	
 кизил	dren	n	m	-	
 килограмм	kilogram	n	m	-	
+килокалория	kilokalorija	n	f	-	
 километр	kilometar	n	m	-	
 килт	kilt	n	m	-	
 кинетическая энергия	kinetička energija	adj	f	-	
@@ -4222,6 +4448,7 @@ ru	sr_lat	pos	gender	aspect	notes
 кладбище	mezarluk	n	nt	-	
 кладбище	pokopalište	n	nt	-	
 класс	razred	n	m	-	
+классик	klasik	n	m	-	
 классификация	klasifikacija	n	f	-	
 классический	klasičan	adj	-	-	
 классообразование	klasoobrazovanje	n	nt	-	
@@ -4238,6 +4465,8 @@ ru	sr_lat	pos	gender	aspect	notes
 клещ	krpelj	n	m	-	
 клиент	klent	n	m	-	
 клиент	klijent	n	m	-	
+клизма	klistir	n	f	-	
+клизма	klizma	n	f	-	
 клиническая психология	klinička psihologija	adj	f	-	
 клинопись	klinasto pismo	n	f	-	
 клинопись	klino pismo	n	f	-	
@@ -4245,6 +4474,9 @@ ru	sr_lat	pos	gender	aspect	notes
 клитор	dražica	n	m	-	
 клитор	klitoris	n	m	-	
 кличка	nadimak	n	f	-	
+клише	kliše	n	nt	-	
+клише	stereotip	n	nt	-	
+клише	šablon	n	nt	-	
 клуб	klub	n	m	-	
 клык	očnjak	n	m	-	
 ключ	ključ	n	m	-	tatoeba:10
@@ -4307,6 +4539,7 @@ ru	sr_lat	pos	gender	aspect	notes
 кого	tamo	prn	m	-	tatoeba:6
 кого	znaš	prn	m	-	tatoeba:6
 кодекс	kodeks	n	m	-	
+кодекс	zakonik	n	m	-	
 кое	nešto	adj	nt	-	tatoeba:14
 кожа	koža	n	f	-	
 кожаный	kožni	adj	-	-	
@@ -4317,6 +4550,11 @@ ru	sr_lat	pos	gender	aspect	notes
 козел	koza	n	f	-	
 койка	krevet	n	m	-	
 койот	kojot	n	m	-	
+кокетничать	koketirati	v	-	impf	
+кокетство	koketerija	n	nt	-	
+кокетство	koketstvo	n	nt	-	
+кокон	kokon	n	m	-	
+кокон	čahura	n	m	-	
 кол	učešće	n	nt	-	
 колбаса	kobasica	n	f	-	
 колдун	čarobnjak	n	m	-	
@@ -4325,9 +4563,16 @@ ru	sr_lat	pos	gender	aspect	notes
 колено	koleno	n	nt	-	
 колено	koljeno	n	nt	-	
 колесо	točak	n	nt	-	
+колибри	kolibri	n	m	-	
 Колизей	Koloseum	n	m	-	
 количество	količina	n	f	-	
+коллаборационизм	kolaboracionizam	n	m	-	
+коллаборационист	kolaboracionist	n	m	-	
 коллайдер	sudarač	n	m	-	
+коллапс	gravitacioni kolaps	n	m	-	
+коллапс	kolaps	n	m	-	
+коллапс	krah	n	m	-	
+коллапс	slom	n	m	-	
 коллега	kolega	n	m	-	
 коллектив	kolektiv	n	m	-	
 коллективная память	kolektivno pamćenje	adj	nt	-	
@@ -4344,12 +4589,15 @@ ru	sr_lat	pos	gender	aspect	notes
 колонизация	kolonizacija	n	f	-	
 колонизировать	kolonizirati	v	-	-	
 колонизировать	kolonizovati	v	-	-	
+колония	kaznena kolonija	n	f	-	
+колония	kolonija	n	f	-	
 колонна	kolona	n	f	-	
 колоноскопия	kolonoskopija	n	f	-	
 Колорадо	Kolorado	n	nt	-	
 колоть	ubadati	v	-	perf	tv
 колхоз	kolegijum	n	m	-	
 колыбель	kolevka	n	f	-	
+Кольский полуостров	Koljsko poluostrvo	adj	nt	-	
 кольцо	prsten	n	nt	-	
 колючий	bodat	adj	-	-	
 кома	koma	n	f	-	
@@ -4369,16 +4617,22 @@ ru	sr_lat	pos	gender	aspect	notes
 комбинаторная лингвистика	kombinatorna lingvistika	adj	f	-	
 комбинаторный анализ	kombinatorna analiza	adj	f	-	
 комедиограф	komediograf	n	m	-	
+комедия дель арте	komedija del arte	n	f	-	
 комендант	komandant	n	m	-	
 комиссар	komesar	n	m	-	
+комиссариат	komesarijat	n	m	-	
 комиссия	komisija	n	f	-	
 комитет	komitet	n	m	-	
+комическая опера	komična opera	adj	f	-	
 комментарий	komentar	n	m	-	tatoeba:8
 комментарий	lako	n	m	-	tatoeba:8
 комментарий	način	n	m	-	tatoeba:8
 комментарий	njegov	n	m	-	tatoeba:8
 комментарий	pogrešan	n	m	-	tatoeba:8
 комментарий	razumeti	n	m	-	tatoeba:8
+комментатор	komentator	n	m	-	
+комментатор	komentatorka	n	m	-	
+комментировать	komentarisati	v	-	impf	
 коммерциализация	komercijalizacija	n	f	-	
 коммерциализировать	komercijalizovati	v	-	-	
 коммерческая тайна	poslovna tajna	adj	f	-	
@@ -4392,52 +4646,96 @@ ru	sr_lat	pos	gender	aspect	notes
 комнате	sobi	n	f	-	tatoeba:14
 комнату	sobu	n	f	-	tatoeba:16
 компания	kompanija	n	f	-	
+компаньон	drug	n	m	-	
+компаньон	kompanjon	n	m	-	
+компаньон	partner	n	m	-	
+компаньон	pratilac	n	m	-	
 компаративистика	komparativna lingvistika	n	f	-	
 компаративистика	uporedna lingvistika	n	f	-	
+компенсировать	kompenzovati	v	-	-	
+компенсировать	nadoknaditi	v	-	-	
+компиляция	kompajliranje	n	f	-	
+компиляция	kompilacija	n	f	-	
 комплекс	kompleks	n	m	-	
+комплимент	kompliment	n	m	-	
+композиция	kompozicija	n	f	-	
+композиция	krvnina	n	f	-	
+композиция	sklop	n	f	-	
+композиция	vražda	n	f	-	
+композиция	šahovska kompozicija	n	f	-	
 компьютер	imam	n	m	-	tatoeba:8
 компьютер	kompjuter	n	m	-	
 компьютер	moj	n	m	-	tatoeba:10
 компьютер	računar	n	m	-	tatoeba:20
 компьютерная игра	kompjuterska igra	adj	f	-	
 компьютерная лингвистика	računarska lingvistika	adj	f	-	
+компьютерная сеть	računarska mreža	adj	f	-	
 комсомолец	komsmolac	n	m	-	
 Комсомольск-на-Амуре	Komsomolsk na Amuru	n	m	-	
 комсомольский	kosmoljski	adj	-	-	
+комфорт	komfor	n	m	-	
+комфорт	udobnost	n	m	-	
 конверт	konverta	n	f	-	
 конвертируемость	konvertibilnost	n	f	-	
 конвульсивный	grčevit	adj	-	-	
+кондитер	poslastičar	n	m	-	
+кондитер	slastičar	n	m	-	
 конец	ima	n	m	-	tatoeba:8
 конец	kraj	n	m	-	
 конечно	naravno	adv	-	-	
 конечный	konačan	adj	-	-	
 конкретный	konkretan	adj	-	-	
+конкурент	konkurent	n	m	-	
+конкурент	takmičar	n	m	-	
 конкурентное преимущество	konkurentska prednost	adj	f	-	
 конкурентоспособность	konkurentnost	n	f	-	
+конкурировать	konkurisati	v	-	impf	
+конкурировать	takmičiti se	v	-	impf	
 конкурс	konkurs	n	m	-	
 конная полиция	konjska policija	adj	f	-	
 Коннектикут	Konektikat	n	m	-	
 консенсус	konsenzus	n	m	-	
+консервативность	konzervativizam	n	f	-	
+консервативность	konzervativnost	n	f	-	
+консервативный	konzervativan	adj	-	-	
+консерватизм	konzervativizam	n	m	-	
+консолидация	konsolidacija	n	f	-	
+консолидировать	konsolidovati	v	-	-	
+конспирация	konspiracija	n	f	-	
+конспирация	tajnost	n	f	-	
 Константин	Konstantin	np	m	-	
 Константинополь	Konstantinopolj	n	m	-	
+констатировать	konstatovati	v	-	-	
 конституционная монархия	ustavna monarhija	adj	f	-	
 конструктор	konstruktor	n	m	-	
 конструкция	konstrukcija	n	f	-	
 консьерж	konsijerž	n	m	-	
 консьюмеризм	konzumerizam	n	m	-	
+контакт	dodir	n	m	-	
+контакт	geološki kontakt	n	m	-	
 контакт	kontakt	n	m	-	
+контакт	kontakti	n	m	-	
+контакт	međusobno razumevanje	n	m	-	
+контакт	neposredni kontakt	n	m	-	
+контакт	veza	n	m	-	
+контакт	veze	n	m	-	
+контейнер	kontejner	n	m	-	
 контейнеровоз	kontejnerski brod	n	m	-	
 контора	kancelarija	n	f	-	
 контракт	ugovor	n	m	-	
 контраст	kontrast	n	m	-	
+контркультура	kontrakultura	n	f	-	
 контролировать	kontrolisati	v	-	impf	tv
 контроль	kontrola	n	f	-	
 контрольная работа	kontrolni zadatak	adj	m	-	
 контрольная работа	pismeni zadatak	adj	m	-	
+контрольная работа	provera znanja	adj	f	-	
 контрпродуктивный	kontraproduktivan	adj	-	-	
 контрреволюция	kontrarevolucija	n	f	-	
 конференция	konferencija	n	f	-	
 конфета	bombona	n	f	-	
+конфискация	konfiskacija	n	f	-	
+конфисковать	konfiskovati	v	-	-	
 конфликт	sukob	n	m	-	
 конфликт интересов	sukob interesa	n	m	-	
 конфликтология	konfliktologija	n	f	-	
@@ -4445,6 +4743,12 @@ ru	sr_lat	pos	gender	aspect	notes
 конце	krajem	pr	-	-	
 концентрационный лагерь	koncentracioni logor	adj	m	-	
 концентрационный лагерь	sabirni logor	adj	m	-	
+концентрировать	grupisati	v	-	impf	
+концентрировать	koncentrisati	v	-	impf	
+концентрировать	obogaćivati	v	-	impf	
+концентрировать	okupljati	v	-	impf	
+концентрировать	usredsrediti	v	-	impf	
+концентрировать	zgušnjavati	v	-	impf	
 концептуализм	konceptualizam	n	m	-	
 концептуальный	koncepcijski	adj	-	-	
 концепция	koncepcija	n	f	-	
@@ -4465,6 +4769,7 @@ ru	sr_lat	pos	gender	aspect	notes
 копейка	kopejka	n	f	-	
 Копейск	Kopejsk	n	m	-	
 Копенгаген	Kopenhagen	n	m	-	
+копирование	kopiranje	n	nt	-	
 копия	kopija	n	f	-	
 коптский	koptski	adj	-	-	
 копыто	kopito	n	nt	-	
@@ -4477,16 +4782,20 @@ ru	sr_lat	pos	gender	aspect	notes
 кордит	kordit	n	m	-	
 корейский	korejski	adj	-	-	
 коренной зуб	kutnjak	adj	m	-	
+корень	koren	n	m	-	
 корень	korijen	n	m	-	
 Корея	Koreja	np	f	-	
 корзина	korpa	n	f	-	
 коридор	hodnik	n	nt	-	
 коричневый	smeđ	adj	-	-	
+корм	krma	n	m	-	
+корм	stočna hrana	n	m	-	
 кормить	hraniti	v	-	impf	tv
 коробка	kutija	n	f	-	
 корова	krava	n	f	-	
 королева	kraljica	n	f	-	
 королева-мать	kraljica majka	n	f	-	
+королевская кобра	kraljevska kobra	adj	f	-	
 королевский	kraljevski	adj	-	-	
 король	kralj	n	m	-	
 Королёв	Koroljov	n	m	-	
@@ -4496,11 +4805,19 @@ ru	sr_lat	pos	gender	aspect	notes
 корпорация	korporacija	n	f	-	
 корпус	kućište	n	nt	-	
 корреспондент	dopisnik	n	m	-	
+корреспонденция	korespondencija	n	f	-	
+корреспонденция	prepiska	n	f	-	
 кортизол	kortizol	n	m	-	
 корточки	sjedanje	n	nt	-	
 корчевать	krčiti	v	-	impf	
+корыстный	koristoljubiv	adj	-	-	
+корыстолюбивый	koristoljubiv	adj	-	-	
+корыстолюбивый	pohlepan	adj	-	-	
+корыстолюбие	koristoljublje	n	nt	-	
+корыстолюбие	pohlepa	n	nt	-	
 корыто	korito	n	nt	-	
 коса	kosa	n	f	-	
+косметология	kozmetologija	n	f	-	
 космический	kosmički	adj	-	-	
 космология	kozmologija	n	f	-	
 космополитизм	kosmopolitizam	n	m	-	
@@ -4544,6 +4861,7 @@ ru	sr_lat	pos	gender	aspect	notes
 кофе	volim	n	m	-	tatoeba:6
 кофе	čaj	n	m	-	tatoeba:10
 кофе	želite	n	m	-	tatoeba:8
+кофеин	kofein	n	m	-	
 кофейня	kafana	n	f	-	
 кофемолка	mlin za kafu	n	f	-	
 кочегарка	kotlarnica	n	f	-	
@@ -4701,6 +5019,8 @@ ru	sr_lat	pos	gender	aspect	notes
 кто	će	prn	m	-	tatoeba:14
 кто	čovek	prn	m	-	tatoeba:10
 кто-то	neko	prn	-	-	
+кувшинчик	bokalčić	n	m	-	
+кувшинчик	krčag	n	m	-	
 куда	gde	conj	-	-	tatoeba:26
 куда	kamo	adv	-	-	
 куда	kud	adv	-	-	
@@ -4731,6 +5051,8 @@ ru	sr_lat	pos	gender	aspect	notes
 купить	novi	v	-	perf	tatoeba:8
 купить	otac	v	-	perf	tatoeba:6
 купить	tom	v	-	perf	tatoeba:6
+куплет	kuplet	n	m	-	
+куплет	strofa	n	m	-	
 купол	kupola	n	f	-	
 купюра	novčanica	n	f	-	
 Курган	Kurgan	n	m	-	
@@ -4753,6 +5075,7 @@ ru	sr_lat	pos	gender	aspect	notes
 куст	grm	n	m	-	
 кутиназа	kutinaza	n	f	-	
 кухня	kuhinja	n	f	-	
+кухонный комбайн	kuhinjski kombajn	adj	m	-	
 куча	gomila	n	f	-	
 кушать	jesti	v	-	impf	tv
 Кюсю	Kjušu	n	nt	-	
@@ -5001,6 +5324,8 @@ ru	sr_lat	pos	gender	aspect	notes
 львица	lavica	n	f	-	
 Львов	Lavov	n	m	-	
 Льеж	Lijež	n	m	-	
+льстить	laskati	v	-	impf	
+льстить	ulagivati se	v	-	impf	
 Люберцы	Ljuberci	n	f	-	
 любим	volimo	n	m	-	tatoeba:8
 любимый	omiljeni	adj	m	-	tatoeba:10
@@ -5074,6 +5399,7 @@ ru	sr_lat	pos	gender	aspect	notes
 магнолия	magnolija	n	f	-	
 мадам	dama	n	f	-	
 май	maj	n	m	-	
+Майами	Majami	n	m	-	
 майка	majica	n	f	-	
 Майкоп	Majkop	n	m	-	
 майор	major	n	m	-	
@@ -5123,6 +5449,7 @@ ru	sr_lat	pos	gender	aspect	notes
 марио	mario	n	m	-	tatoeba:6
 Мариуполь	Marijupolj	n	m	-	
 Мариуполь	Mariupolj	n	m	-	
+марихуана	marihuana	n	f	-	
 Марица	Marica	np	f	-	
 марию	mariju	n	f	-	tatoeba:12
 марию	tom	n	f	-	tatoeba:12
@@ -5134,6 +5461,7 @@ ru	sr_lat	pos	gender	aspect	notes
 мария	zna	n	f	-	tatoeba:6
 марка	marka	n	f	-	
 Маркелов	Markelov	np	-	-	
+марксист	marksista	n	m	-	
 март	mart	n	m	-	
 марш	marš	n	m	-	
 маршал	maršal	n	m	-	
@@ -5202,6 +5530,7 @@ ru	sr_lat	pos	gender	aspect	notes
 медведица	mečka	n	f	-	
 медведь	medved	n	m	-	
 медведь	medvjed	n	m	-	
+медиапродюсер	medijski producent	n	m	-	
 медицина	medicina	n	f	-	
 медицинская химия	medicinska hemija	adj	f	-	
 медицинский	medicinski	adj	-	-	
@@ -5235,6 +5564,7 @@ ru	sr_lat	pos	gender	aspect	notes
 Мексика	Meksiko	n	f	-	
 Мексиканский залив	Meksički zaliv	adj	m	-	
 меланома	melanom	n	f	-	
+меланхолик	melanholik	n	m	-	
 мелкий	mal	adj	-	-	
 мелодия	melodija	n	f	-	
 мелочь	sitnica	n	f	-	
@@ -5326,12 +5656,14 @@ ru	sr_lat	pos	gender	aspect	notes
 миллион	milion	n	m	-	
 милость	milost	n	f	-	
 милый	drag	adj	-	-	
+мимикрия	mimikrija	n	f	-	
 мимо	pored	pr	-	-	
 мина	mina	n	f	-	
 миндалина	krajnik	n	f	-	
 минерал	mineral	n	m	-	
 минеральная вода	kisela voda	adj	f	-	
 минеральная вода	mineralna voda	adj	f	-	
+минет	felacio	n	m	-	
 минимум	minimum	n	m	-	
 министерство	ministarstvo	n	nt	-	
 министр	ministar	n	m	-	
@@ -5370,6 +5702,7 @@ ru	sr_lat	pos	gender	aspect	notes
 мистер	gospodin	n	m	-	
 митинг	miting	n	m	-	
 мифологическое существо	mitološko biće	adj	nt	-	
+Михаленко	Mihalenko	np	-	-	
 мк	mk	n	nt	-	
 младенец	beba	n	m	-	
 младенец	detence	n	m	-	
@@ -5508,6 +5841,8 @@ ru	sr_lat	pos	gender	aspect	notes
 молчать	šutjeti	v	-	impf	iv
 моль	leptirica	n	f	-	
 моль	moljac	n	f	-	
+мольба	molba	n	f	-	
+мольба	preklinjanje	n	f	-	
 момент	moment	n	m	-	
 момент импульса	moment impulsa	n	m	-	
 момент импульса	ugaoni moment	n	m	-	
@@ -5633,6 +5968,7 @@ ru	sr_lat	pos	gender	aspect	notes
 музеология	muzeologija	n	f	-	
 музыка	muzika	n	f	-	
 музыка	sviđa	n	f	-	tatoeba:6
+музыкальная комедия	muzička komedija	adj	f	-	
 музыкальное произведение	muzičko delo	adj	nt	-	
 музыкальный	glasben	adj	-	-	
 музыкальный	muzikalan	adj	-	-	
@@ -5668,6 +6004,7 @@ ru	sr_lat	pos	gender	aspect	notes
 мчаться	stremiti	v	-	impf	ref
 мчаться	strijemiti	v	-	impf	ref
 мыло	sapun	n	nt	-	
+мыльная опера	sapunica	adj	f	-	
 мыс Доброй Надежды	Rt dobre nade	n	m	-	
 мысленно	smišljeno	adv	-	-	
 мыслепреступление	zlomisao	n	nt	-	
@@ -5728,6 +6065,8 @@ ru	sr_lat	pos	gender	aspect	notes
 наверху	svrha	adv	-	-	
 навестить	posjetiti	v	-	perf	tv
 наводнение	poplava	n	nt	-	
+навредить	naneti štetu	v	-	-	
+навредить	naškoditi	v	-	-	
 Навруз	Novruz	n	m	-	
 навсегда	zauvek	adv	-	-	
 навсегда	zauvijek	adv	-	-	
@@ -5747,11 +6086,14 @@ ru	sr_lat	pos	gender	aspect	notes
 надежный	zbrinut	adj	-	-	
 надеть	obući	v	-	perf	iv
 надеяться	nadati	v	-	impf	ref
+надкостница	periost	n	f	-	
+надкостница	pokosnica	n	f	-	
 надоесть	dosaditi	v	-	perf	iv
 надолго	nedugo	adv	-	-	
 надпись	nadpis	n	f	-	
 надпись	napis	n	f	-	
 надпочечник	nadbubrežna žlezda	n	m	-	
+наездник	jahač	n	m	-	
 нажать	pritisnuti	v	-	perf	tv
 назад	nazad	adv	-	-	
 назад	pre	adv	-	-	tatoeba:6
@@ -5939,6 +6281,7 @@ ru	sr_lat	pos	gender	aspect	notes
 небе	nebu	n	nt	-	tatoeba:6
 небесный	nebeski	adj	-	-	
 неблагодарность	nezahvalnost	n	f	-	
+неблагоприятный	nepovoljan	adj	-	-	
 небо	danas	n	nt	-	tatoeba:8
 небо	nebo	n	nt	-	
 небо	oblacima	n	nt	-	tatoeba:10
@@ -5979,7 +6322,9 @@ ru	sr_lat	pos	gender	aspect	notes
 невыразительный	neizražajan	adj	-	-	
 невысокий	nevisok	adj	-	-	
 негативизм	negativizam	n	m	-	
+негодяй	hulja	n	m	-	
 негодяй	nevaljalac	n	m	-	
+негодяй	nitkov	n	m	-	
 негр	crnac	n	m	-	
 негромко	nejako	adv	-	-	
 недавний	nedavan	adj	-	-	
@@ -5990,13 +6335,24 @@ ru	sr_lat	pos	gender	aspect	notes
 недвижимое имущество	nepokretnost	adj	f	-	
 недвижимость	nepokretna imovina	n	f	-	
 недвижимость	nepokretnost	n	f	-	
+недвусмысленность	jednoznačnost	n	f	-	
+недвусмысленность	nedvosmislenost	n	f	-	
+недвусмысленный	jasan	adj	-	-	
+недвусмысленный	jednoznačan	adj	-	-	
+недвусмысленный	nedvosmislen	adj	-	-	
 неделе	sedmice	n	f	-	tatoeba:6
 неделя	nedelja	n	f	-	
 недемократичность	nedemokratičnost	n	f	-	
+недисциплинированность	nedisciplinovanost	n	f	-	
+недисциплинированный	nedisciplinovan	adj	-	-	
+недоброжелатель	nedobronamernik	n	m	-	
+недоброжелатель	neprijatelj	n	m	-	
 недобросовестная конкуренция	nelojalna konkurencija	adj	f	-	
 недовольно	nedovoljno	adv	-	-	
 недовольный	nedovoljan	adj	-	-	
 недолго	nedugo	adv	-	-	
+недомогание	nelagoda	n	nt	-	
+недомогание	slabost	n	nt	-	
 недопущение	nedopuštanje	n	nt	-	
 недопущение	sprečavanje	n	nt	-	
 недостаток	nedostatak	n	m	-	
@@ -6060,6 +6416,11 @@ ru	sr_lat	pos	gender	aspect	notes
 нелепый	nelijep	adj	-	-	
 нелинейная оптика	nelinearna optika	adj	f	-	
 неловко	nehitro	adv	-	-	
+неловкость	nelagodnost	n	f	-	
+неловкость	nespretnost	n	f	-	
+неловкость	nezgodna situacija	n	f	-	
+неловкость	nezgrapnost	n	f	-	
+неловкость	zbunjenost	n	f	-	
 нелояльность	nelojalnost	n	f	-	
 нелояльный	nelojalan	adj	-	-	
 немало	nemalo	adv	-	-	
@@ -6092,6 +6453,11 @@ ru	sr_lat	pos	gender	aspect	notes
 необходимый	obavezan	adj	-	-	
 необыкновенный	neobičan	adj	-	-	
 необычный	neobičan	adj	-	-	
+неоднозначный	dvosmislen	adj	-	-	
+неоднозначный	kontroverzan	adj	-	-	
+неоднозначный	nejednoznačan	adj	-	-	
+неоднозначный	protivrečan	adj	-	-	
+неоднозначный	sporan	adj	-	-	
 неожиданно	neočekivano	adv	-	-	
 неожиданность	neočekivanost	n	f	-	
 неожиданный	neočekivan	adj	-	-	
@@ -6107,14 +6473,20 @@ ru	sr_lat	pos	gender	aspect	notes
 неоспоримость	neporecivost	n	f	-	
 неосуществимость	neostvarljivost	n	f	-	
 неосуществимый	neostvarljiv	adj	-	-	
+неофашистский	neofašistički	adj	-	-	
 неплатёжеспособность	neplatežosposolvnost	n	f	-	
 неплатёжеспособность	nesolventnost	n	f	-	
+неплодородный	neplodan	adj	-	-	
 неплохо	neloše	adv	-	-	
 неплохой	neloš	adj	-	-	
+неповоротливость	nespretnost	n	f	-	
+неповоротливость	nezgrapnost	n	f	-	
 неподалеку	nedaleko	adv	-	-	
 неподвижно	nemičući	adv	-	-	
 неподвижность	nepokretnost	n	f	-	
 неподвижный	nemaknut	adj	-	-	
+неподражаемый	nepodražljiv	adj	-	-	
+неподражаемый	neponovljiv	adj	-	-	
 непонимание	nerazumevanje	n	nt	-	
 непонятно	nejasno	adv	-	-	
 непонятный	nejasan	adj	-	-	
@@ -6136,10 +6508,17 @@ ru	sr_lat	pos	gender	aspect	notes
 непременно	sigurno	adv	-	-	
 непривычный	nenaviknut	adj	-	-	
 непризнанное государство	nepriznata država	adj	f	-	
+неприличный	nepriličan	adj	-	-	
+неприличный	nepristojan	adj	-	-	
 неприятно	neprijatno	adv	-	-	
 неприятность	neprijatnost	n	f	-	
 неприятный	neprijatan	adj	-	-	
+непротиворечивый	dosledan	adj	-	-	
+непротиворечивый	konzistentan	adj	-	-	
+непротиворечивый	neprotivrečan	adj	-	-	
 Нептун	Neptun	n	m	-	
+нерасторопный	nespretan	adj	-	-	
+нерасторопный	tromav	adj	-	-	
 нерв	živac	n	m	-	
 нервная система	nervni sistem	adj	m	-	
 нервно	iznervirano	adv	-	-	
@@ -6158,11 +6537,17 @@ ru	sr_lat	pos	gender	aspect	notes
 несовершеннолетие	nepunoljetstvo	n	nt	-	
 несовершенный вид	nesvršeni vid	adj	m	-	
 несомненно	bez sumnje	adv	-	-	
+несоответствие	nepodudarnost	n	nt	-	
+несоответствие	nesklad	n	nt	-	
 несостоятельность	neosnovanost	n	f	-	
 несостоятельность	neplatežosposobnost	n	f	-	
 несостоятельность	neubedljivost	n	f	-	
 несостоятельность	stečaj	n	f	-	
+неспешный	polagan	adj	-	-	
+неспешный	spor	adj	-	-	
 неспособность	nesposobnost	n	f	-	
+несравненный	bez premca	adj	-	-	
+несравненный	neuporediv	adj	-	-	
 нести	nositi	v	-	impf	tv
 нестись	nositi	v	-	impf	tv
 несчастный	nesrećan	adj	-	-	
@@ -6171,16 +6556,29 @@ ru	sr_lat	pos	gender	aspect	notes
 нетерпеливый	netrpeljiv	adj	-	-	
 неторопливый	nestrpljiv	adj	-	-	
 нетрудоспособность	nesposobnost za rad	n	f	-	
+неуважение	nepoštovanje	n	nt	-	
 неуверенный	neuvjeren	adj	-	-	
 неудача	nesreća	n	f	-	
 неудобно	neudobno	adv	-	-	
+неудобный	neprikladan	adj	-	-	
+неудобный	neumestan	adj	-	-	
+неудобный	nezgodan	adj	-	-	
+неудобство	nelagodnost	n	nt	-	
+неудобство	neudobnost	n	nt	-	
+неудобство	nezgoda	n	nt	-	
+неудобство	zbunjenost	n	nt	-	
 неудовлетворительный	nezadovoljavajući	adj	-	-	
+неудовлетворённость	nezadovoljstvo	n	f	-	
+неудовлетворённый	nezadovoljan	adj	-	-	
+неуместный	neprikladan	adj	-	-	
+неуместный	neumestan	adj	-	-	
 неуступчивость	nepopustljivost	n	f	-	
 нефрология	nefrologija	n	f	-	
 нефтегазохимия	naftogazohemija	n	f	-	
 Нефтекамск	Neftekamsk	n	m	-	
 нефть	nafta	n	f	-	
 нехорошо	loše	adv	-	-	
+неценовая конкуренция	necenovna konkurencija	adj	f	-	
 неценовая конкуренция	necijenovna konkurencija	adj	f	-	
 нечто	nešto	prn	-	-	
 неясный	nejasan	adj	-	-	
@@ -6385,8 +6783,18 @@ ru	sr_lat	pos	gender	aspect	notes
 нужна	tomu	adj	f	-	tatoeba:8
 нужна	treba	adj	f	-	tatoeba:36
 нужна	tvoja	adj	f	-	tatoeba:8
+нужно	imam	-	-	-	tatoeba:6
+нужно	koliko	-	-	-	tatoeba:6
+нужно	mnogo	-	-	-	tatoeba:8
+нужно	moj	-	-	-	tatoeba:6
+нужно	moram	-	-	-	tatoeba:18
+нужно	nam	-	-	-	tatoeba:12
+нужно	nešto	-	-	-	tatoeba:8
+нужно	novca	-	-	-	tatoeba:8
 нужно	potrebno	part	-	-	tatoeba:12
+нужно	radim	-	-	-	tatoeba:6
 нужно	treba	part	-	-	tatoeba:78
+нужно	više	-	-	-	tatoeba:6
 нужны	novac	adj	-	-	tatoeba:6
 нужны	treba	adj	-	-	tatoeba:6
 нужный	potreban	adj	-	-	
@@ -6399,6 +6807,9 @@ ru	sr_lat	pos	gender	aspect	notes
 нынешний	prisutan	adj	-	-	
 нынче	rane	adv	-	-	
 нынче	ranije	adv	-	-	
+нью	njujork	-	-	-	tatoeba:6
+нью	njujorku	-	-	-	tatoeba:6
+нью	živi	-	-	-	tatoeba:6
 Нью-Гэмпшир	Nju Hempšir	n	m	-	
 Нью-Джерси	Nju Džerzi	n	m	-	
 Нью-Йорк	Njujork	n	m	-	
@@ -6491,8 +6902,36 @@ ru	sr_lat	pos	gender	aspect	notes
 обращать	pazi	v	-	impf	tatoeba:6
 обращать	pešake	v	-	impf	tatoeba:6
 обращать	voziš	v	-	impf	tatoeba:6
+обращаться	apelovati	v	-	impf	
+обращаться	biti u opticaju	v	-	impf	
+обращаться	cirkulisati	v	-	impf	
+обращаться	koristiti	v	-	impf	
+обращаться	kružiti	v	-	impf	
 обращаться	obratiti	v	-	impf	ref
+обращаться	odnositi	v	-	impf	
+обращаться	okrenuti	v	-	impf	
+обращаться	okretati	v	-	impf	
+обращаться	postupati	v	-	impf	
+обращаться	preobratiti	v	-	impf	
+обращаться	pretvoriti	v	-	impf	
+обращаться	preći	v	-	impf	
+обращаться	rukovati	v	-	impf	
+обращаться	transformisati	v	-	impf	
+обращаться	usmeriti	v	-	impf	
+обращение	apel	n	nt	-	
+обращение	cirkulacija	n	nt	-	
+обращение	kolanje	n	nt	-	
+обращение	obilazak	n	nt	-	
 обращение	obraćanje	n	nt	-	
+обращение	ophod	n	nt	-	
+обращение	ophođenje	n	nt	-	
+обращение	opticaj	n	nt	-	
+обращение	postupanje	n	nt	-	
+обращение	pretvaranje	n	nt	-	
+обращение	revolucija	n	nt	-	
+обременить	natovariti	v	-	-	
+обременить	opteretiti	v	-	-	
+обременить	smetati	v	-	-	
 обрести	dobiti	v	-	perf	tv
 обреченный	osuđen	adj	-	-	
 обрыв	pauza	n	f	-	
@@ -6517,6 +6956,8 @@ ru	sr_lat	pos	gender	aspect	notes
 общественная собственность	društvena svojina	adj	f	-	
 общественно-экономическая формация	društveno-ekonomska formacija	adj	f	-	
 общественный	javan	adj	-	-	
+общественный строй	društveni poredak	adj	m	-	
+общественный строй	društveno uređenje	adj	nt	-	
 общество	društvo	n	nt	-	
 общество потребления	potrošačko društvo	n	nt	-	
 общий	opšti	adj	-	-	
@@ -6599,6 +7040,10 @@ ru	sr_lat	pos	gender	aspect	notes
 одновременно	istovremeno	adv	-	-	
 одного	jedan	adj	nt	-	tatoeba:8
 одного	jednog	adj	nt	-	tatoeba:6
+однозначный	jednocifren	adj	-	-	
+однозначный	jednoznačan	adj	-	-	
+однозначный	nedvosmislen	adj	-	-	
+однозначный	sinoniman	adj	-	-	
 одной	jaje	adj	f	-	tatoeba:6
 одной	jednom	adj	f	-	tatoeba:6
 одной	možeš	adj	f	-	tatoeba:6
@@ -6644,6 +7089,8 @@ ru	sr_lat	pos	gender	aspect	notes
 окошко	prozorčić	n	nt	-	
 ОКР	OKP	np	-	-	
 окраина	distrikt	n	f	-	
+окрестность	okolina	n	f	-	
+окрестность	okruženje	n	f	-	
 округ	oko	pr	-	-	
 округ	okrug	n	m	-	
 окружать	okruživati	v	-	impf	tv
@@ -6653,6 +7100,8 @@ ru	sr_lat	pos	gender	aspect	notes
 окружить	okružiti	v	-	perf	tv
 октябрь	oktobar	n	m	-	
 Октябрьская революция	Oktobarska revolucija	adj	f	-	
+окукливание	kukuljenje	n	nt	-	
+окукливание	ulutkavanje	n	nt	-	
 окунь	grgeč	n	m	-	
 окурок	kundak	n	m	-	
 олень	jelen	n	m	-	
@@ -6688,6 +7137,8 @@ ru	sr_lat	pos	gender	aspect	notes
 опознавание	identifikacija	n	nt	-	
 опознавание	prepoznavanje	n	nt	-	
 опомниться	opametiti	v	-	perf	ref
+оппонент	oponent	n	m	-	
+оппонент	oponentkinja	n	m	-	
 оправдать	opravdati	v	-	perf	tv
 определение	opredeljeljen	n	nt	-	
 определенный	opredeljen	adj	-	-	
@@ -6707,6 +7158,7 @@ ru	sr_lat	pos	gender	aspect	notes
 опыт	iskustvo	n	nt	-	
 опытный	iskusan	adj	-	-	
 опять	opet	adv	-	-	
+оральный секс	oralni seks	adj	m	-	
 орангутан	orangutan	n	m	-	
 оранжевый	narandžast	adj	-	-	
 оранжевый	narandžasta	adj	-	-	
@@ -6903,6 +7355,11 @@ ru	sr_lat	pos	gender	aspect	notes
 относительно	odnosno	adv	-	-	
 относительно	povodom	pr	-	-	
 относиться	odnositi	v	-	impf	ref
+относиться	odnositi se	v	-	impf	
+относиться	ophoditi se	v	-	impf	
+относиться	postupati	v	-	impf	
+относиться	pripadati	v	-	impf	
+относиться	spadati	v	-	impf	
 отношение	odnos	n	nt	-	
 отнюдь	odnekuda	adv	-	-	
 отнять	oteti	v	-	perf	tv
@@ -6956,6 +7413,8 @@ ru	sr_lat	pos	gender	aspect	notes
 отшельнический	pustinjački	adj	-	-	
 отъезд	odlazak	n	m	-	
 отыскать	pronaći	v	-	perf	tv
+отяжелить	otežati	v	-	-	
+отяжелить	učiniti teškim	v	-	-	
 офис	ofis	n	m	-	
 офиса	dođem	n	m	-	tatoeba:6
 офиса	kako	n	m	-	tatoeba:6
@@ -7013,6 +7472,7 @@ ru	sr_lat	pos	gender	aspect	notes
 ошибочность	pogrešnost	n	f	-	
 ощутить	osjetiti	v	-	perf	tv
 ощущать	osjetiti	v	-	perf	tv
+ощущение	osećaj	n	nt	-	
 ощущение	osjećaj	n	nt	-	
 па	pa	n	nt	-	
 падаль	strvina	n	f	-	
@@ -7041,6 +7501,8 @@ ru	sr_lat	pos	gender	aspect	notes
 пан	pano	n	m	-	
 пандемический	pandemičan	adj	-	-	
 пандемия	pandemija	n	f	-	
+панибратство	familijarnost	n	nt	-	
+панибратство	preterana prisnost	n	nt	-	
 паника	panika	n	f	-	
 папа	tata	n	m	-	
 папироса	cigara	n	f	-	
@@ -7121,6 +7583,7 @@ ru	sr_lat	pos	gender	aspect	notes
 певица	pevačica	n	f	-	tatoeba:16
 пеггинг	pegging	n	m	-	
 педераст	peder	n	m	-	
+педофил	pedofil	n	m	-	
 педофилия	pedofilija	n	f	-	
 пейзаж	pejzaž	n	m	-	
 Пекин	Peking	n	m	-	
@@ -7148,6 +7611,11 @@ ru	sr_lat	pos	gender	aspect	notes
 переводчик	prevodilac	n	m	-	
 переглянуться	pregledati	v	-	perf	ref
 переговоры	pregovori	n	m	-	
+перегрузить	opteretiti	v	-	-	
+перегрузить	ponovo pokrenuti	v	-	-	
+перегрузить	prebaciti teret	v	-	-	
+перегрузить	pretovariti	v	-	-	
+перегрузить	restartovati	v	-	-	
 перед	ispred	pr	-	-	tatoeba:6
 перед	pre	pr	-	-	tatoeba:8
 перед	pred	pr	-	-	
@@ -7171,6 +7639,11 @@ ru	sr_lat	pos	gender	aspect	notes
 перенести	preneti	v	-	perf	tv
 перенести	prenijeti	v	-	perf	tv
 переносить	prenositi	v	-	impf	tv
+переобуться	okrenuti kaput	v	-	-	
+переобуться	ponovo se obuti	v	-	-	
+переобуться	preobuti se	v	-	-	
+переобуться	promeniti gume	v	-	-	
+переобуться	promeniti mišljenje	v	-	-	
 перепёлка	prepelica	n	f	-	
 перерыв	prekid	n	m	-	
 пересечь	presjeći	v	-	perf	tv
@@ -7189,6 +7662,8 @@ ru	sr_lat	pos	gender	aspect	notes
 перешеек	prevlaka	n	m	-	
 перешеек	tesnac	n	m	-	
 период	period	n	m	-	
+периост	periost	n	m	-	
+периост	pokosnica	n	m	-	
 перископ	periskop	n	m	-	
 периферическая нервная система	periferni nervni sistem	adj	m	-	
 периферическое зрение	periferni vid	adj	m	-	
@@ -7267,6 +7742,8 @@ ru	sr_lat	pos	gender	aspect	notes
 пизда	pička	n	f	-	
 пизда	riba	n	f	-	
 пизда	đana	n	f	-	
+пиздобольство	lažljivost	n	nt	-	
+пиздобольство	sranje	n	nt	-	
 пика	pika	n	-	-	
 пила	testera	n	f	-	
 пилить	piliti	v	-	perf	tv
@@ -7313,6 +7790,7 @@ ru	sr_lat	pos	gender	aspect	notes
 пищеварение	varenje	n	nt	-	
 пищеварительная система	hranilja	adj	f	-	
 пищеварительная система	sistem za varenje	adj	m	-	
+пищевая добавка	prehrambeni aditiv	adj	m	-	
 пищевод	grkljan	n	m	-	
 плавать	pliva	v	-	impf	tatoeba:8
 плавать	plivam	v	-	impf	tatoeba:6
@@ -7356,12 +7834,14 @@ ru	sr_lat	pos	gender	aspect	notes
 плод	plod	n	m	-	
 плод	voće	n	m	-	
 плод	voćka	n	m	-	
+плодородие	plodnost	n	nt	-	
+плодородность	plodnost	n	f	-	
+плодородный	plodan	adj	-	-	
 плоский	ravan	adj	-	-	
 плосковер	ravnozemljaš	n	m	-	
 плот	splav	n	m	-	
 плотно	čvrsto	adv	-	-	
 плотный	gust	adj	-	-	
-
 плохая	loša	adj	f	-	tatoeba:6
 плохих	ljudi	adj	-	-	tatoeba:8
 плохих	loših	adj	-	-	tatoeba:8
@@ -7400,11 +7880,18 @@ ru	sr_lat	pos	gender	aspect	notes
 побежать	pobjeći	v	-	perf	iv
 побеждать	ljubav	v	-	impf	tatoeba:6
 побеждать	pobeđuje	v	-	impf	tatoeba:8
+побочный эффект	neželjeno dejstvo	adj	nt	-	
+побочный эффект	nuspojava	adj	f	-	
+побочный эффект	sporedni efekat	adj	m	-	
 побратимство	pobratimstvo	n	nt	-	
 побывать	biti	v	-	both	
 повар	kuvar	n	m	-	
 поведение	ponašanje	n	nt	-	
 повезти	povesti	v	-	perf	tv
+повелевать	naređivati	v	-	impf	
+повелевать	primoravati	v	-	impf	
+повелевать	vladati	v	-	impf	
+повелевать	zapovedati	v	-	impf	
 поверить	mogu	v	-	perf	tatoeba:6
 поверить	verujem	v	-	perf	tatoeba:6
 поверить	vjerovati	v	-	impf	tv
@@ -7414,7 +7901,11 @@ ru	sr_lat	pos	gender	aspect	notes
 поверхностно-активное вещество	surfaktant	adj	nt	-	
 поверхность	površnost	n	f	-	
 повесить	vagati	v	-	impf	tv
+повествовать	kazivati	v	-	impf	
+повествовать	pripovedati	v	-	impf	
 повести	povesti	v	-	perf	tv
+повесть	povest	n	f	-	
+повесть	pripovetka	n	f	-	
 повесть	priča	n	f	-	
 повиснуть	zavisiti	v	-	impf	iv
 повод	razlog	n	m	-	
@@ -7475,11 +7966,13 @@ ru	sr_lat	pos	gender	aspect	notes
 подземный	podzeman	adj	-	-	
 подле	pored	pr	-	-	
 подлинный	podug	adj	-	-	
+подлость	podlost	n	f	-	
 подмигнуть	namignuti	v	-	perf	iv
 подмышка	pazuho	n	f	-	
 поднести	podneti	v	-	perf	tv
 поднести	podnijeti	v	-	perf	tv
 поднимать	podizati	v	-	impf	tv
+подниматься	penjati	v	-	impf	
 подниматься	podići	v	-	perf	ref
 поднять	podići	v	-	perf	tv
 подняться	podići	v	-	perf	tv
@@ -7491,6 +7984,7 @@ ru	sr_lat	pos	gender	aspect	notes
 подозревать	sumnjati	v	-	impf	tv
 подозрение	sumnja	n	f	-	
 подозрительный	sumnjiv	adj	-	-	
+подозрительный	sumnjičav	adj	-	-	
 подойти	prići	v	-	perf	iv
 подоконник	prag	n	m	-	
 Подольск	Podolsk	n	m	-	
@@ -7516,6 +8010,8 @@ ru	sr_lat	pos	gender	aspect	notes
 подсказать	savjetovati	v	-	impf	tv
 подсознание	podsvest	n	nt	-	
 подсолнечник	suncokret	n	m	-	
+подстрекательство	nagovaranje	n	nt	-	
+подстрекательство	podstrekavanje	n	nt	-	
 подтвердить	potvrditi	v	-	perf	tv
 подтверждать	potvrđivati	v	-	impf	tv
 подумать	razmisliti	v	-	perf	iv
@@ -7535,6 +8031,8 @@ ru	sr_lat	pos	gender	aspect	notes
 подъезд	trem	n	m	-	
 подъем	porast	n	m	-	
 подъехать	proći	v	-	perf	iv
+подъёмный кран	dizalica	adj	f	-	
+подъёмный кран	kran	adj	m	-	
 поезд	ide	n	m	-	tatoeba:6
 поезд	stigao	n	m	-	tatoeba:8
 поезд	uhvatim	n	m	-	tatoeba:6
@@ -7608,6 +8106,9 @@ ru	sr_lat	pos	gender	aspect	notes
 покидать	pokidati	v	-	perf	tv
 покинуть	napustiti	v	-	perf	tv
 поклониться	pokloniti	v	-	perf	ref
+поклонник	obožavalac	n	m	-	
+поклонник	poklonik	n	m	-	
+поклонник	prosak	n	m	-	
 поклоняться	obožavati	v	-	impf	tv
 покое	miru	n	m	-	tatoeba:6
 покой	mir	n	m	-	
@@ -7866,6 +8367,8 @@ ru	sr_lat	pos	gender	aspect	notes
 поспешить	požuri	v	-	perf	tatoeba:8
 поспешить	požuriti	v	-	perf	tv
 поспешно	uspješno	adv	-	-	
+посплетничать	poogovarati	v	-	-	
+посплетничать	potračati	v	-	-	
 посреди	sredinom	pr	-	-	
 посредине	sredinom	pr	-	-	
 посредством	putem	pr	-	-	
@@ -7890,6 +8393,7 @@ ru	sr_lat	pos	gender	aspect	notes
 посттрадиционализм	posttradicionalizam	n	m	-	
 поступать	postupiti	v	-	perf	iv
 поступить	postupiti	v	-	perf	iv
+поступок	delo	n	m	-	
 поступок	postupak	n	m	-	
 постучать	pokucao	v	-	perf	tatoeba:6
 постучать	pokucati	v	-	perf	iv
@@ -8126,6 +8630,7 @@ ru	sr_lat	pos	gender	aspect	notes
 препятствование	ometanje	n	nt	-	
 препятствование	sprečavanje	n	nt	-	
 прервать	prekidati	v	-	impf	tv
+пресвитерианство	prezbiterijanstvo	n	nt	-	
 преследовать	pratiti	v	-	impf	tv
 пресса	štampa	n	f	-	
 преступление	zločin	n	nt	-	
@@ -8203,6 +8708,7 @@ ru	sr_lat	pos	gender	aspect	notes
 прийти	došao	v	-	perf	tatoeba:22
 прийти	prići	v	-	perf	tv
 прийтись	doći	v	-	perf	iv
+приказ	naredba	n	m	-	
 приказ	zapovest	n	f	-	
 приказ	zapovijest	n	f	-	
 приказать	prikazati	v	-	perf	tv
@@ -8236,7 +8742,12 @@ ru	sr_lat	pos	gender	aspect	notes
 приобрести	zaraditi	v	-	perf	tv
 приобретать	ostvarivati	v	-	impf	tv
 приоткрыть	otvoriti	v	-	perf	tv
+припев	melodija	n	m	-	
+припев	napev	n	m	-	
+припев	ponavljana fraza	n	m	-	
+припев	refren	n	m	-	
 приподнять	podići	v	-	perf	tv
+приправа	začin	n	f	-	
 природа	priroda	n	f	-	
 природный	prirodan	adj	-	-	
 природный газ	prirodni gas	adj	m	-	
@@ -8246,6 +8757,10 @@ ru	sr_lat	pos	gender	aspect	notes
 прислушаться	prisluškivati	v	-	impf	ref
 прислушиваться	prisluškivati	v	-	impf	tv
 пристально	stalno	adv	-	-	
+пристойность	priličnost	n	f	-	
+пристойность	pristojnost	n	f	-	
+пристойный	priličan	adj	-	-	
+пристойный	pristojan	adj	-	-	
 приступ	pristup	n	m	-	
 приступить	pristupiti	v	-	perf	iv
 присутствие	prisustvo	n	nt	-	
@@ -8258,6 +8773,7 @@ ru	sr_lat	pos	gender	aspect	notes
 приходить	doći	v	-	perf	tv
 приходить	dođi	v	-	impf	tatoeba:12
 приходиться	prilaziti	v	-	impf	iv
+прихожанин	parohijanin	n	m	-	
 прихожая	hodnik	n	f	-	
 причем	zatim	adv	-	-	
 причина	razlog	n	f	-	
@@ -8298,6 +8814,8 @@ ru	sr_lat	pos	gender	aspect	notes
 проводиться	provoditi	v	-	impf	ref
 проводник	provodnik	n	m	-	
 провожать	provoditi	v	-	impf	ref
+провокация	indukcija	n	f	-	
+провокация	provokacija	n	f	-	
 проволока	žica	n	f	-	
 проглотить	progutati	v	-	perf	tv
 прогноз	prognoza	n	f	-	
@@ -8305,6 +8823,7 @@ ru	sr_lat	pos	gender	aspect	notes
 программа	program	n	f	-	
 прогресс	napredak	n	m	-	
 прогрессивизм	progresivizam	n	m	-	
+прогрессивность	progresivnost	n	f	-	
 прогрессизм	progresivizam	n	m	-	
 прогулка	šetanje	n	nt	-	
 продавать	kafu	v	-	impf	tatoeba:8
@@ -8334,11 +8853,15 @@ ru	sr_lat	pos	gender	aspect	notes
 прозвучать	prozvučati	v	-	impf	iv
 прозрачный	providan	adj	-	-	
 проиграть	izgubiti	v	-	perf	tv
+произведение	delo	n	nt	-	
+произведение	proizvod	n	nt	-	
 произведение	proizvodnja	n	f	-	
+произведение	stvaranje	n	nt	-	
 произвести	proizvesti	v	-	perf	tv
 производительность труда	produktivnost rada	n	f	-	
 производить	proizvoditi	v	-	impf	tv
 производственный	proizveden	adj	-	-	
+производство	produkcija	n	nt	-	
 производство	proizvodnja	n	f	-	
 произнести	izgovoriti	v	-	perf	tv
 произносить	izgovarati	v	-	impf	tv
@@ -8412,7 +8935,9 @@ ru	sr_lat	pos	gender	aspect	notes
 протест	protest	n	m	-	
 против	protiv	pr	-	-	
 против	suprotno	pr	-	-	
+противник	neprijatelj	n	m	-	
 противник	protivnik	n	m	-	
+противник	suparnik	n	m	-	
 противно	protivno	adv	-	-	
 противный	protivan	adj	-	-	
 противоборство	konfrontacija	n	nt	-	
@@ -8459,6 +8984,8 @@ ru	sr_lat	pos	gender	aspect	notes
 прочный	jak	adj	-	-	
 прочь	van	adv	-	-	
 прошедший	prošli	adj	-	-	
+прошение	molba	n	nt	-	
+прошение	prošenje	n	nt	-	
 прошептать	prošaputati	v	-	perf	tv
 прошлой	prošle	adj	f	-	tatoeba:6
 прошлом	godine	adj	m	-	tatoeba:12
@@ -8486,6 +9013,7 @@ ru	sr_lat	pos	gender	aspect	notes
 прятать	kriti	v	-	impf	tv
 прятаться	skriti	v	-	perf	ref
 Псалтырь	Psalmi	n	f	-	
+псевдо-	nadri-	-	-	-	
 псевдоистория	pseud oistorija	n	f	-	
 псевдонаучность	pseudonaučnost	n	f	-	
 псевдоним	pseudonim	n	m	-	
@@ -8496,6 +9024,7 @@ ru	sr_lat	pos	gender	aspect	notes
 психическое состояние	psihičko stanje	adj	nt	-	
 психоактивный	psihoaktivan	adj	-	-	
 психобиология	psihobiologija	n	f	-	
+психоделик	psihodelik	n	m	-	
 психоделический	psihodeličan	adj	-	-	
 психоделический рок	psihodelični rok	adj	m	-	
 психолингвистика	psiholingvistika	n	f	-	
@@ -8625,6 +9154,9 @@ ru	sr_lat	pos	gender	aspect	notes
 радиоактивность	radioaktivnost	n	f	-	
 радиоактивный	radioaktivan	adj	-	-	
 радиобиология	radiobiologija	n	f	-	
+радиоканал	radiokanal	n	m	-	
+радиоприёмник	radio	n	m	-	
+радиоприёмник	radio-prijemnik	n	m	-	
 радоваться	radovati	v	-	impf	ref
 радостно	radosno	adv	-	-	
 радостный	radostan	adj	-	-	
@@ -8705,11 +9237,15 @@ ru	sr_lat	pos	gender	aspect	notes
 разойтись	razići	v	-	perf	ref
 разорвать	otkinuti	v	-	perf	tv
 разочарование	razočarenje	n	nt	-	
+разочарованный	razočaran	v	-	-	
 разочаровать	razočarati	v	-	-	
 разработать	razraditi	v	-	perf	tv
 разработка	razrađivanje	n	nt	-	
 разрешение	dopuštanje	n	nt	-	
 разрешить	dopustiti	v	-	perf	tv
+разрушительный	destruktivan	adj	-	-	
+разрушительный	razoran	adj	-	-	
+разрушительный	uništavajući	adj	-	-	
 разрушить	srušiti	v	-	perf	tv
 разрыв	prekid	n	m	-	
 разрыв шаблона	lom šablona	n	m	-	
@@ -8748,6 +9284,8 @@ ru	sr_lat	pos	gender	aspect	notes
 раскрыть	otvoriti	v	-	perf	tv
 распахнуть	razmirisati?	v	-	perf	tv
 распахнуться	razmirisati	v	-	perf	ref
+распиздяй	raspizdej	n	m	-	
+распиздяй	razgizda	n	m	-	
 расписание	raspored	n	nt	-	
 расписание	spisak	n	nt	-	
 располагать	raspolagati	v	-	impf	iv
@@ -8755,12 +9293,23 @@ ru	sr_lat	pos	gender	aspect	notes
 расположение	raspoloženje	n	nt	-	
 расположить	rasporediti	v	-	perf	tv
 распорядиться	rasporediti	v	-	perf	ref
+распорядок	poredak	n	m	-	
+распорядок	raspored	n	m	-	
+распорядок	režim	n	m	-	
+распоряжаться	naređivati	v	-	impf	
+распоряжаться	rukovoditi	v	-	impf	
+распоряжаться	upravljati	v	-	impf	
+распоряжаться	zapovedati	v	-	impf	
 распоряжение	raspolaganje	n	nt	-	
 распределение	distribucija	n	nt	-	
 распределение	raspodela	n	nt	-	
 распространение	rasprostranjenje	n	nt	-	
 распространить	rasprostranjivati	v	-	impf	tv
 распространяться	rasprostraniti	v	-	perf	ref
+распрямить	ispraviti	v	-	-	
+распрямить	izravnati	v	-	-	
+распрямлять	ispravljati	v	-	impf	
+распрямлять	izravnati	v	-	impf	
 рассвет	rasvjeta	n	f	-	
 рассердиться	razljutiti	v	-	perf	ref
 рассказ	priča	n	f	-	
@@ -8811,6 +9360,8 @@ ru	sr_lat	pos	gender	aspect	notes
 растровой	rasterske	adj	f	-	tatoeba:8
 растровой	razlika	adj	f	-	tatoeba:8
 растровой	vektorske	adj	f	-	tatoeba:8
+расформирование	rasformiranje	n	nt	-	
+расформировать	rasformirati	v	-	-	
 расход	potrošnja	n	f	-	
 расходиться	razilaziti	v	-	impf	ref
 расчет	obračun	n	m	-	
@@ -8872,6 +9423,8 @@ ru	sr_lat	pos	gender	aspect	notes
 резкий	oštar	adj	-	-	
 резко	drsko	adv	-	-	
 результат	rezultat	n	m	-	
+результативность	efikasnost	n	f	-	
+результативность	rezultativnost	n	f	-	
 результаты	rezultati	n	m	-	tatoeba:6
 резьба	navoj	n	f	-	
 резьба	zavojnica	n	f	-	
@@ -8986,6 +9539,7 @@ ru	sr_lat	pos	gender	aspect	notes
 роль	uloga	n	f	-	
 роман	roman	n	m	-	
 ромашка	kamilica	n	f	-	
+ромб	romb	n	m	-	
 роса	rosa	n	f	-	
 роскошный	raskošan	adj	-	-	
 рослый	visok	adj	-	-	
@@ -9027,6 +9581,8 @@ ru	sr_lat	pos	gender	aspect	notes
 рукой	razbiješ	n	f	-	tatoeba:6
 рукой	rukom	n	f	-	tatoeba:8
 рукопись	rukopis	n	f	-	
+рукоприкладство	batinanje	n	nt	-	
+рукоприкладство	tučenje	n	nt	-	
 руль	volan	n	m	-	
 румын	Rumunj	n	m	-	
 руно	rȗno	n	nt	-	
@@ -9117,6 +9673,7 @@ ru	sr_lat	pos	gender	aspect	notes
 самоуверенно	samouvereno	adv	-	-	
 самоучка	samouk	n	m	-	
 самофинансирование	samofinansiranje	n	nt	-	
+сангвиник	sangvinik	n	m	-	
 санитар	sanitar	n	m	-	
 санкт	svet	adj	-	-	
 сантиметр	centimetar	n	m	-	
@@ -9249,6 +9806,7 @@ ru	sr_lat	pos	gender	aspect	notes
 свёртывание	motanje	n	nt	-	
 свёртывание	savijanje	n	nt	-	
 сгореть	izgorjeti	v	-	perf	iv
+сгущённое молоко	kondenzirano mleko	n	nt	-	
 сгущённое молоко	kondenzirano mlijeko	n	nt	-	
 сдавать	davati	v	-	impf	tv
 сдаваться	predati	v	-	perf	ref
@@ -9341,11 +9899,14 @@ ru	sr_lat	pos	gender	aspect	notes
 секретин	sekretin	n	m	-	
 секретный	tajan	adj	-	-	
 секс	seks	n	m	-	
+секс-услуга	seksualna usluga	n	f	-	
 секстант	sekstant	n	m	-	
 сексуальное влечение	seksualna privlačnost	adj	f	-	
 сексуальное насилие	seksualno nasilje	adj	nt	-	
 сексуальность	seksualnost	n	f	-	
+сексуальный	seksi	adj	-	-	
 сексуальный	seksualan	adj	-	-	
+сексуальный партнёр	seksualni partner	adj	m	-	
 секта	sekta	n	f	-	
 сектор	sektor	n	m	-	
 секуляризм	sekularizam	n	m	-	
@@ -9396,6 +9957,8 @@ ru	sr_lat	pos	gender	aspect	notes
 середина	okolina	n	f	-	
 середине	nasred	pr	-	-	
 сержант	narednik	n	m	-	
+сериал	serija	n	m	-	
+серийный убийца	serijski ubica	adj	m	-	
 серия	serija	n	f	-	
 серная кислота	sulfurna kiselina	adj	f	-	
 серная кислота	sumporna kiselina	adj	f	-	
@@ -9452,6 +10015,7 @@ ru	sr_lat	pos	gender	aspect	notes
 симпатичный	simpatičan	adj	-	-	
 симптом	simptom	n	m	-	
 симфония	simfonija	n	f	-	
+синагога	sinagoga	n	f	-	
 Сингапур	Singapur	n	m	-	
 сингл	singlica	n	m	-	
 синекдоха	sinegdoha	n	f	-	
@@ -9470,6 +10034,7 @@ ru	sr_lat	pos	gender	aspect	notes
 сирота	sirotica	n	f	-	
 сирота	siroče	n	nt	-	
 система	sistem	n	f	-	
+ситком	sitkom	n	m	-	
 ситуация	situacija	n	f	-	
 сиять	sijati	v	-	impf	iv
 сказать	gde	v	-	perf	tatoeba:10
@@ -9543,6 +10108,8 @@ ru	sr_lat	pos	gender	aspect	notes
 скрытый	skriven	adj	-	-	
 скрыть	skriti	v	-	perf	tv
 скрыться	skriti	v	-	perf	ref
+скульптор	skulptor	n	m	-	
+скульптор	vajar	n	m	-	
 скумбрия	skuša	n	f	-	
 скучать	dosađivati	v	-	impf	iv
 скучно	dosadno	adv	-	-	
@@ -9551,6 +10118,7 @@ ru	sr_lat	pos	gender	aspect	notes
 слабое взаимодействие	slaba interakcija	adj	f	-	
 слабость	slabost	n	f	-	
 слабоумие	demencija	n	nt	-	
+слабоумный	slabouman	adj	-	-	
 слабый	slab	adj	-	-	
 слава	slava	n	f	-	
 славный	slavan	adj	-	-	
@@ -9753,6 +10321,7 @@ ru	sr_lat	pos	gender	aspect	notes
 совесть	svest	n	f	-	
 совесть	svijest	n	f	-	
 совет	savjet	n	m	-	
+советизация	sovjetizacija	n	f	-	
 советник	savjetnik	n	m	-	
 советовать	savjetovati	v	-	impf	tv
 советолог	sovjetolog	n	m	-	
@@ -9760,6 +10329,10 @@ ru	sr_lat	pos	gender	aspect	notes
 советский	sovjetski	adj	-	-	
 Советский Союз	Sovjetski Savez	adj	m	-	
 совещание	sastanak	n	nt	-	
+совещание	savetovanje	n	nt	-	
+совещание	većanje	n	nt	-	
+совместно	zajednički	adv	-	-	
+совместно	zajedno	adv	-	-	
 совместный	saglasan	adj	-	-	
 современный	savremen	adj	-	-	
 совсем	potpuno	adv	-	-	tatoeba:8
@@ -9843,6 +10416,9 @@ ru	sr_lat	pos	gender	aspect	notes
 соответствующий	odgovarajući	adj	-	-	
 соотечественник	sunarodnik	n	m	-	
 сопереживание	saosećanje	n	nt	-	
+соприкосновение	blizina	n	nt	-	
+соприкосновение	dodir	n	nt	-	
+соприкосновение	kontakt	n	nt	-	
 сопровождать	sprovoditi	v	-	impf	tv
 сопровождаться	sprovoditi	v	-	impf	ref
 сопротивление	suprostavljanje	n	nt	-	
@@ -9861,7 +10437,16 @@ ru	sr_lat	pos	gender	aspect	notes
 соседка	komšinica	n	f	-	
 соседний	susjedni	adj	-	-	
 сослаться	saslati	v	-	perf	ref
+сослуживец	kolega	n	m	-	
+сослуживец	saradnik	n	m	-	
 сосна	bor	n	f	-	
+сосредоточивать	grupisati	v	-	impf	
+сосредоточивать	koncentrisati	v	-	impf	
+сосредоточивать	koncentriše	v	-	impf	
+сосредоточивать	okupljati	v	-	impf	
+сосредоточивать	otelotvoruje	v	-	impf	
+сосредоточивать	usmeravati	v	-	impf	
+сосредоточивать	usredsrediti	v	-	impf	
 состав	sastav	n	m	-	
 состав преступления	sastav zločina	n	m	-	
 составить	sastaviti	v	-	perf	tv
@@ -9874,6 +10459,7 @@ ru	sr_lat	pos	gender	aspect	notes
 сотня	sto	num	-	-	
 сотня	stotina	n	f	-	
 сотрудник	saradnik	n	m	-	
+сотрудничать	sarađivati	v	-	impf	
 сотрудничество	saradnja	n	f	-	
 сохранение	čuvanje	n	nt	-	
 сохранить	sačuvati	v	-	perf	tv
@@ -9910,6 +10496,9 @@ ru	sr_lat	pos	gender	aspect	notes
 спасать	spasiti	v	-	perf	tv
 спасение	spas	n	nt	-	
 спасибо	hvala	n	nt	-	
+спасибо	mnogo	-	-	-	tatoeba:14
+спасибо	puno	-	-	-	tatoeba:8
+спасибо	vam	-	-	-	tatoeba:14
 спасти	spasiti	v	-	perf	tv
 спасть	dana	v	-	perf	tatoeba:6
 спасть	nisam	v	-	perf	tatoeba:6
@@ -9926,6 +10515,7 @@ ru	sr_lat	pos	gender	aspect	notes
 спать	spavaš	v	-	impf	tatoeba:8
 спектакль	predstava	n	m	-	
 спектакль	spektakl	n	m	-	
+спектральный анализ	spektralna analiza	adj	f	-	
 спектрометр	spektrometar	n	m	-	
 спектроскоп	spektroskop	n	m	-	
 спектроскопия	spektroskopija	n	f	-	
@@ -10006,6 +10596,8 @@ ru	sr_lat	pos	gender	aspect	notes
 средний	srednji	adj	-	-	
 средний палец	srednji prst	adj	m	-	
 средство	sredstvo	n	nt	-	
+средство массовой информации	medij	n	m	-	
+средство массовой информации	sredstvo masovnog informisanja	n	nt	-	
 средство передвижения	sredstvo za prevoz	n	nt	-	
 срок	rok	n	m	-	
 срочно	hitno	adv	-	-	
@@ -10063,17 +10655,20 @@ ru	sr_lat	pos	gender	aspect	notes
 стекло	srča	n	nt	-	
 стекло	staklo	n	nt	-	
 стеклянный	staklen	adj	-	-	
+стена	stena	n	f	-	
 стена	stijena	n	f	-	
 стене	zidu	n	f	-	tatoeba:6
 стенка	zid	n	f	-	
 стенографировать	stenografirati	v	-	-	
 степень	stepen	n	f	-	
 степь	stepa	n	f	-	
+стереотип	stereotip	n	m	-	
 стерилизация	sterilizacija	n	f	-	
 Стерлитамак	Sterlitamak	n	m	-	
 стесняться	stiditi	v	-	impf	ref
 стечение обстоятельств	splet okolnosti	n	m	-	
 стиль	stil	n	m	-	
+стипендия	stipendija	n	f	-	
 стихи	stih	n	m	-	
 стихийное бедствие	prirodna katastrofa	adj	f	-	
 стихосложение	stihotvorstvo	n	nt	-	
@@ -10155,14 +10750,22 @@ ru	sr_lat	pos	gender	aspect	notes
 стратификация	stratifikacija	n	f	-	
 стратопауза	stratopauza	n	f	-	
 страх	straža	n	f	-	
+страхование	osiguranje	n	nt	-	
+страховой полис	polisa osiguranja	adj	f	-	
 страшно	strašno	adv	-	-	
 страшный	strašan	adj	-	-	
 стрела	strela	n	f	-	
 стрела	strijela	n	f	-	
 стрела	strjelica	n	f	-	
+стрелок	pešadinac	n	m	-	
 стрелок	strelac	n	m	-	
 стрелок	strijelac	n	m	-	
+стрельба	pucanj	n	f	-	
+стрельба	pucanje	n	f	-	
+стрельба	pucnjava	n	f	-	
 стрельба	streljanje	n	nt	-	
+стрельба	streljački sport	n	f	-	
+стрельба	streljaštvo	n	f	-	
 стрелять	streljati	v	-	both	tv
 стрелять	strijeljati	v	-	both	tv
 стремительно	brzo	adv	-	-	
@@ -10188,6 +10791,7 @@ ru	sr_lat	pos	gender	aspect	notes
 струп	krasta	n	m	-	
 струя	mlaz	n	f	-	
 студент	student	n	m	-	
+студентка	studentica	n	f	-	
 студентка	studentkinja	n	f	-	tatoeba:10
 студенты	studenti	n	m	-	tatoeba:8
 студенческий	studentski	adj	-	-	
@@ -10210,6 +10814,7 @@ ru	sr_lat	pos	gender	aspect	notes
 субкультура	supkultura	n	f	-	
 субординация	potčinjenost	n	f	-	
 субординация	subordinacija	n	f	-	
+субтропический	suptropski	adj	-	-	
 субъективное право	subjektivno pravo	adj	nt	-	
 суд	sud	n	m	-	
 судебно-медицинская экспертиза	sudsko-medicinska veštaka	adj	f	-	
@@ -10227,6 +10832,9 @@ ru	sr_lat	pos	gender	aspect	notes
 судьбу	sudbinu	n	f	-	tatoeba:6
 судья	sudija	n	m	-	
 суета	sujeta	n	f	-	
+суетливый	frke	adj	-	-	
+суетливый	nervozan	adj	-	-	
+суетливый	uznemiren	adj	-	-	
 суицидология	suicidologija	n	f	-	
 сук	grana	n	f	-	
 сукноделие	suknarstvo	n	nt	-	
@@ -10422,6 +11030,8 @@ ru	sr_lat	pos	gender	aspect	notes
 твоём	ljudi	adj	m	-	tatoeba:6
 твоём	tvom	adj	m	-	tatoeba:8
 театр	pozorište	n	nt	-	
+театр теней	pozorište senki	n	nt	-	
+театр теней	teatar senki	n	m	-	
 театральный	teatralan	adj	-	-	
 театроведение	pozorišna nauka	n	nt	-	
 театроведение	teatologija	n	nt	-	
@@ -10444,7 +11054,13 @@ ru	sr_lat	pos	gender	aspect	notes
 телеграмма	telegram	n	f	-	
 телеметрия	telemetrija	n	f	-	
 телепортация	teleportacija	n	f	-	
+телесериал	serija	n	m	-	
+телесериал	televizijska serija	n	m	-	
 телескоп	teleskop	n	m	-	
+телесуфлёр	teleprompter	n	m	-	
+телесуфлёр	telesufler	n	m	-	
+телетрансляция	teletranslacija	n	f	-	
+телетрансляция	televizijski prenos	n	f	-	
 телефон	nije	n	m	-	tatoeba:8
 телефон	prestao	n	m	-	tatoeba:6
 телефон	telefon	n	m	-	
@@ -10619,6 +11235,8 @@ ru	sr_lat	pos	gender	aspect	notes
 тоталитарный	totalitaran	adj	-	-	
 тотчас	danas	adv	-	-	
 точка	tačka	n	f	-	
+точка зрения	gledište	n	nt	-	
+точка зрения	tačka gledišta	n	f	-	
 точно	tačno	adv	-	-	
 точность	tačnost	n	f	-	
 точный	tačan	adj	-	-	
@@ -10637,6 +11255,7 @@ ru	sr_lat	pos	gender	aspect	notes
 трампономика	tramponomika	n	f	-	
 транзистор	transistor	n	m	-	
 транс	trance	n	m	-	
+трансгуманизм	transhumanizam	n	m	-	
 трансконтинентальный	transkontinentalan	adj	-	-	
 транспорт	transport	n	m	-	
 транспортное средство	vozilo	adj	nt	-	
@@ -10657,6 +11276,9 @@ ru	sr_lat	pos	gender	aspect	notes
 тревожный	zabrinut	adj	-	-	
 трезвый	trezan	adj	-	-	
 трезвый	trijezan	adj	-	-	
+тренировка	trening	n	f	-	
+тренировка	treniranje	n	f	-	
+тренировка	vežba	n	f	-	
 треск	pukotina	n	f	-	
 треска	bakalar	n	f	-	
 трест	trust	n	m	-	
@@ -10755,6 +11377,8 @@ ru	sr_lat	pos	gender	aspect	notes
 тщательно	temeljno	adv	-	-	
 тщеславный	tašt	adj	-	-	
 тщеславный	umišljen	adj	-	-	
+тщетный	jalov	adj	-	-	
+тщетный	uzaludan	adj	-	-	
 тыква	tikva	n	f	-	
 тыл	zad	n	m	-	
 тьма	mrak	n	f	-	
@@ -10766,6 +11390,13 @@ ru	sr_lat	pos	gender	aspect	notes
 тюремный	zatvorski	adj	-	-	
 тюрьма	zatvor	n	f	-	
 тяжело	teško	adv	-	-	
+тяжеловесный	iznad norme	adj	-	-	
+тяжеловесный	krupan	adj	-	-	
+тяжеловесный	masivan	adj	-	-	
+тяжеловесный	nezgrapan	adj	-	-	
+тяжеловесный	preopterećen	adj	-	-	
+тяжеловесный	teško natovaren	adj	-	-	
+тяжеловесный	težak	adj	-	-	
 тяжелый	težak	adj	-	-	
 тяжесть	težina	n	f	-	
 тяжкий	težak	adj	-	-	
@@ -10827,6 +11458,9 @@ ru	sr_lat	pos	gender	aspect	notes
 угадать	pogoditi	v	-	perf	tv
 угасание	gašenje	n	nt	-	
 углерод	ugljenik	n	m	-	
+углубление	produbljivanje	n	nt	-	
+углубление	udubljenje	n	nt	-	
+углубление	uvala	n	nt	-	
 уговаривать	ugovarati	v	-	perf	tv
 уговорить	ugovoriti	v	-	perf	tv
 угодить	goditi	v	-	impf	tv
@@ -10913,6 +11547,12 @@ ru	sr_lat	pos	gender	aspect	notes
 украсть	neko	v	-	perf	tatoeba:6
 украсть	ukrao	v	-	perf	tatoeba:8
 украсть	ukrasti	v	-	perf	tv
+укротитель	krotitelj	n	m	-	
+укротитель	ukrotitelj	n	m	-	
+укротить	obuzdati	v	-	-	
+укротить	pripitomiti	v	-	-	
+укротить	smiriti	v	-	-	
+укротить	ukrotiti	v	-	-	
 уксус	sirće	n	m	-	
 улан	ulan	n	m	-	
 Улан-Удэ	Ulan-Ude	n	m	-	
@@ -10933,6 +11573,8 @@ ru	sr_lat	pos	gender	aspect	notes
 Ульяновская область	Uljanovska oblast	adj	f	-	
 ум	razum	n	m	-	
 ум	um	n	m	-	
+умалчивать	prećutati	v	-	impf	
+умалчивать	zatajivati	v	-	impf	
 умение	umeće	n	nt	-	
 умереть	roditelji	v	-	perf	tatoeba:8
 умереть	umreti	v	-	perf	iv
@@ -10969,6 +11611,7 @@ ru	sr_lat	pos	gender	aspect	notes
 униженность	poniženost	n	f	-	
 униженность	uniženost	n	f	-	
 уникальный	unikatan	adj	-	-	
+унитаз	WC šolja	n	m	-	
 уничтожать	uništavati	v	-	impf	tv
 уничтожение	uništavanje	n	nt	-	
 уничтожить	uništiti	v	-	perf	tv
@@ -11096,7 +11739,11 @@ ru	sr_lat	pos	gender	aspect	notes
 учебник	udžbenik	n	m	-	
 учебное заведение	obrazovna ustanova	adj	f	-	
 учебный	učen	adj	-	-	
+учение	doktrina	n	nt	-	
+учение	obrazovanje	n	nt	-	
+учение	podučavanje	n	nt	-	
 учение	učenje	n	nt	-	
+учение	versko učenje	n	nt	-	
 ученик	učenik	n	m	-	
 ученый	učen	adj	-	-	
 учесть	uračunati	v	-	perf	tv
@@ -11129,6 +11776,7 @@ ru	sr_lat	pos	gender	aspect	notes
 уши	zašto	n	nt	-	tatoeba:6
 уши	zečevi	n	nt	-	tatoeba:6
 ущелье	kanjon	n	nt	-	
+ущелье	klisura	n	nt	-	
 Уэльс	Vels	n	m	-	
 уютный	prijatan	adj	-	-	
 уютный	udoban	adj	-	-	
@@ -11147,6 +11795,7 @@ ru	sr_lat	pos	gender	aspect	notes
 фальсификация	krivotvorenje	n	f	-	
 фальшивый	lažni	adj	-	-	
 фамилия	porodica	n	f	-	
+фамильярность	familijarnost	n	f	-	
 фанатичность	fanatizam	n	f	-	
 фанатичность	fanatičnost	n	f	-	
 фантазировать	fantazirati	v	-	impf	
@@ -11161,9 +11810,11 @@ ru	sr_lat	pos	gender	aspect	notes
 федеральный	federalan	adj	-	-	
 Федеративная Республика Германия	Savezna Republika Njemačka	adj	f	-	
 федерация	federacija	n	f	-	
+фелляция	felacio	n	f	-	
 феминистка	feministkinja	n	f	-	
 фенобарбитал	fenobarbital	n	m	-	
 фенхель	komorač	n	m	-	
+феодал	feudalac	n	m	-	
 феодализм	feudalizam	n	m	-	
 ферромарганец	feromangan	n	m	-	
 фертильность	fertilitet	n	f	-	
@@ -11210,6 +11861,7 @@ ru	sr_lat	pos	gender	aspect	notes
 фильм	veoma	n	m	-	tatoeba:6
 финансирование	finansiranje	n	nt	-	
 финансовый	finansijski	adj	-	-	
+финансовый инструмент	finansijski instrument	adj	m	-	
 финансовый менеджмент	finansijski menadžment	adj	m	-	
 финвал	kit perajar	n	m	-	
 финик	dàtulja	n	m	-	
@@ -11224,6 +11876,7 @@ ru	sr_lat	pos	gender	aspect	notes
 фитохимия	fitohemija	n	f	-	
 флаг	zastava	n	f	-	
 фламинго	flamingo	n	m	-	
+флегматик	flegmatik	n	m	-	
 флейта	flauta	n	f	-	
 флирт	flert	n	m	-	
 флирт	flertovanje	n	m	-	
@@ -11233,6 +11886,11 @@ ru	sr_lat	pos	gender	aspect	notes
 флуоресценция	fluorescencija	n	f	-	
 фобофобия	fobofobija	n	f	-	
 фокус	fokus	n	m	-	
+фокусировать	fokusirati	v	-	impf	
+фокусировать	izoštravati	v	-	impf	
+фокусировать	koncentrisati	v	-	impf	
+фокусировать	usredsrediti	v	-	impf	
+фолиевая кислота	folna kiselina	adj	f	-	
 фон	pozadina	n	f	-	
 фонарик	baterijska lampa	n	f	-	
 фонарь	fenjer	n	m	-	
@@ -11296,6 +11954,8 @@ ru	sr_lat	pos	gender	aspect	notes
 фундаментальное взаимодействие	fundamentalna interakcija	adj	f	-	
 функциональная группа	funkcionalna grupa	adj	f	-	
 функция	funkcija	n	f	-	
+фураж	krma	n	m	-	
+фураж	stočna hrana	n	m	-	
 фуражка	poklopac	n	f	-	
 футбол	fudbal	n	m	-	
 футбол	nismo	n	m	-	tatoeba:6
@@ -11319,12 +11979,17 @@ ru	sr_lat	pos	gender	aspect	notes
 халва	alva	n	f	-	
 халва	halva	n	f	-	
 халва	tahan halva	n	f	-	
+хамить	bezobraziti se	v	-	impf	
+хамить	drzničiti	v	-	impf	
 хаос	haos	n	m	-	
 характер	karakter	n	m	-	
 характеристика	karakteristika	n	f	-	
 характерный	karakteran	adj	-	-	
 Хасавюрт	Hasavjurt	n	m	-	
 хата	koliba	n	f	-	
+хаять	blatiti	v	-	impf	
+хаять	kuditi	v	-	impf	
+хаять	ocrnjivati	v	-	impf	
 хватать	nedostajati	v	-	impf	iv
 хватать	nedostaje	v	-	impf	tatoeba:6
 хватить	hvatati	v	-	impf	tv
@@ -11341,6 +12006,7 @@ ru	sr_lat	pos	gender	aspect	notes
 хинди	hindi	n	m	-	
 Хиросима	Hirošima	n	f	-	
 хирург	hirurg	n	m	-	
+хирургический	hirurški	adj	-	-	
 хитин	hitin	n	m	-	
 хитиновый	hitinski	adj	-	-	
 хитрый	snalažljiv	adj	-	-	
@@ -11352,6 +12018,7 @@ ru	sr_lat	pos	gender	aspect	notes
 хлопнуть	pući	v	-	perf	iv
 хлопок	pamuk	n	m	-	
 хлорвинил	vinil hlorid	n	m	-	
+хлороформ	hloroform	n	m	-	
 хлортетрациклин	hlortetraciklin	n	m	-	
 хобби	hobi	n	nt	-	
 хоббит	hobit	n	m	-	
@@ -11367,6 +12034,7 @@ ru	sr_lat	pos	gender	aspect	notes
 хозяйство	gazdinstvo	n	nt	-	
 хоккей	hokej	n	m	-	
 хоккей	igram	n	m	-	tatoeba:10
+холерик	kolerik	n	m	-	
 холл	hol	n	m	-	
 холм	brdo	n	nt	-	
 холод	hladnoća	n	f	-	
@@ -11441,6 +12109,7 @@ ru	sr_lat	pos	gender	aspect	notes
 хрен	hren	n	m	-	
 хрен	ren	n	m	-	
 христадельфианин	kristadelfijan	n	m	-	
+христианин	hrišćanin	n	m	-	
 христианство	hrišćanstvo	n	nt	-	
 христианство	kršćanstvo	n	nt	-	
 Христос	Hrist	n	m	-	
@@ -11448,6 +12117,7 @@ ru	sr_lat	pos	gender	aspect	notes
 хронист	hroničar	n	m	-	
 хронический	hroničan	adj	-	-	
 хронография	hronografija	n	f	-	
+хрюкать	groktati	v	-	impf	
 Хубэй	Hubei	n	f	-	
 Хубэй	Hubej	n	f	-	
 худо	mršavko	n	nt	-	
@@ -11498,6 +12168,7 @@ ru	sr_lat	pos	gender	aspect	notes
 цена	cijena	n	f	-	
 цензор	cenzor	n	m	-	
 ценить	ceniti	v	-	perf	tv
+ценность	dragocenost	n	f	-	
 ценность	vrednost	n	f	-	
 ценность	vrijednost	n	f	-	
 ценный	cenjen	adj	-	-	
@@ -11575,6 +12246,10 @@ ru	sr_lat	pos	gender	aspect	notes
 человек человеку волк	čovek čoveku vuk	n	m	-	
 человека	čoveka	n	m	-	tatoeba:6
 человеком	čovek	n	m	-	tatoeba:6
+человекообразный	humanoidan	adj	-	-	
+человекообразный	čovekolik	adj	-	-	
+человекоподобный	antropomorfan	adj	-	-	
+человекоподобный	čovekolik	adj	-	-	
 человечек	čovječuljak	n	m	-	
 человеческий	ljudski	adj	-	-	
 человечество	ljudstvo	n	nt	-	
@@ -11602,6 +12277,7 @@ ru	sr_lat	pos	gender	aspect	notes
 череп	lobanja	n	f	-	
 черепаха	kornjača	n	f	-	
 Череповец	Čerepovec	n	m	-	
+черноглазый	crnook	adj	-	-	
 Черногория	Crna Gora	n	f	-	
 черный	crn	adj	-	-	
 черный	crni	n	m	-	
@@ -11611,6 +12287,10 @@ ru	sr_lat	pos	gender	aspect	notes
 Чеслав	Časlav	n	m	-	
 чеснок	beli luk	n	m	-	
 чеснок	češnjak	n	m	-	
+чествование	proslavljanje	n	nt	-	
+чествование	ukazivanje počasti	n	nt	-	
+чествовать	proslavljati	v	-	impf	
+чествовать	ukazivati čast	v	-	impf	
 честно	časno	adv	-	-	
 честной	pošten	adj	-	-	
 честь	čast	n	f	-	
@@ -11712,6 +12392,7 @@ ru	sr_lat	pos	gender	aspect	notes
 шафран	šafran	n	m	-	
 шахта	šaht	n	f	-	
 Шахты	Šahti	n	-	-	
+швейная машина	šivaća mašina	adj	f	-	
 швырнуть	pobjeći	v	-	perf	iv
 шевелить	pomjeriti	v	-	perf	tv
 шевелиться	mrdati	v	-	impf	ref
@@ -11737,6 +12418,7 @@ ru	sr_lat	pos	gender	aspect	notes
 широкий	širok	adj	-	-	
 широко	široko	adv	-	-	
 шифрование	enkripcija	n	nt	-	
+шкаф	orman	n	m	-	
 шкаф	ormar	n	m	-	
 школа	škola	n	f	-	
 школе	škola	n	f	-	tatoeba:8
@@ -11799,6 +12481,7 @@ ru	sr_lat	pos	gender	aspect	notes
 шхуна	škuna	n	f	-	
 щебетание	cvrkut	n	nt	-	
 щебетание	cvrkutanje	n	nt	-	
+щебетать	cvrkutati	v	-	impf	
 щегол	češljugar	n	m	-	
 щегол	štiglic	n	m	-	
 щека	obraz	n	f	-	
@@ -11928,6 +12611,9 @@ ru	sr_lat	pos	gender	aspect	notes
 эпоха	epoha	n	f	-	
 Эрато	Erato	n	f	-	
 эркер	erker	n	m	-	
+эротика	erotika	n	f	-	
+эротика	erotizam	n	f	-	
+эротичный	erotičan	adj	-	-	
 эрцгерцог	nadvojvoda	n	m	-	
 эсперанто	esperanto	n	nt	-	
 эсперанто	govori	n	m	-	tatoeba:6
@@ -11949,6 +12635,7 @@ ru	sr_lat	pos	gender	aspect	notes
 это я	to sam ja	part	-	-	
 этология	etologija	n	f	-	
 этот	taj	adj	m	-	
+этрусский язык	etrurski jezik	adj	m	-	
 эту	knjigu	adj	f	-	tatoeba:24
 эту	ko	adj	f	-	tatoeba:6
 эту	napisao	adj	f	-	tatoeba:8
@@ -11996,12 +12683,16 @@ ru	sr_lat	pos	gender	aspect	notes
 юридическая сила	pravna snaga	adj	f	-	
 юридический	pravni	adj	-	-	
 юридическое лицо	pravno lice	adj	nt	-	
+юрисдикция	jurisdikcija	n	f	-	
+юрисдикция	nadležnost	n	f	-	
 юриспруденция	jurisprudencija	n	f	-	
 юриспруденция	pravna nauka	n	f	-	
 юрский	jurski	adj	-	-	
 юрта	jurt	n	f	-	
 юрта	jurta	n	f	-	
 Юта	Juta	n	f	-	
+ютубер	jutiuber	n	m	-	
+ютубер	jutiuberka	n	m	-	
 я	ja	n	-	-	
 ябеда	dostavljač	n	-	-	
 ябеда	doušnik	n	-	-	
@@ -12135,9 +12826,3 @@ ru	sr_lat	pos	gender	aspect	notes
 ёж	jež	n	m	-	
 ёж	jež-frizura	n	m	-	
 ёж	protivtenkovski jež	n	m	-	
-белый	bel	adj	-	-	
-гроб	les	n	m	-	
-корень	koren	n	m	-	
-неценовая конкуренция	necenovna konkurencija	adj	f	-	
-сгущённое молоко	kondenzirano mleko	n	nt	-	
-стена	stena	n	f	-	
